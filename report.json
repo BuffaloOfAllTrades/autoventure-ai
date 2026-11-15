@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T15:59:39.243651+00:00",
+  "updated_at": "2026-11-15T16:24:57.962458+00:00",
   "posts": [
     {
       "title": "Ask HN: Dropbox privacy policy, cause for concern?",
@@ -12,14 +12,14 @@
       "score": 15
     },
     {
-      "title": "Anthropic, can you please make up your mind with your models?",
-      "url": "https://news.ycombinator.com/item?id=50504061",
-      "score": 5
-    },
-    {
       "title": "Tell HN: Google Search to start locking down search behind a login wall",
       "url": "https://news.ycombinator.com/item?id=50491617",
       "score": 44
+    },
+    {
+      "title": "Anthropic, can you please make up your mind with your models?",
+      "url": "https://news.ycombinator.com/item?id=50504061",
+      "score": 5
     },
     {
       "title": "Ask HN: What are you working on? (November 2026)",
@@ -84,12 +84,12 @@
     {
       "title": "Ask HN: OpenAI Astra post-launch slump?",
       "url": "https://news.ycombinator.com/item?id=50493498",
-      "score": 3
+      "score": 4
     },
     {
       "title": "Ask HN: Do you see a human written book more valuable than an AI written one?",
       "url": "https://news.ycombinator.com/item?id=50481227",
-      "score": 9
+      "score": 10
     },
     {
       "title": "Google search hides Nvidia stock graph",
@@ -97,14 +97,14 @@
       "score": 14
     },
     {
-      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
-      "url": "https://news.ycombinator.com/item?id=50484421",
-      "score": 174
-    },
-    {
       "title": "Ask HN: Why use Jev/decision models at all?",
       "url": "https://news.ycombinator.com/item?id=50470591",
       "score": 10
+    },
+    {
+      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+      "url": "https://news.ycombinator.com/item?id=50484421",
+      "score": 175
     }
   ]
 }
