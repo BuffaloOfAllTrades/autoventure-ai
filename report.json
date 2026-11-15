@@ -1,20 +1,25 @@
 {
-  "updated_at": "2026-11-15T16:38:19.460979+00:00",
+  "updated_at": "2026-11-15T23:13:40.084288+00:00",
   "posts": [
+    {
+      "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
+      "url": "https://news.ycombinator.com/item?id=50510042",
+      "score": 59
+    },
+    {
+      "title": "Ask HN: What do coding interviews look like in the age of AI?",
+      "url": "https://news.ycombinator.com/item?id=50510540",
+      "score": 7
+    },
     {
       "title": "Ask HN: What does building hardware with AI look like?",
       "url": "https://news.ycombinator.com/item?id=50508089",
-      "score": 2
+      "score": 5
     },
     {
-      "title": "Ask HN: Which open source LLM works best locally, and on what hardware?",
-      "url": "https://news.ycombinator.com/item?id=50508142",
-      "score": 3
-    },
-    {
-      "title": "Ask HN: Dropbox privacy policy, cause for concern?",
-      "url": "https://news.ycombinator.com/item?id=50504514",
-      "score": 10
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "score": 303
     },
     {
       "title": "Vercel should fork and maintain Deno",
@@ -27,24 +32,24 @@
       "score": 44
     },
     {
+      "title": "Ask HN: What is the state of self-hosting email in 2026?",
+      "url": "https://news.ycombinator.com/item?id=50488230",
+      "score": 44
+    },
+    {
+      "title": "Ask HN: Dropbox privacy policy, cause for concern?",
+      "url": "https://news.ycombinator.com/item?id=50504514",
+      "score": 10
+    },
+    {
+      "title": "Ask HN: Which open source LLM works best locally, and on what hardware?",
+      "url": "https://news.ycombinator.com/item?id=50508142",
+      "score": 4
+    },
+    {
       "title": "Anthropic, can you please make up your mind with your models?",
       "url": "https://news.ycombinator.com/item?id=50504061",
       "score": 5
-    },
-    {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407",
-      "score": 303
-    },
-    {
-      "title": "Ask HN: What is the state of self-hosting email in 2026?",
-      "url": "https://news.ycombinator.com/item?id=50488230",
-      "score": 43
-    },
-    {
-      "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
-      "url": "https://news.ycombinator.com/item?id=50503017",
-      "score": 3
     },
     {
       "title": "Tell HN: Cloudflare's abuse report form is a blank page",
@@ -57,14 +62,14 @@
       "score": 221
     },
     {
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "url": "https://news.ycombinator.com/item?id=50494696",
-      "score": 87
+      "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
+      "url": "https://news.ycombinator.com/item?id=50503017",
+      "score": 3
     },
     {
-      "title": "Ask HN: Best books you read in 2026?",
-      "url": "https://news.ycombinator.com/item?id=50501990",
-      "score": 11
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "url": "https://news.ycombinator.com/item?id=50494696",
+      "score": 88
     },
     {
       "title": "Ask HN: Do you still enjoy coding in C++?",
@@ -72,14 +77,24 @@
       "score": 66
     },
     {
-      "title": "Using LLMs outside of reflection is an anti-pattern",
-      "url": "https://news.ycombinator.com/item?id=50489240",
-      "score": 4
+      "title": "Ask HN: Best books you read in 2026?",
+      "url": "https://news.ycombinator.com/item?id=50501990",
+      "score": 13
     },
     {
       "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
       "url": "https://news.ycombinator.com/item?id=50405250",
       "score": 102
+    },
+    {
+      "title": "Ask HN: Do you see a human written book more valuable than an AI written one?",
+      "url": "https://news.ycombinator.com/item?id=50481227",
+      "score": 11
+    },
+    {
+      "title": "Using LLMs outside of reflection is an anti-pattern",
+      "url": "https://news.ycombinator.com/item?id=50489240",
+      "score": 4
     },
     {
       "title": "Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas",
@@ -95,26 +110,6 @@
       "title": "Ask HN: OpenAI Astra post-launch slump?",
       "url": "https://news.ycombinator.com/item?id=50493498",
       "score": 4
-    },
-    {
-      "title": "Ask HN: Do you see a human written book more valuable than an AI written one?",
-      "url": "https://news.ycombinator.com/item?id=50481227",
-      "score": 10
-    },
-    {
-      "title": "Google search hides Nvidia stock graph",
-      "url": "https://news.ycombinator.com/item?id=50478730",
-      "score": 14
-    },
-    {
-      "title": "Ask HN: Why use Jev/decision models at all?",
-      "url": "https://news.ycombinator.com/item?id=50470591",
-      "score": 10
-    },
-    {
-      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
-      "url": "https://news.ycombinator.com/item?id=50484421",
-      "score": 175
     }
   ]
 }
