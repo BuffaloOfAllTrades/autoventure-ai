@@ -33,20 +33,29 @@ def analyze_post(post):
         if hits:
             matched[category] = hits
 
+    problem_hits = len(matched.get("困りごと", []))
+    solution_hits = len(matched.get("解決策の探索", []))
+    payment_hits = len(matched.get("支払い・購入意欲", []))
+
     score = min(
         100,
-        len(matched.get("困りごと", [])) * 20
-        + len(matched.get("解決策の探索", [])) * 15
-        + len(matched.get("支払い・購入意欲", [])) * 25
-        + min(post.get("score", 0), 30)
+        problem_hits * 20
+        + solution_hits * 15
+        + payment_hits * 25
     )
+
 
     return {
         "title": title,
         "url": post.get("url", ""),
         "score": score,
         "signals": matched,
-        "potential_opportunity": score >= 30
+        
+        "potential_opportunity": (
+            score >= 30
+            and (problem_hits > 0 or solution_hits > 0)
+        )
+
     }
 
 def main():
