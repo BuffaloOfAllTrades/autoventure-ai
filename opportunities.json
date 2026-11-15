@@ -1,0 +1,225 @@
+{
+  "analyzed_at": "2026-11-15T16:38:19.499363+00:00",
+  "total_posts": 23,
+  "opportunities": [
+    {
+      "title": "Tell HN: Google Search to start locking down search behind a login wall",
+      "url": "https://news.ycombinator.com/item?id=50491617",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Ask HN: What is the state of self-hosting email in 2026?",
+      "url": "https://news.ycombinator.com/item?id=50488230",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "url": "https://news.ycombinator.com/item?id=50494696",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Ask HN: Do you still enjoy coding in C++?",
+      "url": "https://news.ycombinator.com/item?id=50423371",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "url": "https://news.ycombinator.com/item?id=50405250",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+      "url": "https://news.ycombinator.com/item?id=50484421",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    }
+  ],
+  "all_results": [
+    {
+      "title": "Tell HN: Google Search to start locking down search behind a login wall",
+      "url": "https://news.ycombinator.com/item?id=50491617",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Ask HN: What is the state of self-hosting email in 2026?",
+      "url": "https://news.ycombinator.com/item?id=50488230",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "url": "https://news.ycombinator.com/item?id=50494696",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Ask HN: Do you still enjoy coding in C++?",
+      "url": "https://news.ycombinator.com/item?id=50423371",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "url": "https://news.ycombinator.com/item?id=50405250",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years",
+      "url": "https://news.ycombinator.com/item?id=50484421",
+      "score": 30,
+      "signals": {},
+      "potential_opportunity": true
+    },
+    {
+      "title": "Tell HN: Cloudflare's abuse report form is a blank page",
+      "url": "https://news.ycombinator.com/item?id=50491285",
+      "score": 17,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Vercel should fork and maintain Deno",
+      "url": "https://news.ycombinator.com/item?id=50497196",
+      "score": 15,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas",
+      "url": "https://news.ycombinator.com/item?id=50472411",
+      "score": 14,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Google search hides Nvidia stock graph",
+      "url": "https://news.ycombinator.com/item?id=50478730",
+      "score": 14,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Ask HN: Best books you read in 2026?",
+      "url": "https://news.ycombinator.com/item?id=50501990",
+      "score": 11,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Ask HN: Dropbox privacy policy, cause for concern?",
+      "url": "https://news.ycombinator.com/item?id=50504514",
+      "score": 10,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Ask HN: Do you see a human written book more valuable than an AI written one?",
+      "url": "https://news.ycombinator.com/item?id=50481227",
+      "score": 10,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Ask HN: Why use Jev/decision models at all?",
+      "url": "https://news.ycombinator.com/item?id=50470591",
+      "score": 10,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Anthropic, can you please make up your mind with your models?",
+      "url": "https://news.ycombinator.com/item?id=50504061",
+      "score": 5,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Using LLMs outside of reflection is an anti-pattern",
+      "url": "https://news.ycombinator.com/item?id=50489240",
+      "score": 4,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Ask HN: What use are the non-major cryptocurrencies?",
+      "url": "https://news.ycombinator.com/item?id=50493695",
+      "score": 4,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Ask HN: OpenAI Astra post-launch slump?",
+      "url": "https://news.ycombinator.com/item?id=50493498",
+      "score": 4,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Ask HN: Which open source LLM works best locally, and on what hardware?",
+      "url": "https://news.ycombinator.com/item?id=50508142",
+      "score": 3,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
+      "url": "https://news.ycombinator.com/item?id=50503017",
+      "score": 3,
+      "signals": {},
+      "potential_opportunity": false
+    },
+    {
+      "title": "Ask HN: What does building hardware with AI look like?",
+      "url": "https://news.ycombinator.com/item?id=50508089",
+      "score": 2,
+      "signals": {},
+      "potential_opportunity": false
+    }
+  ]
+}

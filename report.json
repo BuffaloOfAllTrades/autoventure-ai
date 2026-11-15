@@ -1,6 +1,16 @@
 {
-  "updated_at": "2026-11-15T16:24:57.962458+00:00",
+  "updated_at": "2026-11-15T16:38:19.460979+00:00",
   "posts": [
+    {
+      "title": "Ask HN: What does building hardware with AI look like?",
+      "url": "https://news.ycombinator.com/item?id=50508089",
+      "score": 2
+    },
+    {
+      "title": "Ask HN: Which open source LLM works best locally, and on what hardware?",
+      "url": "https://news.ycombinator.com/item?id=50508142",
+      "score": 3
+    },
     {
       "title": "Ask HN: Dropbox privacy policy, cause for concern?",
       "url": "https://news.ycombinator.com/item?id=50504514",
@@ -72,14 +82,14 @@
       "score": 102
     },
     {
-      "title": "Ask HN: What use are the non-major cryptocurrencies?",
-      "url": "https://news.ycombinator.com/item?id=50493695",
-      "score": 4
-    },
-    {
       "title": "Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas",
       "url": "https://news.ycombinator.com/item?id=50472411",
       "score": 14
+    },
+    {
+      "title": "Ask HN: What use are the non-major cryptocurrencies?",
+      "url": "https://news.ycombinator.com/item?id=50493695",
+      "score": 4
     },
     {
       "title": "Ask HN: OpenAI Astra post-launch slump?",
