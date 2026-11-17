@@ -1,21 +1,70 @@
 {
-  "analyzed_at": "2026-11-16T02:29:04.396049+00:00",
-  "total_posts": 20,
+  "analyzed_at": "2026-11-17T02:26:24.775645+00:00",
+  "total_posts": 21,
   "opportunities": [],
   "all_results": [
     {
-      "title": "Ask HN: What does building hardware with AI look like?",
-      "url": "https://news.ycombinator.com/item?id=50508089",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
       "title": "Ask HN: What do coding interviews look like in the age of AI?",
       "url": "https://news.ycombinator.com/item?id=50510540",
+      "score": 22,
+      "signals": {
+        "problem": [
+          "tedious"
+        ],
+        "solution_search": [
+          "looking for"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Anthropic, can you please make up your mind with your models?",
+      "url": "https://news.ycombinator.com/item?id=50504061",
+      "score": 20,
+      "signals": {
+        "payment": [
+          "subscription"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "url": "https://news.ycombinator.com/item?id=50405250",
+      "score": 12,
+      "signals": {
+        "problem": [
+          "hard to"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Vercel should fork and maintain Deno",
+      "url": "https://news.ycombinator.com/item?id=50497196",
+      "score": 10,
+      "signals": {
+        "solution_search": [
+          "looking for"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Claude Is Always Right",
+      "url": "https://news.ycombinator.com/item?id=50526330",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -24,18 +73,78 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
-      "url": "https://news.ycombinator.com/item?id=50510042",
+      "title": "Ask HN: What do you think is going on with that many outages coming in a row?",
+      "url": "https://news.ycombinator.com/item?id=50525469",
       "score": 0,
       "signals": {},
       "context_signals": [],
       "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Are iPhone Duo Customers Happy?",
+      "url": "https://news.ycombinator.com/item?id=50522639",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: How to bring traffic to new product with out social media presence",
+      "url": "https://news.ycombinator.com/item?id=50520644",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Is the Economy Over-Indexed to Software?",
+      "url": "https://news.ycombinator.com/item?id=50521585",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Most compelling early stage fund pitches?",
+      "url": "https://news.ycombinator.com/item?id=50520408",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "url": "https://news.ycombinator.com/item?id=50513451",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": true,
       "potential_opportunity": false,
       "assessment": "keyword-based lead; not validated demand"
     },
     {
       "title": "Ask HN: What are you working on? (November 2026)",
       "url": "https://news.ycombinator.com/item?id=50417407",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: What does building hardware with AI look like?",
+      "url": "https://news.ycombinator.com/item?id=50508089",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -54,28 +163,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Vercel should fork and maintain Deno",
-      "url": "https://news.ycombinator.com/item?id=50497196",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
       "title": "Ask HN: What is the state of self-hosting email in 2026?",
       "url": "https://news.ycombinator.com/item?id=50488230",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Dropbox privacy policy, cause for concern?",
-      "url": "https://news.ycombinator.com/item?id=50504514",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -94,36 +183,6 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Tell HN: Cloudflare's abuse report form is a blank page",
-      "url": "https://news.ycombinator.com/item?id=50491285",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": true,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Anthropic, can you please make up your mind with your models?",
-      "url": "https://news.ycombinator.com/item?id=50504061",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Which open source LLM works best locally, and on what hardware?",
-      "url": "https://news.ycombinator.com/item?id=50508142",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
       "title": "Ask HN: Do you still enjoy coding in C++?",
       "url": "https://news.ycombinator.com/item?id=50423371",
       "score": 0,
@@ -134,8 +193,28 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
-      "url": "https://news.ycombinator.com/item?id=50503017",
+      "title": "Ask HN: Why don't operating systems provide complete SSD write accountability?",
+      "url": "https://news.ycombinator.com/item?id=50510691",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Tell HN: Cloudflare's abuse report form is a blank page",
+      "url": "https://news.ycombinator.com/item?id=50491285",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": true,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+      "url": "https://news.ycombinator.com/item?id=50520076",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -150,56 +229,6 @@
       "signals": {},
       "context_signals": [],
       "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Best books you read in 2026?",
-      "url": "https://news.ycombinator.com/item?id=50501990",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
-      "url": "https://news.ycombinator.com/item?id=50405250",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Do you see a human written book more valuable than an AI written one?",
-      "url": "https://news.ycombinator.com/item?id=50481227",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Using LLMs outside of reflection is an anti-pattern",
-      "url": "https://news.ycombinator.com/item?id=50489240",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas",
-      "url": "https://news.ycombinator.com/item?id=50472411",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": true,
       "potential_opportunity": false,
       "assessment": "keyword-based lead; not validated demand"
     }

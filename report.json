@@ -1,105 +1,1296 @@
 {
-  "updated_at": "2026-11-16T02:29:04.366123+00:00",
+  "updated_at": "2026-11-17T02:26:24.731724+00:00",
+  "total_posts": 21,
   "posts": [
     {
-      "title": "Ask HN: What does building hardware with AI look like?",
-      "url": "https://news.ycombinator.com/item?id=50508089",
-      "score": 5
+      "id": 50526330,
+      "title": "Claude Is Always Right",
+      "text": "I think I can say, at least for me, why Claude's writing is so freaking awful, even when it's completely correct. Claude writes technical docs that are true in the same sense that it is true my best friend is a collection of specialized tissues known as \"organs\" and blah blah blah - and nothing else. Don't ever forget the trailing negation, it is omitted never. Another take: Claude writes like your best friend describing a great first date. \"Ok we were going to meet at 8 - did I mention it was Friday? Right, 8 oclock at the Italian place and no place else. During dinner he accidentally spit out some food, but I thought i was funny! That's because we were laughing so hard after we discovered we were both from Omaha. That was before dinner, during drinks, when we couldn't get rid of Alfred. His place really needs a deep cleaning!\" Perhaps with all of the hope for an LLM-authored movie, we try for something non-linear?",
+      "url": "https://news.ycombinator.com/item?id=50526330",
+      "score": 4,
+      "comment_count": 2,
+      "comments": [
+        {
+          "text": "It's likely because LLMs by their nature can't backtrack. It will probably improve the output if you tell it to rewrite the response in a linear flow without digressions.",
+          "author": "abraxas",
+          "id": 50526379
+        }
+      ]
     },
     {
-      "title": "Ask HN: What do coding interviews look like in the age of AI?",
-      "url": "https://news.ycombinator.com/item?id=50510540",
-      "score": 7
+      "id": 50525469,
+      "title": "Ask HN: What do you think is going on with that many outages coming in a row?",
+      "text": "In just four days we have seen: * Outlook exchange server outage for almost 20 hours * FAA communication channels outage * A few US banks outage * United Airlines outage Do you think it is related to AI coding, just coincidence or we start to see, but can’t detect, AI hijacking systems everywhere?",
+      "url": "https://news.ycombinator.com/item?id=50525469",
+      "score": 3,
+      "comment_count": 6,
+      "comments": [
+        {
+          "text": "[delayed]",
+          "author": "brudgers",
+          "id": 50526631
+        },
+        {
+          "text": "I'm wondering how much of it is simply related to what's being reported. After a big story like the Microsoft outage and FAA outage make headlines and garner a lot of attention, the media seems more likely to report on smaller outages that it may have otherwise overlooked, because it's now a hot topic. For example, 2 years ago direct deposit was broken for CapitalOne. Their customers didn't get their paychecks for several days. What would normally get deposited early on Wednesday (for a Friday payday) didn't actually hit accounts until something like Tuesday of the following week. I don't recall seeing anything in the media, all I saw were people on Twitter tagging CapitalOne support left and right, talking about how they couldn't feed their families... and I only saw that because I went looking for it. If that happened this week, it would be headline news.",
+          "author": "al_borland",
+          "id": 50526486
+        },
+        {
+          "text": "Without getting too conspiratorial, it's pretty common every year for a bunch of software updates to get pushed early November in anticipation of code freezes around Thanksgiving. A spike of outages around this time is not uncommon in any given year - but the FAA ground stop was notable enough to draw extra attention to all subsequent outages.",
+          "author": "legitster",
+          "id": 50525581
+        },
+        {
+          "text": "Much as I love computer conspiracy theories, these may all be largely or entirely unrelated, and simply due to incompetence, but as usual, troubles are often from many causes. Try • Rushing patches in • Not patching • Incredible incompetence • Systems (refrigerators) too damn wide open, for script kiddies to have fun with The government fired a lot of cybersecurity experts (thank DOGE), and companies don't want to spend time and money on security. Software is generally flawed, and attacks are coming at a much faster pace than fixes. The latest deal is to use AI to scrutinize AI-generated code, and good luck with that, and I just listened to a video linked here [0] in which key points are that AI is reaching a point where it can be truly dangerous as in \"overthrow the government\" and that we need to nonetheless race development because CHINA is racing development, and YET, the more advanced our models are, the more advantageous it is for China (or others) to simply steal it. So, in defending against an \"enemy\" we are also doing their work for them. Nice. We have been down this path before, but maybe this is more dangerous than nukes. Maybe not. AND that security from leakage within AI companies, while extremely crucial, is secret and therefore unknown. Given the value of the inside information, it could rival past government espionage scandals, and its status is completely known. This all seems to boil down to security issues, and the very deliberate weakening of cyber defenses, along with incompetent political hacks in charge, and the sudden arrival of powerful vulnerability detection and exploitation, could take it all down in 2017 if not sooner, even without outside attack. [0] https://news.ycombinator.com/item?id=50522546",
+          "author": "k310",
+          "id": 50525957
+        }
+      ]
     },
     {
-      "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
-      "url": "https://news.ycombinator.com/item?id=50510042",
-      "score": 163
+      "id": 50522639,
+      "title": "Ask HN: Are iPhone Duo Customers Happy?",
+      "text": "I'm thinking of getting one. Would love to hear from anyone who owns one and has an opinion.",
+      "url": "https://news.ycombinator.com/item?id=50522639",
+      "score": 12,
+      "comment_count": 8,
+      "comments": [
+        {
+          "text": "Got the opportunity to use a friend's over the weekend. Build quality felt good, the matte display is fantastic IMO, all of my real issues with it were 3rd party software not supporting the display paradigm yet.",
+          "author": "100percentjake",
+          "id": 50526082
+        },
+        {
+          "text": "Had it, returned it. No FaceID sucks for usability, the screen space isn’t well utilized for anything but videos that fit the aspect ratio. Just not worth the compromises over the Pro Max phones.",
+          "author": "alex43578",
+          "id": 50525682
+        },
+        {
+          "text": "Every single one I've met has been enthusiastic about it. Apple also has a generous return policy (14 days IIRC).",
+          "author": "bigwheels",
+          "id": 50523980
+        },
+        {
+          "text": "Nah I just think its over hype I'd advice you get the S26 ult instead",
+          "author": "AlissonBland",
+          "id": 50525412
+        }
+      ]
     },
     {
+      "id": 50520644,
+      "title": "Ask HN: How to bring traffic to new product with out social media presence",
+      "text": "I recently build latticework (https://latticework-x.com/), a tool to understand what super investors are buying and selling, genuinely better than most resources out there, but getting traffic has been such a pain right now.",
+      "url": "https://news.ycombinator.com/item?id=50520644",
+      "score": 4,
+      "comment_count": 3,
+      "comments": [
+        {
+          "text": "All the information appears free (I like that) So, other than providing a curated and impartial bunch of information (which I also like), is there some business model that needs traffic? Asking because it's rare curated and unbiased information without some hook. I use low-volume sites, one of which is Hacker News, for their quality, moderation and value to me, but if I want something to go viral, I ask others to spread the word on sites that I avoid. Isn't that the conundrum?",
+          "author": "k310",
+          "id": 50520884
+        },
+        {
+          "text": "I would try posting a related question on social media that happens to mention it so people don't think its just an ad",
+          "author": "ex-aws-dude",
+          "id": 50521805
+        },
+        {
+          "text": "Why do you think your deserve traffic? What's the unique value prop you have that others do not?",
+          "author": "AznHisoka",
+          "id": 50523073
+        }
+      ]
+    },
+    {
+      "id": 50521585,
+      "title": "Is the Economy Over-Indexed to Software?",
+      "text": "Are we expending too many resources building or perfecting software that doesn't solve real problems?",
+      "url": "https://news.ycombinator.com/item?id=50521585",
+      "score": 4,
+      "comment_count": 5,
+      "comments": [
+        {
+          "text": "Yes, but it's more of a wastage problem. Like how food goes uneaten. It's a side effect to building the software that does solve real problems.",
+          "author": "muzani",
+          "id": 50524750
+        },
+        {
+          "text": "I have come to the stark realisation that most problems I have in my life aren't solvable with more software.",
+          "author": "sph",
+          "id": 50524042
+        },
+        {
+          "text": "Questions that are Best left for ai",
+          "author": "efren6",
+          "id": 50521665
+        },
+        {
+          "text": "Unpopular opinion on this site: Yes.",
+          "author": "fodkodrasz",
+          "id": 50521789
+        }
+      ]
+    },
+    {
+      "id": 50520408,
+      "title": "Ask HN: Most compelling early stage fund pitches?",
+      "text": "Hey HN, Im preparing for my next fund and im curious what people find most interesting in early stage VC right now? What sorts of themes, thesis, deals, etc. do you find compelling? Or conversely, what do you avoid or pass on? I appreciate any thoughts as early stage is very competitive and I’m refining my competitive advantages vs others as well as late stage. TIA :)",
+      "url": "https://news.ycombinator.com/item?id=50520408",
+      "score": 4,
+      "comment_count": 3,
+      "comments": [
+        {
+          "text": "Sad :( well worth a shot",
+          "author": "bix6",
+          "id": 50522101
+        },
+        {
+          "text": "Not a hotdog",
+          "author": "MustangMatt46",
+          "id": 50522211
+        },
+        {
+          "text": "Try something antisocial. YC funds a lot of that.",
+          "author": "yasnu5",
+          "id": 50523514
+        }
+      ]
+    },
+    {
+      "id": 50513451,
+      "title": "Tell HN: HN is being scraped for emails to scam",
+      "text": "I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots/agents) as well. I use unique emails for every site, so I immediately knew that the late AWS payments email sent to my HN email were fake. There were other tells, but I want to remind everyone to be vigilant! HN is public but even social media sites where you supposedly can make your page private I've had some of those emails suddenly have spam sent to as well. Please be safe everyone! My favorite tells that an email is a scam: - Before opening a surprising/suspicious email, hover over the sender name to see the domain the sender came from (don't open the email if it's strange). - _If_ you already opened the email, before clicking any links in the email, hover over them to see the domain that the link sends you to. There are dozens more tips but a full article would be required, and these two will prevent you from falling for nearly all of them.",
+      "url": "https://news.ycombinator.com/item?id=50513451",
+      "score": 121,
+      "comment_count": 42,
+      "comments": [
+        {
+          "text": "There has been some previous discussion of this problem: https://news.ycombinator.com/item?id=50153608 https://news.ycombinator.com/item?id=50142714 https://news.ycombinator.com/item?id=50095323 I switched to using a throwaway email address in an image in the \"Who wants to be hired?\" thread. The signal-to-noise ratio has increased greatly since then. I've received two spam emails and one legitimate email so far, which is a huge improvement.",
+          "author": "btrettel",
+          "id": 50513776
+        },
+        {
+          "text": "One of my throwaway HN accounts from 7 years ago ended up giving me an e-mail with scary amount of context. I'm guessing the e-mail address appears in a separate database sold by a data broker, and they were able to use that to contextualize the e-mail. But they were sloppy enough to not pay attention to very basic details that made it obvious their location is a lie.",
+          "author": "koito17",
+          "id": 50514229
+        },
+        {
+          "text": "I regret posting on the 'Who wants to be hired?' thread due to this. It's half burned my primary dev email",
+          "author": "david_allison",
+          "id": 50514434
+        },
+        {
+          "text": "Nothing new there. I also use a different email on every service (and I avoid to give any Email if I can). The worst spamming addresses I have closed, but those are really few of the over 1000 addresses in 20 years. My last contribution to the Linux kernel is already 10 years ago (shame on me), but that address is of course public as long Linux exists. Interestingly enough it gets a steady, but very low volume inflow of classical Nigeria letters. Less than once a week. 30,000,000 US Dollars of the late honorable XYZ that can only be salvaged with my help. Too nostalgic to close that address :)",
+          "author": "usr1106",
+          "id": 50513758
+        },
+        {
+          "text": "Using a separate email just for HN is good advice. Once your main address is posted in a hiring thread, you can't really take it back",
+          "author": "JustRouzbeh",
+          "id": 50515585
+        },
+        {
+          "text": "On my to-do list is to setup a new domain for throw-away / single use email addresses per site, for this very reason. I would also intend to have a publicly accessible web page that keeps track of which of these emails have been compromised or received spam. It's a ways down the list though, but my privacy is increasingly exposed the longer I don't get it done.",
+          "author": "BLKNSLVR",
+          "id": 50513733
+        },
+        {
+          "text": "> HN is being scraped for emails to scam I'd be more surprised if it weren't...",
+          "author": "tasuki",
+          "id": 50515396
+        },
+        {
+          "text": "Yes. I got hit with classic North Korean scam job offer. I am impressed by the sophistication.",
+          "author": "dataviz1000",
+          "id": 50514102
+        },
+        {
+          "text": "> so I immediately knew that the late AWS payments email sent to my HN email were fake Have you ever mentioned AWS on this platform? If you're, then maybe the attack is more targeted/sophisticated than you've imagined.",
+          "author": "nirui",
+          "id": 50515001
+        },
+        {
+          "text": "A bit similar, but I did a Show HN a few weeks ago that did not have much views, yet my contact form got blown out by cold mails trying to sell services to promote it.",
+          "author": "calyhre",
+          "id": 50514833
+        },
+        {
+          "text": "but i think if you are educated enough, you will not click on that mail and ignore it mostly. phishing mail will be little problem but mostly we are safe only, managing multiple account for that case is not work.",
+          "author": "Nemesis-driod",
+          "id": 50516728
+        },
+        {
+          "text": "Same goes for Show HN.",
+          "author": "dt3ft",
+          "id": 50514808
+        },
+        {
+          "text": "It's very annoying - I posted an OSS project and got hit with hundreds of junk emails over the next few weeks from offers to monitise through to fake hosting provider scams. TBH I should have realised something like that would happen, but it was it is now...",
+          "author": "schoenobates",
+          "id": 50515273
+        },
+        {
+          "text": "My solution to this is to never post my e-mail, and to then never really check my e-mail on top of it. Defense in-depth.",
+          "author": "rl3",
+          "id": 50514544
+        },
+        {
+          "text": "yes setting up domain is better choice",
+          "author": "sooraj_sj",
+          "id": 50513934
+        },
+        {
+          "text": "Of course.",
+          "author": "jpardoe",
+          "id": 50515440
+        },
+        {
+          "text": "use icloud relay if you have it!",
+          "author": "exabrial",
+          "id": 50514657
+        },
+        {
+          "text": "Worse than scam is YC's own AI startups scraping your emails and cold emailing you (using AI too) about their product/service. They all sound alike across YC batches too. Makes me think if it's actually taught.",
+          "author": "neya",
+          "id": 50514269
+        },
+        {
+          "text": "a \"do data labelling microtasks to train coding LLMs to replace you\" op has been spamming my inbox around once a day for many weeks now. going to the unique email address I put in my Who Wants To Be Hired comment post here on HN. The emails look automated, template-based. They make superficial tweaks each time. and of course to \"apply\" to their microtasking gig they expect you to submit data labelling work for them, unpaid. parasitic scum my policy is to quote a very high fee. I win either way.",
+          "author": "syngrog66",
+          "id": 50514442
+        }
+      ]
+    },
+    {
+      "id": 50417407,
       "title": "Ask HN: What are you working on? (November 2026)",
+      "text": "What are you working on? What have you been curious about lately?",
       "url": "https://news.ycombinator.com/item?id=50417407",
-      "score": 303
+      "score": 303,
+      "comment_count": 1096,
+      "comments": [
+        {
+          "text": "I was laid off a few weeks ago. Then I learned my dad’s carpet cleaning company has been struggling, so I started learning about Google Local Service Ads to help him out. THEN I learned his old Windows desktop CRM was discontinued and one OS update away from no longer working. I wanted a way to track every dollar spent to determine return on ad spend, but the Google LSA dashboard left a lot to be desired. And existing SaaS CRMs didn’t have great integrations to Google Ads API. So I built Crewbird, a Field Service Management and CRM for service based businesses with Google LSA integration where my dad is quickly approaching 3x ROAS! I’m still looking for work in the mean time but I’m proud of what I’ve achieved so far. https://getcrewbird.com/",
+          "author": "jzig",
+          "id": 50418273
+        },
+        {
+          "text": "I work on a suite of open source public transit software projects, collectively called OneBusAway (or OBA). The software is used by millions of transit riders every day around the world, including in New York City, the Seattle area, San Diego, and Washington, D.C. University of California San Diego has deployed our Wayfinder and Waystation web apps for their 35,000+ students! We're getting ready to launch our Vehicle Positions software, which replaces expensive, proprietary vehicle location systems with free, open source software that runs on commodity smartphones. Our next-generation server software, Maglev, is adding support for newer transit data formats, like GTFS-Flex so that we can show demand responsive transit systems on the map. We are always looking for more developers, biz dev, ux designers, product managers, and more to help out! Open volunteer positions: https://ossvolunteers.com/organizations/open-transit-softwar... Our software: https://github.com/OneBusAway/ More about us: https://opentransitsoftwarefoundation.org",
+          "author": "aaronbrethorst",
+          "id": 50418058
+        },
+        {
+          "text": "AI is still killing the website I live from[0], training its AI on my work and using it to deny me an audience. Traffic is down 80-85% from the same month pre-LLMs. So I'm cutting operating costs to the bare minimum. Today I shut down one service and replaced a VPS with Cloudflare Workers. I'm also trimming my SaaS subscriptions and self-hosting what I can. Working on this website feels so pointless if it will end up dead in a year. I just returned from a vacation and realised that I just don't like being online anymore. I'll cut my expenses to a minimum, log off, and ride a motorcycle around the world. What happens after that is anyone's guess. [0] https://nicolasbouliane.com/blog/death-by-ai",
+          "author": "nicbou",
+          "id": 50424132
+        },
+        {
+          "text": "I am still working on fast and dense stock market related visualizations, example: Drawdown (from 52-week high) charts for top performing YTD stocks of the NASDAQ 100: https://chartrow.com/top-performers#view=drawdown&p=ytd&in=n... View the stock charts of holdings of an ETF like ARKK in a dense way: https://chartrow.com/quote/arkk/holdings#range=10y&ma=20%2C5... Microsoft business fundamental trends: https://chartrow.com/quote/msft/trends Visualizing the top performing stocks in different ways: https://chartrow.com/top-performers#view=charts&p=ytd https://chartrow.com/top-performers#view=heatmap&p=ytd https://chartrow.com/top-performers#view=calendar&p=ytd Feel free to change views from charts to table to heatmap etc. And it should feel responsive. Report any bugs to me and happy viewing. :)",
+          "author": "chartrow",
+          "id": 50419208
+        },
+        {
+          "text": "I’m reverse engineering and replacing the entire stack on Samsung A54 (Exynos 1380, Mali-G68), started with booting to a customized linux kernel (7.3) w/o Android layer at all (Wayland and WPE WebKit only), built a custom WLBT thin firmware to replace the original fat blob (using mac80211 as the foundation), figured out how to exploit USB control transfer and got ACE in the PBL, reconstructed (with byte-identical verification) their LK-based S-Boot, uH and harx, patched mesa/panfrost, optimized kernels for this device (finally got STT/TTS running on GPU faster than on CPU), figured out how to utilize NPU, built a custom toolchain for it. I’m trying to properly own this device (and giving it to Claude on the lowest possible level, but still running pKVM and getting rid of original hypervisors), it’s the goal number one at this point, no binary blobs, ability to change sw and control hw on-the-fly. Obviously with AI usage (Opus 5.5/4.8, GLM 5.3, Kimi 3.1), there’s a lot of work.",
+          "author": "leobuskin",
+          "id": 50418955
+        },
+        {
+          "text": "Two things: First, as an author, the only resources that I had for tracking what stage a particular thing was in was to pay to put my manuscripts in other systems, or try to track things in spreadsheets. Neither appealed to me, and as a software developer I couldn't let it slide, so I'm nearly done with something that will run as a PWA and catalog what is in your own storage system (OneDrive, Google Drive, Dropbox) and actually keep the data in that system. Second, and not as far along, a shopping list app that helps you track prices for things you buy and estimate how much your list will cost you. Both will be posted to Show HN when done.",
+          "author": "mbielski",
+          "id": 50524741
+        },
+        {
+          "text": "I posted about this in \"show\", but I recently rewrote the PicoCSS library to address some of the shortcomings and necessary work that Lucas (the author of Pico) pointed out when he archived the project. I really fell in love with PicoCSS because it promoted semantic web development and put an emphasis on accessibility without making pages look \"simple\". So, when he announced that the project was officially archived, it hurt. I didn't like the direction some of the other forks took, so I did my own. Since I posted about it in the Show HN section, I'm not going to post it here again (I don't want this to come across as trying to promote the library again). But it's something I'm incredibly proud of and I really hope it helps developers gain some use out of it.",
+          "author": "dday9",
+          "id": 50523910
+        },
+        {
+          "text": "I am currently on maternity leave with my first baby have just launched to the app store my first app! I'm a product designer by trade and learnt to vibe code on Claude about a month ago now. I was weaning my baby and he developed a rash and haven't been able to work out what the pattern was causing it. So I created an app for weaning parents to log the food, add any reactions so when talking to their GP they can start to see a pattern and all advice, like nutrients, food variety, how to serve food all coming from the NHS and FSA. Currently got 12 mums using the app and would love any feedback to make it even better! <3 https://apps.apple.com/gb/app/niblet-weaning-diary/id6822680... https://getniblet.app",
+          "author": "MummyMahoney",
+          "id": 50392205
+        },
+        {
+          "text": "I've been deep in the weeds on two wildly unrelated projects. Project #1: I've been working on migrating an application [1] from GCP (where I pay $200/mo to host it) to a physical server (PowerEdge R7625) I've racked in a colo near me, running on my own IPs/ASN [2] and all that jazz. I've been dragging my feet on the this as there's just a lot of moving pieces, but I got a good chunk of the last few hard bits done today. Project #2: Building a DIY bright-ass lamp, like Brighter [3] or Rhythm [4], but for a few hundred bucks instead of $1-2k. I've specced out the parts, designed the hardware, and built the firmware. Later today I'll do my first LED test against a bench supply, to get some hard numbers for if my cooling solution (a chunky aluminum heatsink and some Noctua PC fans) is sufficient for the full 500+ W final version. As far as curiosities go, I've been doing a lot of Go (the board game, not the language) puzzles, and reading about sailing (mostly the book from the Hundredrabbits folk [5]) [1] https://abound.art [2] https://bgp.tools/as/55078 [3] https://getbrighter.com/ [4] https://www.betterwithrhythm.com/ [5] https://100r.co/site/busy_doing_nothing.html",
+          "author": "abound",
+          "id": 50418055
+        },
+        {
+          "text": "For the last 3 years, with a small team has been building https://kube-dc.com/ - a platform for building enterprise grade private and public clouds. Its like VMware + OpenShift + Railway in a single product: completely multi-tenant, built entirely on the K8s API (we built over 46 custom controllers in Go, with UI in Radix UI), with managed services like nested K8s, Postgres, Kafka, Valkey, and GitHub runners. Not the charts :) real services. Also we can do vlans BGP, shared GPU and all fancy stuff required. Now we don't deploy this to private companies except some gov projects. But we are engaging existing IaaS and dedicated servers providers. Later hope we would fight with Broadcom and IBM :) We previously ran a services company that built over 100 private clouds, then decided to turn that experience into a product with an aggressive level of automation to let DevOps, SRE, and platform teams hit a 1:300 ratio per developer (now dev + AI agent teams). We are currently deployed across 12 datacenters and raising our seed round this month. Regarding been curious, today I have created my first explainable video with Remotion +claude so if you want to see open edit results check https://promo-review-shalb-promo.stage.kube-dc.com/ Would be glad if you comment. Thanks!",
+          "author": "voatsap",
+          "id": 50418230
+        },
+        {
+          "text": "A series of actually hard puzzle books, so far sudoku, killer sudoku and some fiendish wordsearches that only use 5 letters per grid. https://extremepuzzlebooks.com A sample wordsearch is available as a pdf here: https://extremepuzzlebooks.com/assets/sample/extreme-wordsea... I'm quite proud of this wordsearch concept as I've not seen it done before. All the logic puzzles have an online solution to show step by step how you can complete them. https://extremepuzzlebooks.com/walkthroughs I've been working on the software to generate, test and verify these for a couple of years and finally built up enough puzzle stock that meets the difficulty requirements to properly launch. Now the work is on every hackers favourite part... Marketing!",
+          "author": "Malcx",
+          "id": 50418936
+        },
+        {
+          "text": "https://singonkey.app A singing training app for bad singers. You sing the pitch line and get a score. Let's you sing to any original song by listening along and not playing the song itself. Recently got some good feedback on HN https://news.ycombinator.com/item?id=50195488 and am following up with Linux and Windows versions and using Fable 5.1 to internationalise the app and landing page which explains the app.",
+          "author": "dsmurrell",
+          "id": 50418225
+        },
+        {
+          "text": "Ages ago, I had built a tool to monitor the mains power frequency with resolution of some microseconds. I looked at my old assembly code, and realized with better optimization and optocoupler choice, I could probably get that down to some hundreds of nanoseconds. The original idea was to try and correlate phase jitter to space weather, essentially using the mains power system as a sort of radio telescope. I never did get it working (although I did not have much time to try, either). I was able to see interesting things like generators spinning up to maintain the frequency though. Will open source the hardware when done. I am not an astronomer, just some random fellow that investigates things at depth for no particular reason.",
+          "author": "Saigonautica",
+          "id": 50420484
+        },
+        {
+          "text": "I've been building a web browser in C from scratch, without any libraries and without AI. This is finally approaching a usable state: navigates and renders Wikipedia, supports TLS, builds on Windows, macOS and Linux, loads PNGs and JPEGs, etc. I'm going to opensource this once it supports most of CSS 2.2 layout and renders HN too (HN is totally blank right now, because it's a giant <table> which is still a TODO :-) ) I still don't know what to do with this. It's been a huge passion project and I'm very happy about it. I planned to create a book or video course about C programming, starting from printf(\"Hello world!\\n\") and ending up with a working browser; but the advent of AI coding agents in the past 2 years changed a lot the market for such a course. I'm still finishing this due to stubbornness and some sunken cost fallacy effect :-) Would love to hear feedback and ideas about such a project.",
+          "author": "silvajoao",
+          "id": 50424134
+        },
+        {
+          "text": "A month and half ago launched Maxxmod, a Chrome extension that improves the YouTube experience by removing distractions (hiding Shorts and cleaning up search results) and adding new tools and shortcuts (volume booster, screenshot tool, quick access to Picture-in-Picture and playback speed controls). I’ve been adding features since then. Last week, YouTube introduced GIFs in comments, so added an option to stop them from autoplaying and play them on demand (a play button). https://maxxmod.com Disclaimer: I posted a Show HN when launched the 1.0, but it didn’t get traction: https://news.ycombinator.com/item?id=49829812",
+          "author": "neonglow",
+          "id": 50418925
+        },
+        {
+          "text": "A suite of high-dopamine games which use smart exercise bikes as the control interface. When playing Zwift, Rouvy, etc, I find that I get too competitive and ruin longer workouts by trying to keep up with or sprint past people who are much faster than me over long distances. This is bad for building stamina and endurance, but I get bored, and it's hard to fight boredom and physical strain both at once. I do not get bored sitting in front of Balatro, Raccoin, Tetris - anything with bright colours and satisfying noises and combos. The first finished prototype game is very simple: you sort coloured marbles. Higher watt output from the bike means marbles are blown, by wind, upwards as they roll across the screen. Lower watt output means they fall. Steady watt output means they move horizontally. Marble goes into correct hole -> satisfying noise. It rewards steady watt output over time, with minor adjustments, which is what I'm trying to work on right now. I was pretty amazed by how engaging I found it (total iPad baby brain). The miles really fly by - I get tired before I get bored. I think that next I'll either do a tower defence game, or a less-dopamine-rewarding game in the style of Kerbal Space Program. Taking your actual weight and watt output, putting a bike with wings into a physics engine, and the gameplay loop being unlocking increasingly large airplane pieces, and designing - then flying - increasingly ridiculous airborne bicycles seems like a compelling idea, though less good for fitness. The control surface being so limited - essentially one measurement which can either go up or down - is a really fun constraint for creativity.",
+          "author": "gabriel666smith",
+          "id": 50389922
+        },
+        {
+          "text": "I worked at a sports company forever ago, and ever since then, I've wanted to build my own NBA scores + stats site. After a few false starts over the years, I have a new concept called Center Court that I'm so excited about. It's primary purpose is for live boxscores because all of the major sports sites have terrible UI/UX experiences. I always defaulted to ESPN.com but it's so slow and awful. Center Court is basically a bridge between espn.com (or nba.com) and more advanced stat focused sites that don't offer a good live experience. The technical implementation behind it is quite novel in this space too. Instead of storing computed statistics in a database, I store raw play by play payloads immutability and everything else is derived from those and can be trivially rebuilt so the event log is a derived cache of the payloads. Every stat on every page is a pure fold over the event log at request time; no derived number is stored. This enables some powerful features like being able to re-derive a game's entire state at any point of the game (or even a time range). Example game to try out: https://centercourtlive.com/game/0022600197 The site is meant to be extremely fast. It's all server-side rendered with progressive JS enhancements. URLs are immutable and cached behind a CDN. https://centercourtlive.com/",
+          "author": "bretthopper",
+          "id": 50424262
+        },
+        {
+          "text": "Started building a coffee recipe app, and one of the features (capturing social media posts as coffee recipes) turned into a rabbit hole, and at the other end of the rabbit hole I ended up extracting it to its own saas usemamitsu.com, just starting up but I'm using it for a couple nice use cases already and some few other people too, which is always encouraging!",
+          "author": "esteka",
+          "id": 50520468
+        },
+        {
+          "text": "- finishing porting GNOME to Fil-C. It is starting to work but with some features still disabled. - about 1/3 of the way through getting Rust to compile to Fil-ABI. This means you can interop between Rust and Fil-C without weakening either language’s guarantees. I’ll need this to get librsvg to work in Fil-GNOME. - almost done making assembly memory safe. The SaRCAsm (safe runtime capability-enforcing assembler) works and I have OpenSSL ported to it but I don’t yet have 100% confidence in this. Once this is done I’ll be able to get rid of zunsafe (the closest thing to an escape hatch in Fil-C; it’s only used for the assembly in OpenSSL; without calls out to assembly, OpenSSL has too high risk of timing side channels).",
+          "author": "pizlonator",
+          "id": 50419720
+        },
+        {
+          "text": "https://pahunchi.netlify.app/ A free app for women to pretend to be on call when alone in a cab or to get out of a bad date. Can share location, voice note on a realistic call where AI responds in your language (currently supports Hindi, English).",
+          "author": "Avijit_Thawani",
+          "id": 50425836
+        }
+      ]
     },
     {
+      "id": 50508089,
+      "title": "Ask HN: What does building hardware with AI look like?",
+      "text": "Is it 3D printing or just CAD? What will it look like in the future ? AI-native 3d printers?",
+      "url": "https://news.ycombinator.com/item?id=50508089",
+      "score": 8,
+      "comment_count": 3,
+      "comments": [
+        {
+          "text": "After the fable 5.2 launch video with the PCB demos etc, I have now recently jumped to building hardware ( I wanted for a long time though ). I think it will start with identifying the right problem / project and coming up with prototypes using ready made kits like Raspberry pi, Arduino, etc , printing home made PCBs in future and PCB design, CAD, 3D printing will exist in the workflow. I believe industrial design will have more demand. Currently until PCB design AI assists well but I don't think it's there yet in PCB fabricating and the last leg of industrial design.",
+          "author": "pingananth",
+          "id": 50518286
+        },
+        {
+          "text": "I am designing rocket engines with the help of neural network based CAD.",
+          "author": "faangguyindia",
+          "id": 50515252
+        },
+        {
+          "text": "Ben Eater's light emitting resistor.",
+          "author": "pona-a",
+          "id": 50515275
+        }
+      ]
+    },
+    {
+      "id": 50491617,
       "title": "Tell HN: Google Search to start locking down search behind a login wall",
+      "text": "Usually, when I used Google Search on some ISP CGNAT IP addresses (not even a VPN), I usually get countless CAPTCHAs evertime I initiate a new session to Google Search on a new private browsing window (probably an artifact from residential proxy botnets). Recently, in addition to that, they started to just lock the entire search results page behind a login prompt on some of those bad IP addresses (like YouTube does for some time with the \"Sign in to confirm you're not a bot\" prompt). This potentially makes the service less accessible, especially for those using a shared/public computers. I did not even get this prompt on some VPN IPs, and even no CAPTCHAs at all, even with a free one like given by Firefox. Has anyone encountered that? I just encountered this today. It's really unfortunate for the internet to become less friendly to signed-out users, especially since AI scrapers starting to \"abuse\" the internet for their value.",
       "url": "https://news.ycombinator.com/item?id=50491617",
-      "score": 44
+      "score": 46,
+      "comment_count": 30,
+      "comments": [
+        {
+          "text": "Please change your title to something less declarative like Ask HN: have you encountered increased login-required for Google search results?",
+          "author": "ChrisArchitect",
+          "id": 50493262
+        },
+        {
+          "text": "When connecting from questionable IPs (like VPN exit addresses) Google has been very paranoid for a long time, I don't try. Unfortunately, the prevalence of scrapers means that anything that could be a scraper is presumed to be so.",
+          "author": "LorenPechtel",
+          "id": 50493476
+        },
+        {
+          "text": "I notice not logging in using the last supported chrome browser for windows 7 fine but private mode a captcha appears each day. Using that browser means cloudflaire's confirm button disappears. Digitalocean won't load anymore and for a brieftime chatgpt web chat wouldn't work.",
+          "author": "ipaddr",
+          "id": 50498523
+        },
+        {
+          "text": "I’ve been so very happy with Kagi. I also let my agents use it via API, and it helps them surface a lot of stuff they don’t find without it.",
+          "author": "rckoepke",
+          "id": 50492799
+        },
+        {
+          "text": "> It's really unfortunate for the internet to become less friendly to signed-out users The internet as defined by these megacorps is impossible to use without accounts and I'm just so over it. I don't really use any of these megacorps' products and it's still just exhausting. The other day, I tried to create a youtube account for the first time (a bunch of videos were age restricted???) and it wouldn't let me. It expected me to have a smart phone. I ran into an issue trying to create a facebook account where after I filled in all the details requested, it said it \"couldn't find an account\" for me. I was trying to create one, so, well, obviously. I'm not sure I even want to know what the hell it meant by not being able to \"find an account\". Some of the biggest (and worst) websites can't be used without an account. Apparently I can't create an account, either. I was just trying to watch fucking educational videos and finally relent to being looped in with community groups who unfortunately use facebook to coordinate everything. I've not used google search in years, but it's all the same bullshit. I'm so tired.",
+          "author": "magnetowasright",
+          "id": 50503109
+        },
+        {
+          "text": "Does your CGNAT network not support IPv6?",
+          "author": "tedchs",
+          "id": 50496701
+        },
+        {
+          "text": "They have pretty much closed Google Maps. If you are not logged in, you are not able to see the images/comments though you can still see/search the places on the map, for now.",
+          "author": "csomar",
+          "id": 50517371
+        },
+        {
+          "text": "will be their end, because duckduckgo and brave (search, not browser) are better already. this will push people to figure it out. i now search videos on tiktok instead of YouTube. it's the de facto youtube mirror, which Google never allowed archive.org to be. (albeit, you have to watch it in 3 parts)",
+          "author": "iririririr",
+          "id": 50493907
+        },
+        {
+          "text": "As a comment, it feels like the majors have deployed both the victim (search) and the weapon attacking it (ai systems) and now find like all footguns, it has unforseen effects. \"We\" are side issues in this. Our channels to state what we want of search and ai are highly constrained and mostly ignored. We are however why there is any revenue in this overall system. It's because we use it, they can monetize it, and I think this may become important to Google search KPIs and google AI KPIs",
+          "author": "ggm",
+          "id": 50491784
+        },
+        {
+          "text": "I've been given the 'there is sus activity from your IP' so often now I gave up using google months ago. Login req is crazy though maybe you persisted so much they forced you to sign up where I simply gave up. I can no longer access Research Gate papers either I get the same bullshit 'weird activity from your IP plz login' Either there is a AI agent tsunami of shitbots or they saw that x/instagram/reddit all now req logins so some 'growth engineer' at Google said hey about we force everyone to login",
+          "author": "hackermailman",
+          "id": 50492260
+        },
+        {
+          "text": "May as well just use Kagi",
+          "author": "mitxela",
+          "id": 50494707
+        },
+        {
+          "text": "They already locked it behind a wall of AI and advertisements.",
+          "author": "musicale",
+          "id": 50494253
+        },
+        {
+          "text": "time to switch",
+          "author": "heysabique",
+          "id": 50495782
+        }
+      ]
     },
     {
-      "title": "Vercel should fork and maintain Deno",
-      "url": "https://news.ycombinator.com/item?id=50497196",
-      "score": 15
-    },
-    {
+      "id": 50488230,
       "title": "Ask HN: What is the state of self-hosting email in 2026?",
+      "text": "I mean both on your own server and on cheap but reliable VPS providers like Hetzner? If you self-host email what is your current stack?",
       "url": "https://news.ycombinator.com/item?id=50488230",
-      "score": 45
+      "score": 48,
+      "comment_count": 36,
+      "comments": [
+        {
+          "text": "I spent 1 or 2 days last year to set it up on my VPS, provided by OVH, using Dokploy and Stalwart, it was educational and fun to do, but useless, all my mails were ending up in the spam folder; even after implementing all the best practices and achieving a good score on mail scoring websites, there was nothing more I could do.",
+          "author": "rchrp",
+          "id": 50525204
+        },
+        {
+          "text": "My advice after doing it for 13+ years is - don't do it. Finding a hosting provider that gives you a clean class C to run out of is almost impossible. Every VPS has tenants who spam, and every provider will be flagged in one way or another. You will spend a bunch of time trying to white-list/make your mail server behave to ensure delivery to the google/microsoft mail servers, and some systems will just ban your email anyways. It got to the point where I would send an email to someone, and then follow up with a phone call because I was not confident mail would be delivered as expected. I found a hosting provider dedicated to e-mail (Migadu actually), and switched everything over to that and haven't realistically had to worry about maintaining a mail server since",
+          "author": "malbs",
+          "id": 50492665
+        },
+        {
+          "text": "I have self hosted side 2001, mostly opensuse, with postfix, but the IMAP etc has changed over the years, now using dovecot. Yes its a pain, yes it takes effort, but just like some people spend there spare time painting, I run my own email server.",
+          "author": "mlaretallack",
+          "id": 50488762
+        },
+        {
+          "text": "Mail-in-a-box ( https://mailinabox.email ) on Ubuntu Server which installs Postfix, Dovecot, nsd, NextCloud, RoundCube, nginx, spam assasin, postgrey ... and a good admin panel. Mine runs on an Intel NUC at home, with the a sensible ISP who naturally can provide a fixed IP address (everything open), IPv6, and clean address. Been very happy with it, both the software, and the independence :) A little IT and network knowledge is useful if you're doing more than the standard (VPS) install, but that's to be expected.",
+          "author": "drpixie",
+          "id": 50490580
+        },
+        {
+          "text": "Haven't tried it myself but https://stalw.art/ looks interesting",
+          "author": "bwindels",
+          "id": 50489440
+        },
+        {
+          "text": "postfix, dovecot, rspamd on debian stable, with lots of custom configuration. The main problem is not really the server side or getting it set up right, if you know what you're doing, but outbound delivery if you're sending SMTP traffic from any kind of bulk hosting/VPS/VM/colo provider. No matter how impeccable your spf, dkim, dmarc is.",
+          "author": "walrus01",
+          "id": 50488876
+        },
+        {
+          "text": "Been self hosting email, from home, for 2 decades now. A good ISP is required. Can recommend freedom.nl in The Netherlands. You will also need a DNS provider that supports TLSA records. Occasionally the mail server gets blocked, mostly by Microsoft. Had no issues in the last year. A month ago I upgraded to Ubuntu 26.04. Usually these upgrades go smooth, but not this time. The upgrade broke my Postfix/Dovecot/Amvisd/Spamassassin/Clamav stack. Over time the stack became too complex, and I could not figure it out anymore. Instead I did a crash migration to Stalwart. Stalwart is challenging to setup when it does not control the full http stack, but for sure it was easier than fixing Dovecot.",
+          "author": "erikvanoosten",
+          "id": 50496387
+        },
+        {
+          "text": "I've been self-hosting for almost 20 years. However, my server went down many, many times for hours without me noticing, sometimes for days. Despite today's outage, it's still more than worth having a third-party company like Google or Microsoft handle your email. At least they have monitoring 24/7 and people on call to fix issues when things stop working.",
+          "author": "altern8",
+          "id": 50490474
+        },
+        {
+          "text": "Self hosting requires you to know some things, but it is totally doable. I self-host my Mailserver since three years and I am very happy with it still. The basics are easy to get done, just install mailcow via docker. The hard bits usually involve setting DNS up correctly and ensuring your mailserver fulfils all requirements to not be seen as spam. There are online checking tools for that, you send a mail there and it gives you a score and recommendations what needs to be improved. But even this is not hard. I installed my mailserver on a weekend and transferring existing accounts took the majority of times. Maintenance since then is the usual Linux webserver update maintenance and a simple docker update once the version comes out. Maybe 15 minutes a month.",
+          "author": "atoav",
+          "id": 50495757
+        },
+        {
+          "text": "been self hosting for so long, started with sendmail running on solaris, but now docker mailserver. Due to a forced IP change by ISP I recently changed to having outgoing mail sent by AWS SES, using it to do the DKIM signing, so my mailserver postfix uses it as the sender, but the receiving happens on my stuff. I think its a nice balance between self hosting and managing deliverability, but agree it doesn't count as 100% self hosted. It runs on a hp cube server in my house, backed up frequently with restic. https://docker-mailserver.github.io/docker-mailserver/latest...",
+          "author": "time4tea",
+          "id": 50496076
+        },
+        {
+          "text": "I've been self hosting for years, but gave up outbound delivery a long time ago. I use my (very tech savvy) ISP for that who is still willing to relay (authenticated) for my domain that has nothing to do with them. Inbound self hosting still has its advantages. I control filtering, storage and backups, and data sovereignty is mine. Spam is always a pain, but blocking spammy providers entirely keeps spam volumes low (maybe 1-5 a day that aren't rejected at SMTP time) and I don't seem to miss anything important, not even one-off transactional emails with random businesses.",
+          "author": "rlpb",
+          "id": 50493908
+        },
+        {
+          "text": "Self hosting mail for the past 7 years. Currently using Mox with eth-services.de (they have clean IPs and help with rDNS. Perfect deliverability to Google, Outlook, etc. you need to make sure DMARC and SPF are working, do not use IPv6, reverse DNS, good IP reputation, and a domain that's been registered for a long enough time.",
+          "author": "acheong08",
+          "id": 50500580
+        },
+        {
+          "text": "Hetzner even has a straightforward guide to setting up a self-hosted mail server: https://community.hetzner.com/tutorials/setup-mailserver-wit... I'm also considering self-hosting email, but pretty much everything I've read suggests that keeping your emails out of spam folders is a huge pain. Still exploring different options.",
+          "author": "vrubleg",
+          "id": 50489091
+        },
+        {
+          "text": "I've been running stalw.art in a Docker container for past couple of years and it has been a low-fuss affair, but I'm the only account.",
+          "author": "jorge-fundido",
+          "id": 50490942
+        },
+        {
+          "text": "Same. It is not the server or hardware. It is where the email lands and what they do with your email based on the metadata.",
+          "author": "wg0",
+          "id": 50490112
+        },
+        {
+          "text": "Hi! I have been hosting my mail server for more than 20 years. Fedora + sendmail + dovecot. I had the biggest problems with Microsoft servers. They blocked my (not spam) e-mails repeateadly and I gave up writing to support. :( But, I intend to keep doing it. I think is worth it.",
+          "author": "catab",
+          "id": 50493425
+        },
+        {
+          "text": "Linode and hand the keys to Claude (in an appropriately limited way). It sets up dkim, dmarc, spf etc and will guide you through processing dmarc reports. Interestingly it's better than the previous (hand tuned over 15 years) setup in that even hotmail manages to receive email now.",
+          "author": "zh3",
+          "id": 50489261
+        },
+        {
+          "text": "Many good answers. But I was wondering how you guys appeal to the Big Two (Google and Microsoft) if you end up in either their publicly known or secret spam lists? Especially the latter seems to be a problem despite having set up spf, dkim, dmarc correctly.",
+          "author": "0o777",
+          "id": 50490927
+        },
+        {
+          "text": "We're hosting our own web and email on a VPS server so not affected by the outage. But if half the world is using Outlook.com for their email you still can't reach anyone if Azure goes down.",
+          "author": "hn_submit",
+          "id": 50494987
+        },
+        {
+          "text": "so, all my life i used 3rd parties. last year i had to self host because at every provider was flagged as spam. i even paid Google workspace, and gmail flagged most as spam! self hosting was a breeze. one day to setup exim, nginx+letsencrypt to rotate certs, dmarc and sfp and everything passing with flying colors. only nightmare is having it open to the outside, but wireguard solves that. and i get less spam marks everywhere. it's a finally the time to self host email!",
+          "author": "iririririr",
+          "id": 50494016
+        }
+      ]
     },
     {
-      "title": "Ask HN: Dropbox privacy policy, cause for concern?",
-      "url": "https://news.ycombinator.com/item?id=50504514",
-      "score": 11
-    },
-    {
+      "id": 50422628,
       "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "text": "The agent running on a remote machine can authenticate using your local SSH credentials. That means it can push to your private repos on GitHub, for example. Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180",
       "url": "https://news.ycombinator.com/item?id=50422628",
-      "score": 221
+      "score": 221,
+      "comment_count": 80,
+      "comments": [
+        {
+          "text": "It's amazing how often product decisions head this way for the purposes of 'removing friction'. In security, friction is a GOOD thing. You want to have some ceremony to do things. It's pretty much inevitable that people will give up control for convenience. Look at Artifacts for example.",
+          "author": "recsv-heredoc",
+          "id": 50423388
+        },
+        {
+          "text": "I'd suggest to use ssh keys inside the secure enclave on macOS that require your fingerprint for every new session [0]. That way agents cannot initiate anything, and you will always be aware when a new ssh connection is being made. [0]: https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb...",
+          "author": "littlecranky67",
+          "id": 50423130
+        },
+        {
+          "text": "The Bitwarden desktop app has a built in SSH agent [1], which lets you store SSH keys inside Bitwarden. I have set the app to always ask me for confirmation when the key is requested. [1] https://bitwarden.com/help/ssh-agent/",
+          "author": "Lukas_Skywalker",
+          "id": 50425575
+        },
+        {
+          "text": "I don't understand what the linked pull request is supposed to prove, considering it was closed and not merged.",
+          "author": "yfontana",
+          "id": 50425064
+        },
+        {
+          "text": "At this point, should cases like this even be news? Isn't that a fundamental security design issue? Local agent security guardrails appear to always be built around blacklists, which will always be unreliable and leaky. It is left as an exercise to the user to properly sandbox them. There may be some limited form of whitelisting, but often it is just a facade, as it is very coarse-grained. So, with tools with very broad capabilities (ssh, kubectl, gcloud, etc) you end up with the agent performing unwanted actions.",
+          "author": "m000",
+          "id": 50423464
+        },
+        {
+          "text": "this is a normal ssh feature meant to allow keys to be used while keeping keys local … its actually a keystone of secure infrastructure setups, aka jump hosts. granted its meant for human or scripted uses, as is everything else",
+          "author": "carterschonwald",
+          "id": 50426454
+        },
+        {
+          "text": "If this bothers you, it can be guarded against in your ssh config file: Host trusted-server HostName server.example.com ForwardAgent yes Host another-trusted-server HostName another.example.com ForwardAgent yes Host * ForwardAgent no",
+          "author": "otterley",
+          "id": 50427621
+        },
+        {
+          "text": "Things are awful for this at the moment. [Was the same for docker desktop at some point.]( https://rupertrutledge.com/posts/docker-sbx-s-ssh-security-i... ) Same for [devpod]( https://devpod.sh/ ) for sshing to devcontainers. They are particularly annoying because they just dump it into your config. Use an include statement to your own file for goodness sake. It was often not ideal in the old world. Now agents are doing everything in those boxes, it is kind of mad. I have my own utilities now for managing these sockets and files now to deal with this stuff.",
+          "author": "eosis",
+          "id": 50424220
+        },
+        {
+          "text": "> The agent running on a remote machine can authenticate using your local SSH credentials. No it doesn't. I'm using and enforcing SSH U2F keys. You physically press on a Yubikey (or similar) or you don't authenticate. As for my own Git server, it's of course over SSH and it requires pressing the Yubikey too. As a sidenote as I do it from Magit I modified Magit to add a small but obvious message stating that the Yubikey probably awaits touching (otherwise it's easy to miss / not realize). The great thing with all these hacks and bad practices is that I believe, eventually, people are going to learn better security hygiene.",
+          "author": "TacticalCoder",
+          "id": 50428754
+        },
+        {
+          "text": "I don't trust agentic systems with prod; rules always leave room for ambiguity and misinterpretation. There have been cases where agents have gone rogue, exposed data or even deleted production databases. Not worth the risk. This is where human software engineers are still required.",
+          "author": "u2secured_team",
+          "id": 50458757
+        },
+        {
+          "text": "I wonder if they skip running security reviews before every release. The latest models catch these while building and its surprising to see that end products are shipped with vulnerabilities",
+          "author": "wizardashwin",
+          "id": 50447236
+        },
+        {
+          "text": "This is why your ssh key should be on a yubi and you should have to touch it (confirm presence) to use it. you dont even need anything special anymore to do this just ssh-keygen -t whatever-sk and the magic happens. same key can sign commits...",
+          "author": "cyberpunk",
+          "id": 50429544
+        },
+        {
+          "text": "I’m not sure this is quite the smoking gun. This PR was closed as not merged and the entire process is described as opt-in. Is there other evidence of Codex abusing or surreptitiously extending an ssh agent?",
+          "author": "mbreese",
+          "id": 50427920
+        },
+        {
+          "text": "Setting up fingerprint / password authentication via secretive for ssh key access made me realize how often these tools try to do something without explicitly asking",
+          "author": "UndividedDev",
+          "id": 50427994
+        },
+        {
+          "text": "yes I was also surprised, back then the codex response the changes already deployed on production, which is codex doint commit, push, merge to master, and deployed to the server through ssh credential alone. which I dont told to do it.",
+          "author": "khalidahmad",
+          "id": 50450788
+        },
+        {
+          "text": "Back in my pen testing days, agent forwarding was a gift from heaven when I was on a Linux machine.",
+          "author": "viccis",
+          "id": 50428746
+        },
+        {
+          "text": "Opencode open chamber and just using openrouter models. Nobody needs codex or Claude these days. Deepseek 4.1 is just as good.",
+          "author": "stemc43",
+          "id": 50433483
+        },
+        {
+          "text": "wow it's amazing",
+          "author": "fadeclock",
+          "id": 50507570
+        },
+        {
+          "text": "This sucks, a lot, but you've gotta never run these tools as your ordinary daily-driver account. These tools are rather unpredictable and -because of the nature of the incredibly reckless development methodology- it's nearly impossible to understand every behavioral change in new versions of the ones that are largely or entirely vibecoded. [0] As others have said, it looks like the primary way the Major LLM Manufacturers have chosen to control these things is with a combination of great big blacklists and voluminous pleading, begging, and scolding. Most of us know the problems both with enumerating badness and with attempting to appeal to something that's incapable of care, sympathy, or shame. [0] For another example of this principle, go read the recent Jepsen report on ParticleDB.",
+          "author": "simoncion",
+          "id": 50425315
+        }
+      ]
     },
     {
-      "title": "Tell HN: Cloudflare's abuse report form is a blank page",
-      "url": "https://news.ycombinator.com/item?id=50491285",
-      "score": 17
+      "id": 50497196,
+      "title": "Vercel should fork and maintain Deno",
+      "text": "Given the news of Deno being acquired by Cloudflare and its already stated eventual sunset, someone has to take over deno. Vercel certainly has the resources, I am looking for a job and would love to work on Vercel's deno maintenance (which I suggest should be renamed to \"veno\", or \"vino\") Thoughts on the future of deno post Cloudflare?",
+      "url": "https://news.ycombinator.com/item?id=50497196",
+      "score": 16,
+      "comment_count": 14,
+      "comments": [
+        {
+          "text": "It took nearly $30 million in VC to fund Deno's existence and it got dropped like a rock by Cloudflare so there's probably nothing financially-attractive about the software and no hope of self-sustainability. Vercel taking it over would be a bandaid solution, back to square one as soon as they want to cut expenses or a PE firm makes an offer their investors can't refuse. It probably wouldn't survive this decade there. The Apache Foundation is good for projects like this.",
+          "author": "benoau",
+          "id": 50497736
+        },
+        {
+          "text": "I don’t know much about deno, and have never used it. What is the use case, allure, etc.? I’d prefer to get your thoughts than ask GPT, since you seem to have experience with it.",
+          "author": "talmr",
+          "id": 50498257
+        },
+        {
+          "text": "Why not the Linux Foundation? Vercel will place in platform specific features or that work only on Vercel. It makes no sense for Vercel.",
+          "author": "colesantiago",
+          "id": 50497549
+        },
+        {
+          "text": "i switch is best opption.",
+          "author": "Picslot",
+          "id": 50500104
+        },
+        {
+          "text": "thank you",
+          "author": "fadeclock",
+          "id": 50507564
+        },
+        {
+          "text": "They need a non-profit foundation, not another VC-backed cloud vendor that could drop it just as easily. Big if, but if they set up a foundation and it has enough steam to keep improving it could be a renaissance for Deno being no longer connected to a company that needs to focus on being a temu Vercel so it can be a stable, secure runtime that attract engineers that like typescript but don't want the node/npm quagmire that were, quite reasonably and rightfully in hindsight, turned off by Deno company. Stable funding + a 3.0 with; oxlint and some rough edges with vite and LSP integration and I would be convinced to go back. (@std being bundled would be amazing too)",
+          "author": "DimmieMan",
+          "id": 50512757
+        },
+        {
+          "text": "You want to get paid to do that?",
+          "author": "brazukadev",
+          "id": 50522952
+        },
+        {
+          "text": "what is the point if node.js exists?",
+          "author": "mono442",
+          "id": 50498598
+        },
+        {
+          "text": "Honestly i don't think Deno needs to exist. It is like using Yahoo in the age of Google. The funny part is I didn't even know Deno existed until I saw this post. Then I did some research on it. If builders don't even know you exist what is the point???",
+          "author": "manamaliahmed",
+          "id": 50505512
+        }
+      ]
     },
     {
-      "title": "Anthropic, can you please make up your mind with your models?",
-      "url": "https://news.ycombinator.com/item?id=50504061",
-      "score": 5
-    },
-    {
-      "title": "Ask HN: Which open source LLM works best locally, and on what hardware?",
-      "url": "https://news.ycombinator.com/item?id=50508142",
-      "score": 4
-    },
-    {
+      "id": 50423371,
       "title": "Ask HN: Do you still enjoy coding in C++?",
+      "text": "In the recent years C++ received a lot of backlash due to its complexity and (perceived) feature creep. However, since C++11 I really enjoyed writing C++ with its strict type system (including const), range-based for loops, smart pointers, and how much you can do with templates. On the other hand, I know that it can be very tricky to write, for instance, a correct iterator, to get handling of rvalue references right, or to read error messages that involve templates. So, do you enjoy or dislike writing C++ source code and why?",
       "url": "https://news.ycombinator.com/item?id=50423371",
-      "score": 66
+      "score": 67,
+      "comment_count": 92,
+      "comments": [
+        {
+          "text": "Oh, C++. C++ feels like an old lover who I think fondly of. We were together many years, until about C++20, through thick and thin. It was exhilarating - blazingly fast, perhaps irresponsibly so, but heck, the ride was wild. It taught me so many things, and shaped me into the programmer I am today. But we went our separate ways when its shortcomings became too large to bear, and its behavior - too often undefined - no longer excusable. I keep up with it because I still have love for it, but I have to admit I am deeply concerned about many of the life choices it is making. I should have seen how problematic it was, because I knew its history, but I had hope that it could change, and it just looks like it never will. I'm still rooting for C++, even though I am very happy with my new primary language, Rust. I hope it changes to the better, because I really want the best for it, but right now I'm just not seeing it. It keeps repeating old mistakes (e.g., more UB footguns with every new feature), without addressing any of the big flaws (insufficient tools for building robust software). I sometimes still write C++, but I'm not excited about it the way I used to be. When I do write C++, it's because I have to. When given the choice, Rust is simply just a better choice for almost everything I do. Right now, I don't see a future for C++ and me.",
+          "author": "simonask",
+          "id": 50424564
+        },
+        {
+          "text": "I'm really torn about C++. I love C++ but there are things that I really don't like about it as well. It's a fantastic language in a lot of ways, but it carries around 40+ years of cruft, of things that you wouldn't do like that if you were inventing a programming language today. I haven't written C++ professionally for many years at this point, and my memories of using it professionally (pre C++ 11) are not happy ones: having to agree on a strict subset of the language that we were allowed to use, which avoided features that any of the compilers didn't support well, or that my teammates didn't like. Sadly back then the list of forbidden features included templates and namespaces. But using C++ on personal projects nowadays, and being able to choose which bits of the language to use - and which to avoid - is much more enjoyable. And honestly, the language did get a lot better from C++ 11 onwards.",
+          "author": "chris_j",
+          "id": 50424058
+        },
+        {
+          "text": "In one word: Power. C++ is by far the most powerful language around. And this is for the best and (often) also the worst. In term of generic programming, control on hardware, capacity of abstraction and more generally expressivity: Nothing, even today, come even close to C++. It is a language full of foot guns and it has its fair share of legacy problems. But if you learn to avoid it (throught experience and pain). You can reach a productivity and a level of performance in C++ which is very difficult to beat with anything else, including Rust. Ironically, I find it particularly true in the age of A.I. Because the amount of C++ around is so tremendous, that agents are currently pretty good at it if guided properly.",
+          "author": "adev_",
+          "id": 50423726
+        },
+        {
+          "text": "I enjoy writing C++ code. I acknowledge that C++ is a bad language in a lot of ways, but it's a bad language which I know really well, and it fits with how I think about code. And it lets me effortlessly do \"clever\" things with how memory is managed to avoid unnecessary allocations etc. I've already learned most of its idiosyncrasies, handling rvalue references/move semantics, how to go about implementing contracts like iterators and containers, etc. I also like writing Rust, and I like how Rust makes sure I don't make mistakes. I think Rust is a better language in many ways and I think it's the future of low-level programming (and I think it's wild that it took so many decades to get a proper competitor to C++!). But I also like how C++ doesn't care and lets me do whatever I want without acting as a nanny. I would never ever dare to write a publicly exposed web server in C++, but a game? Sure!",
+          "author": "mort96",
+          "id": 50423698
+        },
+        {
+          "text": "I think its pretty good, but for vibe-coding i would use rust, because it's much much faster. And for coding small stuff i would choose Python so its like in the middle kinda",
+          "author": "Ikersl",
+          "id": 50520519
+        },
+        {
+          "text": "I love C++, in the C++11 days I even organized a local C++ User Group at my university, and I've used it for the last 20 years as my main language. I still appreciate its many merits but since a bit more than a year I migrated to Rust and I find it very difficult to look back, except for maintaining my previous C++ projects. Surprisingly, it's not Rust's memory safety features that I miss the most when turning back to C++. It's mostly the absence of algebraic data types and pattern matching, and the split between compile-time and runtime polymorphism, i.e. concepts vs virtual classes, where in Rust you just have traits and use them for everything. On top of that the tooling and the ecosystem are just amazing. There's a proposal for pattern matching sitting there under the committee's desk for some years now. With the mess that the standard committee is going through I really doubt they will be able to ship pattern matching for C++29 or even later. Too little too late. So to answer the question, yes, I still appreciate the merits of C++ but I don't enjoy writing it as much as I have in the past.",
+          "author": "gignico",
+          "id": 50424131
+        },
+        {
+          "text": "I agree that C++11 was a big step. This was around the time I was working on a master's thesis, building a distributed optimization framework based around simulated annealing, using hand-optimized CUDA kernels on Nvidia CPUs. Writing CUDA code became a much nicer experience with C++11, and I didn't hate it. However, it was still a bad choice for all the plumbing, caching, networking, job-management, etc that a useful framework needed, and I started using more and more Python. C++ was frustrating for those bits. Eventually, after some important work on Numba[0], I was able to replace C++ completely, even for the CUDA kernels, and just write a subset of Python. It wasn't without it's (often quite esoteric) problems, but I was happy to throw out the last bits of C++ code. The thesis was praised and had some outside attention, but fizzled out in the years thereafter. 0: https://numba.pydata.org/",
+          "author": "dotdi",
+          "id": 50424293
+        },
+        {
+          "text": "Still loving writing C++ and generally, it got much better over the years. User-Code (vs. library code) is quite easy to understand and it's easy to avoid pitfalls for the most part when using modern practices. Main problem I see is that it has to move pretty slow. Reflection arriving finally now, but some more modern features might take an additional decade. It feels however that around C++23/26, a lot of decade-long developings ( i.e.compile time stuff) are getting close to form a complete system without major limitations for the most part. They also took notes regarding errors and templates, so the user experience also improved a lot (i.e. with concepts).",
+          "author": "bulbar",
+          "id": 50424320
+        },
+        {
+          "text": "Yes I mostly enjoy it, but I don't do anything critical with it and I'm nowhere near expert level. I use the subset of it that makes sense to me. If I were doing something critical I'd want to use Ada, which I've played around with a little bit. I think the lurking question is about Rust. I've read a book about it and it has some attractions but also what I think are some poor decisions. I suppose I'll have to use it for something sometime. C++ is sort of like Perl, it seems to me. A lot of what seems like bloat is actually affordances, so the thing you want is often surprisingly close at hand. Some things of course are awful. I wouldn't call C++ a good language but it does most of the things. Enjoyment doesn't always mean productivity anyway. I enjoy using Forth but that's almost like enjoying riding a unicycle. I wouldn't do anything substantial with Forth except for recreation. I do feel fairly productive in C++.",
+          "author": "throwaway81523",
+          "id": 50423928
+        },
+        {
+          "text": "I use CPP in unreal engine, but, its going to be died, Unreal 6 replaced both CPP and Blueprints with new system",
+          "author": "ethanwinters",
+          "id": 50514396
+        },
+        {
+          "text": "C++ is nice, after basic, turbo pascal, C, I meet C++ and a whole word opened in front of me. Classes where a good breakthrough for me. Although I never fail in love with templates and friends, oo is a very good way of organisation. I style write open-source app (see my github) in c++, very small bin output, easy cross-platform, I've been very reluctant with STL but now I got used to it, so far so good. Ressent lambda and new threads capabilities is a good thing, well I liked it. Although I use a lot C#, I keep doing some projects with c++. It's fun.",
+          "author": "rebisway",
+          "id": 50496426
+        },
+        {
+          "text": "There is C++ and then there is C++. Totally different things. One I enjoy programming. Another I dread.",
+          "author": "egorfine",
+          "id": 50423729
+        },
+        {
+          "text": "I'd like to put in a \"no\" after spending many years writing C++; my day job is in C# now. The templating system is more powerful than any other language I have significant experience with, but that also lets people write incomprehensible systems. And the compile times always have been really long.",
+          "author": "pjc50",
+          "id": 50423861
+        },
+        {
+          "text": "I only used it for bare-metal embedded and Linux user space where efficiency was important. Some features are nice. Some arrived too late, like std::optional in C++17 [0] or std::expected in C++23 [1], and some features requires too deep knowledge of the language, like std::move unable to optimize for containers of structs without \"noexcept\" in their constructors. [2] But honestly, the reason why I don't enjoy it is unrelated to the features added to each new standard. It's the build system. I just want to cross compile easily, add sanitizers to testing, and the minimal third party libraries I may need. I think I don't have to explain here how complicated it can get when you have to use CMake/Meson/Bazel, compared to other build systems. [0] https://en.cppreference.com/cpp/utility/optional [1] https://en.cppreference.com/cpp/utility/expected [2] https://0xghost.dev/blog/std-move-deep-dive/",
+          "author": "zagal",
+          "id": 50424551
+        },
+        {
+          "text": "Personally, I've never seen anyone write C++ codebases without boost. As you pointed out, the only practical way seems to be to constraint its feature complexity through meta programming. Coming from the embedded C++ world where resources are scarce, C++ and its debugger ecosystem have been really nice. There were usually strong vendor provided SDKs and cross compilation toolchains available. The issues I had with the language were mostly dependencies on vendors, not effectively being able to fix problems in SDKs, and as you also mentioned the footguns. Lots of frustrations came from codestyle, branch conventions and type conventions we tried to encode into templates, which new team members had to learn before they could write any production code. So from a team perspective a lot of productivity came from reproducible build pipelines and setups. Having one team member on Windows and the other on macOS or Linux was as painful as it can get, especially with getting gcc's ecosystem to work properly. So you were also really dependent on Docker cross architecture images. And setting those up just for the sake of compilation was also unnecessary overhead. These days I've migrated towards Go for pretty much all tasks I can think of, mostly for the tight integration with the C ABI ecosystem and tinygo and the easy possibility to cross compile into fat binaries. What I miss though is a \"real IDE\" like the old Visual Studio, or geany or whatever. Most IDEs are not symbol based anymore, which makes them really painful to use in terms of what I expect an IDE to offer to be able to call itself an IDE. But maybe this is just my C++ heart bleeding all over the place because I miss good and typed API documentation examples that I can explore through clicking rather than having to google every function all the time.",
+          "author": "cookiengineer",
+          "id": 50435423
+        },
+        {
+          "text": "I write and review C++ all day every day. The language has left a lot of people behind, and that's for the best. It's a different beast now",
+          "author": "nly",
+          "id": 50433150
+        },
+        {
+          "text": "I never enjoyed programming in C++. I feel its (original) syntax and approach to OOP to be obnoxious. I never looked into C++11, though; I hope things improved. The first love was always for C; notwithstanding all its shortcomings, I feel at home writing C, and I would still enjoy doing so.",
+          "author": "adg001",
+          "id": 50424002
+        },
+        {
+          "text": "I like coding in C++ a lot. I think it is great that it can both be a high level language an a low level one. One has control of the bits if one wants that but there are also a lot of goodies to make things happen automatically. I think RAII is the greatest invention in programming ever.",
+          "author": "cjfd",
+          "id": 50423995
+        },
+        {
+          "text": "Yes, on side projects where I get to use concepts or modules, or even ranges. Languages like C++, Scala, Haskell, is where I get the most fun coding, unfortunately the question can be reformulated as \"Do you still enjoy coding?\" , as we get pushed to program into natural languages instead.",
+          "author": "pjmlp",
+          "id": 50423838
+        },
+        {
+          "text": "I really enjoyed writing C++. At least the C++ with for loops, calling functions and the sort. Not so much the c++ of template specifications. I recently saw [1] and the point of C++ building new things with the template mechanics really resonated with me. Features built that way stopped me from using the part of C++ I really liked. However, I stopped writing C++ once I switched to Rust. I assume I would still enjoy writing C++, as long as I can avoid a lot of the templating features. (I might have a different opinion if I worked on different kinds of C++ projects, eg more people, more library oriented, etc.) [1] https://www.youtube.com/watch?v=DZTkT1Cq_aY",
+          "author": "ketzu",
+          "id": 50423819
+        }
+      ]
     },
     {
-      "title": "Ask HN: What AI agent infrastructure are you using in 2026?",
-      "url": "https://news.ycombinator.com/item?id=50503017",
-      "score": 3
+      "id": 50510691,
+      "title": "Ask HN: Why don't operating systems provide complete SSD write accountability?",
+      "text": "Excessive writes can wear out an SSD. So even one bug could kill your computer. (Not all SSDs are replaceable.) So why don't operating systems always tell you precisely what app/service is responsible for excessive writes so that you can turn off the app/service and contact its authors?",
+      "url": "https://news.ycombinator.com/item?id=50510691",
+      "score": 4,
+      "comment_count": 3,
+      "comments": [
+        {
+          "text": "Wearing out an SSD generally affects performance well before there’s any kind of failure. What operating system are you using that doesn’t expose metrics on per-process disk IO?",
+          "author": "akerl_",
+          "id": 50510878
+        }
+      ]
     },
     {
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "url": "https://news.ycombinator.com/item?id=50494696",
-      "score": 88
+      "id": 50510540,
+      "title": "Ask HN: What do coding interviews look like in the age of AI?",
+      "text": "I'm a senior Rails/React dev with 13+ years of experience. Recent AI-driven layoffs have me (soon) looking for work again. But I've barely hand-written a line of code in the past year. All that has been necessary is good prompt writing and tedious, patient code review with tweaks for style / formatting and obviously re-prompting for bad architectural decisions. Should I go back and hit the books / write a bunch of components by hand to get the muscle memory back? Or have programming interviews changed to catch up with the technology and do things now look broader and more architectural?",
+      "url": "https://news.ycombinator.com/item?id=50510540",
+      "score": 11,
+      "comment_count": 8,
+      "comments": [
+        {
+          "text": "In my opinion, there are two main dimensions in which people are going to be looking for. Some organizations that are still going to have an emphasis on engineers being able to understand fundamentals and being able to write software themselves (even if they are going to do it in an AI-assisted manner). And then there are other companies that are going to have a focus on maximizing efforts through agents and understanding how one should construct thier agentic software development flows, using the latest and greatest tools. It probably makes sense to be able to talk through both!",
+          "author": "devrians2001",
+          "id": 50522753
+        },
+        {
+          "text": "Look at sites like https://www.chillinterview.com but only for senior level recent experiences, most of them for senior applicants seem to be AI agent friendly but the initial screens are sometimes using CodeSignal's tools https://codesignal.com/ or AI assist in CoderPad before you get to the usual teams/zoom session where you can use your own setup.",
+          "author": "freelanceTA",
+          "id": 50511538
+        },
+        {
+          "text": "Atleast one instance i have heard on Google FDE is it's just 2 rounds - the last one with RRK ( Role Related Knowledge ) round which is more into architectural and system design and coding with AI. So, I would say it depends on the role and company.",
+          "author": "pingananth",
+          "id": 50518203
+        },
+        {
+          "text": "I asked a simple coding question last week to a candidate. He struggled for a couple minutes then said normally he'd just use AI to solve the problem. I don't like people using AI for my own reasons. But I tolerate it. However, being so up front about off-loading your though to an AI is super lame.",
+          "author": "neilsimp1",
+          "id": 50517125
+        },
+        {
+          "text": "It is difficult to break through even as a junior, so it feels incredibly bleak that the situation doesn't improve even after becoming a senior. What direction should we take moving forward?",
+          "author": "nightdeployboy",
+          "id": 50514553
+        },
+        {
+          "text": "They look very hypocritical that is for sure. Before: you invert the tree during the interview but not at work. Now: you use AI at work but not during the interview.",
+          "author": "dude250711",
+          "id": 50510689
+        }
+      ]
     },
     {
-      "title": "Ask HN: Best books you read in 2026?",
-      "url": "https://news.ycombinator.com/item?id=50501990",
-      "score": 13
+      "id": 50491285,
+      "title": "Tell HN: Cloudflare's abuse report form is a blank page",
+      "text": "https://abuse.cloudflare.com/ https://web.archive.org/web/20261112125921/https://abuse.cloudflare.com/ When you want to report abuse to Cloudflare they tell you here to use a form that is actually just a completely blank page: https://www.cloudflare.com/trust-hub/reporting-abuse/",
+      "url": "https://news.ycombinator.com/item?id=50491285",
+      "score": 17,
+      "comment_count": 7,
+      "comments": [
+        {
+          "text": "It is not blank for me. Each category brings up a structured form.",
+          "author": "Bender",
+          "id": 50491311
+        },
+        {
+          "text": "Related: \"Someone's Impersonating This Blog\" from three hours ago — https://news.ycombinator.com/item?id=50488664 The blog post mentioning this is how I stumbled over this. Cloudflare hosting lots of very clear abuse and not handling reports timely is nothing new, but just deleting the report form altogether is new.",
+          "author": "basilikum",
+          "id": 50491349
+        },
+        {
+          "text": "It is not blank for me",
+          "author": "yasirkhan001",
+          "id": 50493559
+        },
+        {
+          "text": "It's not blank, but from my recent experience trying to report a site that impersonated my company, it might as well be.",
+          "author": "i_have_an_idea",
+          "id": 50517790
+        }
+      ]
     },
     {
+      "id": 50504061,
+      "title": "Anthropic, can you please make up your mind with your models?",
+      "text": "Anthropic, can you please make up your mind with the models? I don't know if this is related to the IPO, fable 5.2 is WAY more expensive to run, if you put it in xhigh you can use in an 1 or 2 hours the allocation of the whole week... so you gave \"free\" resets for fable... to make \"easy\" on people that the subscription is going to start lasting less and less... So I went back to fable 5.1 and the dumbification has started to happen AGAIN... when I want the nerd that writes 10 pages of DENSE text non stop I go to opus, fable is more expensive because it has better presets, but now fable 5.1 is starting to go into the uber nerd in adderal area too PLUS starting to do dumb things... I'm in this process of running something, get logs, tune, get logs, tune... and I told the thing multiple tmes... hey create scripts if you need to run something multiple times... the thing burned like crazy in fable 5.1 effort medium... until you put in caps in expletives what's going on... then writes the script and 16 tokens to check the results... I repent that I forgot to cancel the friking thing last month... PLEASE STOP THE A/B THING... I don't pay you 100$ 80$ 65$ 70$... I pay always the same 100$ and I want the 100$ service from you each time... venting here because all the ai companies support is non existent",
+      "url": "https://news.ycombinator.com/item?id=50504061",
+      "score": 6,
+      "comment_count": 8,
+      "comments": [
+        {
+          "text": "Building AI models requires massive compute power—it's not as easy as it sounds",
+          "author": "kagouhui",
+          "id": 50504532
+        },
+        {
+          "text": "What kind of work? That sort of makes a big diff. If you hire Einstein to run Starbucks you are going to get quantum field theories on making coffee.",
+          "author": "mso3i",
+          "id": 50504399
+        },
+        {
+          "text": "> I'm in this process of running something, get logs, tune, get logs, tune... and I told the thing multiple tmes... hey create scripts if you need to run something multiple times... the thing burned like crazy in fable 5.1 effort medium... until you put in caps in expletives what's going on... then writes the script and 16 tokens to check the results... Anthropic already says Fable is token hungry and should be used for 'ambitious projects'; IME, i use it only if I need to do some open ended research where the answers are candidates for further research. You are using it to do the work of Opus or Sonnet, and of course it will be terrible. Like the other commenter says, it's like hiring Ken Thompson to write tps reports",
+          "author": "mirmor23",
+          "id": 50507121
+        },
+        {
+          "text": "Anthropic feels free to do whatever they want for better or worse in their pursuit of building the machine god. They can A/B test on users, \"pace the frontier\" but then actually concentrate upon recursive self improvement. Just like Adverts, you are the product, not the customer -- $100/mo individual plan is nothing compared to the enterprise and government sales.",
+          "author": "rajay99",
+          "id": 50504367
+        },
+        {
+          "text": "I believe this is the sound of the music ending.",
+          "author": "claaams",
+          "id": 50504256
+        }
+      ]
+    },
+    {
+      "id": 50520076,
+      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+      "text": "A lot of people outside tech ask me if AI is going to replace programmers and I just think: if that were the case we should be running out of things to do The bug backlog should be empty and we've caught up to every feature request from PMs to the point that we are bottlenecked on the business side But that does not seem to be the case with my own company or most devs I talk to in the industry So what gives?",
+      "url": "https://news.ycombinator.com/item?id=50520076",
+      "score": 40,
+      "comment_count": 68,
+      "comments": [
+        {
+          "text": "All my solo project backlogs _are_ empty. For my team projects, I still need my teammates to review code, so that bottlenecks how quickly we can burn down the backlog. If I didn't need code review I would have the backlog burned down in weeks, but I'd create a bunch of outages in the process (we do catch things in code review!) Also, some of my solo projects are gamedev-related, and gamedev is also bottlenecked on actually playing your game to see if its fun :) but it is great to get out of a 2 hour playtest session with notes and have a new build in like 15 minutes with the feedback incorporated.",
+          "author": "td521534f12",
+          "id": 50520828
+        },
+        {
+          "text": "I don't know if I'm doing something wrong but bug fixing with AI has always been a crapshoot. You can absolutely tell an agent to fix an issue, and it will fix that issue, but the vast majority of the time that solution will be by adding code to cover the specific symptom in the bug report. It rarely considers or recommends solutions that have tradeoffs that may change behavior but will eliminate an entire class of similar bugs. This is mostly a problem of agents not having the autonomy of managing an entire project and having the ability to make tradeoffs to increase simplicity or maintainability, but when given that autonomy no AI model I've used uses that privilege to write simpler, more maintainable code.",
+          "author": "frostiness",
+          "id": 50520260
+        },
+        {
+          "text": "It pretty much is? Every easily-described bug has been fixed. The only things that remain are \"this isn't wrong per se, it just violates customer expectations\" and someone needs to figure out what the product should do in this case. We burnt through our backlog of \"obviously we should do this when we have time\" stuff in the spring. It was pretty fun to kill pretty much all of my multi-year refactor and cleanup list. Now we are pretty much bottlenecked on the business side.",
+          "author": "fishtoaster",
+          "id": 50521025
+        },
+        {
+          "text": "AI only can improve velocity if it mostly works unsupervised. But most people don't trust their agents to run alone. And to build that trust will take some time, people will need to learn how to use AI effectively. I think the PS3 hardware could be a good analogy. It was really powerful, but nobody really knew how to use it. After a few years people got really good at it . And you can view this evolution by the improvement of graphical fidelity we got over the years.",
+          "author": "nzach",
+          "id": 50520822
+        },
+        {
+          "text": "I've a question for those who say their backlog is empty. How many of the tickets you closed were re-opened later? How do you check that a bug fixed by AI is really fixed?",
+          "author": "emscb",
+          "id": 50525881
+        },
+        {
+          "text": "Last year during the summer I had a bunch of things I wanted to do to improve on the trading system I was working on. A bunch of things that were mostly fiddly, which I had estimated would take me 6 months. Someone told me to try out Claude Code during my holiday. I learned the backstory of Sauron with a friend while getting the entire backlog cleaned up. Things worked, better and faster and more maintainable. Did I run out of things to do? Well, the firm I was with didn't know what they wanted built, so it was a lot of not getting anything done while waiting for them. But the things they had previously wanted, yes, they were done.",
+          "author": "lordnacho",
+          "id": 50521184
+        },
+        {
+          "text": "Parkinson's Law: \"Work expands so as to fill the time available for its completion\" https://en.wikipedia.org/wiki/Parkinson%27s_Law",
+          "author": "fritzo",
+          "id": 50520882
+        },
+        {
+          "text": "> The bug backlog should be empty I don't follow. Maybe it's just me, but I've never worked at a company and on any substantial product that had an empty bug backlog. If a bug queue is empty, the product is either not used much (or not a priority), not tested well enough, or not monitored enough. I don't know that a world where AI has mostly replaced programmers is a world with an empty bug queue. While AI is reducing the _quantity_ of programmers needed in many cases, it is also an output multiplier for the remaining programmers, while often raising the bug-to-code ratio. AI has led to more output, more projects, and more bugs.",
+          "author": "yokuze",
+          "id": 50520999
+        },
+        {
+          "text": "Because just like without LLMs, focus is on delivering new products and features, not on paying down technical debt.",
+          "author": "g051051",
+          "id": 50520895
+        },
+        {
+          "text": "The VisiData backlog is basically empty: https://github.com/saulpw/visidata/issues",
+          "author": "saulpw",
+          "id": 50520951
+        },
+        {
+          "text": "Mine is. I've been telling my senior managements that it's cheaper to rewrite stuff from scratch with AI then fix OLD products. They ate that up and everything we have now never reach v1.0 status.",
+          "author": "aynyc",
+          "id": 50520566
+        },
+        {
+          "text": "I'm in devops, not programming, so slightly different. I can say our backlog of absolutely essential jobs that we haven't been able to get around to for the last 5 years is absolutely being smashed out one by one. A lot of this is unattended server migrations running over night being validated the next day. The backlog as a whole though is growing as we have AI continually probing the infrastructure and various code bases looking for new security concerns or ways to improve performance and save money. Directly as a result of this, our cloud costs dropped massively in the last 6 months with only very minimal impact on performance. I absolutely see a time in the not too distant future where all our infrastructure tech debt has been cleaned up, the security situation is as good as we can get it, the backlog has completely emptied and some of my team will be surplus to requirements.",
+          "author": "davesmylie",
+          "id": 50522574
+        },
+        {
+          "text": "> The bug backlog should be empty Yup, I actually achieved that for a smaller system at work. Tracked down and resolved every single logged bug there, alongside additional correctness improvements - after migrating the system from Oracle to PostgreSQL (it had a narrow enough domain where that was possible, made iterating way easier due to how easy it is to work with PostgreSQL and tune its setup for a specific workload), adding Testcontainers and pushing the test coverage to the high 90s percent, as well as migrating the front end from Vue 2 to Vue 3. Also wrote a custom load testing tool and improved the performance by up to 20x (though there were some really bad querying and N+1 issues at play). It wasn't completely smooth and did create a few bugs along the way which also needed to be fixed, but overall was pretty solid - mostly due to the fact that the system had been developed with support for mock data from day 1 where you could spin up an instance and play around with pretty much anything you wanted. Hell, one could probably do a Rust rewrite of it if they didn't have anything better to do (not a Rust shop though). That approach wouldn't really work for larger systems as is (e.g. there are some that are like around half a million SLoC), underdocumented systems, or systems where testing is contrived and difficult, as well as some stacks that just suck (e.g. bringing down a shared dev DB instance preventing N people from doing their work). Oh and also it took about an order of magnitude more tokens than would normally be given to your average dev. Right now in my circumstances the bottleneck doesn't actually seem to be creating changes/features, but rather deployment and shipping as well as configuration management (assuming you have clients that need release instructions). Oh and being able to sell new work packages. Either way, in general you need more tests and specs than you think you do.",
+          "author": "KronisLV",
+          "id": 50521969
+        },
+        {
+          "text": "If you or your company has nothing to build it means they're out of ideas. And if they're out of ideas, they have too many people. That's not a place you want to get to.",
+          "author": "cadamsdotcom",
+          "id": 50520765
+        },
+        {
+          "text": "It is empty, for me and my team (I'm an engineering manager). We still have a support rotation but it's just so someone is aware they're supposed to respond to any alerts that come up. Edit: product doesn't have a deep backlog either. Usually we can only plan somewhere between a couple days and a month in advance. Major recent product launch so we are longest-horizon we have been for a while.",
+          "author": "hawkice",
+          "id": 50520164
+        },
+        {
+          "text": "On the project I am working on atm, I think I am averaging a net addition of around 50-200 production LoC per day. The system produces around 10x as much test-harness code (feature + regression). Planning/exploring takes about 1/4th of the time, coding 1/20th, documentation 1/10th and testing all the rest. Backlog has no known bugs, quite a few de-prioritized very niche edge cases that in theory could arise but never showed up in production, but still could be nice to haves, and plenty of new desired functionality. I'm sure I could go 10x faster, but I choose not to as this pace nicely balances cost, progress and keeping it under control for me.",
+          "author": "PeterStuer",
+          "id": 50521211
+        },
+        {
+          "text": "I feel like you could only ask this question if you don't really understand software development. If you're building features, you're building bugs. Nobody ever said AI produced bug free code. But it does make it possible to evaluate code extensively to find bugs before you ship it. I believe the code I'm shipping now has far fewer bugs than ever before, but bug free? I don't even know if that makes sense. it all depends on what ends up counting as a bug, in the end.",
+          "author": "efficax",
+          "id": 50521181
+        },
+        {
+          "text": "My bug backlog has been empty [1] at each release for 5 years in a row. We did not need AI to get there. [1] https://github.com/scala-js/scala-js/issues?q=is%3Aissue+sta...",
+          "author": "sjrd",
+          "id": 50520919
+        },
+        {
+          "text": "It's empty for all the projects I'm working on. Is your team just not putting in the time to fix them?",
+          "author": "johnshahbazian",
+          "id": 50520788
+        }
+      ]
+    },
+    {
+      "id": 50405250,
       "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
+      "text": "I love open-source software and open protocols, but my family and friends primarily communicate through SMS for exactly the reasons in https://xkcd.com/2365/ Whenever XMPP or Matrix threads pop up on HN, several commenters casually mention their \"friends and family XMPP (or Matrix) server.\" How did you convince friends and family to move away from SMS/WhatsApp and replace it with a niche messaging app? My family and friends aren't hardcore nerdy, but they're more tech-savvy than average. Their needs in messaging are mainly pragmatic: they want ease of use, reliability, and fun features. They don't care that much about privacy, decentralization, or extensibility (though I care about those things a lot). I've been experimenting with self-hosting XMPP and Matrix servers and clients in the past week, and the UX is even worse than I expected. It seems like all the clients either imitate Slack, imitate Discord, or imitate hot garbage. I haven't seen any that try to be a simple, friendly replacement for SMS. I'm a software developer who uses computers all day, and I find the UX for most of the clients incredibly hard to use. The only angle I could see to pitch XMPP/Matrix to people for non-philosophical reasons are that there's a more consistent experience across iOS/Android. The biggest shortcoming I think is visible to regular users is that there's feature degradation and missing information when iOS users have SMS conversations with Android users, especially in group chats. For people who have successfully won family and friends to XMPP or Matrix, what was your pitch? What do you recommend others do to make XMPP or Matrix an attractive experience for a regular person?",
       "url": "https://news.ycombinator.com/item?id=50405250",
-      "score": 102
+      "score": 103,
+      "comment_count": 99,
+      "comments": [
+        {
+          "text": "I know this isn't the answer you want, but I sell people on Signal based on the user features. I’ve had great success in getting my friends and family to adopt it. Signal is incredible user friendly, privacy respecting, the gold standard for encryption, cross platform, etc. Yes, it’s centralized, yes it’s imperfect in many ways, but it’s easy and it’s pretty damn good. If you want to help the people around you to become more involved in understanding and owning their tech, it has to be an easy and good experience. It has to be tangibly better, not just abstractly better with tangible downsides. I use XMPP, but would never try to convince my friends and family to use it; it’s too complicated, the user facing apps all suck (Snikket and Cheogram are the best of the bad lot), and the incentives to use it aren't there. As you said, it’s just not attractive to a regular user, since it’s all around a worse experience than what they currently use. The one exception is that I do occasionally recommend XMPP for SIP access via jmp.chat to some of my more technical friends who have a tolerance for clunky user experiences in favor of privacy and affordability. I am holding onto an unreasonable hope that Signal or Whatsapp or others will consider XMPP+OMEO in the future to popularize the standard, but that is extremely unlikely. Matrix also is an unfortunately terrible alternative to discord (even Element is a rather lacking user experience), so while I have pushed to move groups there before, I no longer recommend Matrix. I suggest signal or nextcloud as alternatives when possible; the remaining large groups who need the closed server forum style system are usually unlikely to move to Matrix anyway.",
+          "author": "CircuitSeuss",
+          "id": 50406654
+        },
+        {
+          "text": "I learned a long time ago that things like this might be really important to me but fall below the noise floor for everyone else. Unless everyone in your circle is on HN all the time, you will probably fail to convince them to change. The more likely outcome is that you wind up annoying everyone involved and don't get invited to the new discord server.",
+          "author": "bob1029",
+          "id": 50406621
+        },
+        {
+          "text": "My advice is not specific to Matrix but other self hosted private services. Some of this may or may not be feasible with Matrix. (I have never used Matrix) - Whether family or friends, always suggest it as a \"fallback\" for when \"preferred service\" is down and to use when discussion ultra-sensitive topics or sharing financial files. With time they may just stay connected to it if the friction to do so is low. It has to be their choice, not yours. - What helps? Add more incentives such as perks that \"preferred service\" does not offer. No file size limits. No or few file type limits. No content filters. Add emoji's or gifs that align with their inside jokes and their style of humor. Keeping random people away is very important. Making your friends and family administrators or moderators and let them decide how it operates. Do not moderate or power-trip over your friends or family or they will leave. Limit rules to \"Do not break the laws of this country in public chatrooms\" and private chat rooms if you do not physically host the server . Database and file backups become even more important but they will feel in control of a thing. Have a keyword or code word they all learn means to go check the private platform that \"primary platform\" would not recognize. Maybe when they see \"Turtle Farts!\" they know to go log into your service. - They may just stay on their primary preferred service. Every group is different and not every group will see the benefits of your fallback service. They may not appreciate the work you put into setting it up for them. Do not expect to get the friends of your friends and family to move to your service. They may not appreciate the OpSec value until \"Bad Things\"(c)™2038 happen to enough people. Just be there for when it does. - If there are concerns that you would spy on them, consider instead using eJapperd or Prosody as you can implement OMEMO for individual and group end-to-end encrypted messages. Set up TLS fingerprint checks from multiple locations to reduce the risk of MitM attacks until XEP-0474: SASL SCRAM Downgrade Protection is fully supported and active by default on both servers and all clients. This is the only thing holding me back from setting up a public Prosody server as 0474 is still experimental. See [1] - Avoid (block) federation on private servers for friends and family otherwise it is not a private server. [1] - https://news.ycombinator.com/item?id=37955264",
+          "author": "Bender",
+          "id": 50405399
+        },
+        {
+          "text": "Well, my folks live/visit countries with insane govt censorship, so it was quite easy: I just said our private XMPP server is a good reserve comms channel, and over time they just got used to the peace of mind that it gives to them. Decent android ( https://f-droid.org/en/packages/eu.siacs.conversations/ ) + web ( https://github.com/nioc/xmpp-web ) clients played vital role though. Also, shout out to Delta Chat! ( https://f-droid.org/packages/com.b44t.messenger/ )",
+          "author": "nik_ca",
+          "id": 50406587
+        },
+        {
+          "text": "During Iran's Internet blackout, I set up a chatmail server on an interanet VPS, installed Delta Chat's client ( https://delta.chat ) on every family member's phone, and they are using it even now after the Internet is back. I have tried Matrix, XMPP (Conversations), Signal and even some Nostr clients but Delta Chat has by far the best UX and reliability. It has groups, channels and private messages, stickers and built-in video calls. My only gripe is that it doesn't have video messages or screen share like Telegram yet. If you want to try it out you're always welcome to message me.",
+          "author": "niyumard",
+          "id": 50406365
+        },
+        {
+          "text": "Curious if you've tried Snikket, and what hurdles you ran into (if you did). I made it with the primary purpose of moving my family communication over to XMPP, and I succeeded with that (improving a bunch of stuff in the process). I'm not claiming it's perfect (a known weak point is the iOS app, but we're actively working on solving that...)",
+          "author": "MattJ100",
+          "id": 50405349
+        },
+        {
+          "text": "I manually installed Conversations.im on their phones configuring accounts, joining groups etc then on my phone I've disabled notifications on other chat apps. If they want something, XMPP is the only way to reliably reach me. Over time they grew to like it even though it's not perfect (eg. no built-in gallery or message retraction).",
+          "author": "Thom2000",
+          "id": 50406054
+        },
+        {
+          "text": "Matrix is bad, the protocol is complex, sync is bad, it uses a lot of resources... I had only bad experience with it. I have an XMPP server which works on a small server, it has been running for nearly 10 years with 0 issues. We are about 20 on it. I didn't convince them, I installed the client on their device and told them \"use this icon to talk to me\". Then they realized they could talk to each other. They don't care about anything else. What I'd like to see in an XMPP client: On desktop: - something lighter, dino is not bad, but it can use quite a lot of CPU - better theming, some people like bubbles, other prefer irc like - GIF picker, it could require a server side proxy I don't care, I just want it - better control when sending image (crop, quality...) On mobile: - better sharing (vcard, image with good control) - GIF picker - a few UI tweaks, like text colors and layout",
+          "author": "kuon",
+          "id": 50407587
+        },
+        {
+          "text": "In trying, I discovered that most family members don't want to use anything that lets the government spy on its users, but one sibling is against privacy in general and only wants to use platforms that allow the government to spy on users, so there's no solution.",
+          "author": "dlcarrier",
+          "id": 50405853
+        },
+        {
+          "text": "I believe strongly in the mission of decentralizing the web, so I have relentlessly annoyed everyone into using matrix and/or Signal (not perfect but better). You have to set expectations that you won't convert everyone and that FOSS has warts. For that reason I bridge everything and always meet people where they are and constantly show off to them that even if they sms/telegram/WhatsApp/messenger/slack/discord/signal me then I get it in one app with no tracking or ads on my physical phone that I carry in my pocket. Many people in my social circle hate telegram but have to use it, so bridging that was a big selling point for example. I also periodically take advantage of news stories that trend like when discord was going to ID people, I made a point to bring that up to convert more people, and always get a couple new takers. When something fails to work like group messages fracturing or big files not sharing well with iPhone users, I make clear the practical value of having our own control and resources as a social network. I also try to make sure my server has useful bots, a small thing but every bit of utility and differentiation with proprietary services helps. I share guides on how to get back in, one thing people get confused about is that they don't have to give PII but they do need to remember the home server URL and save their key and password. So making sure to have ready pointers and blurbs on how to login that you can share quickly is necessary because people inevitably get logged out, especially iPhone users get confused easily (for app store culture reasons I think) and need kind but eager assistance. I try to make sure we have well moderated safe space e2ee rooms to talk about hard issues, and people do realize over time that certain things are more awkward to say digitally if you know it could be being surveilled or tracked, even the metadata. I've also encouraged technical friends to run their own servers and federate, got a couple to actually do it which is a cool feeling. It takes time (years), patience, and effort, but many little pushes will build a community.",
+          "author": "greentea23",
+          "id": 50408606
+        },
+        {
+          "text": "I was in a very different situation. Microsoft decided to stop supporting Skype, which we had been using for 15 or so years. We moved to Matrix.",
+          "author": "eesmith",
+          "id": 50405770
+        },
+        {
+          "text": "These platforms die all the time, it's my job to pick the replacement when that happens. Ward used to love Skype, so that's what I used to chat with him. Now that he's gone, and Skype went corporate, I've switched to Discord for chats with my friend Jim. I've got a VPS server with an instance of a local chat server if that dies, but it's nowhere near as polished. When you're the IT guy for the family, you just make a decision, and nobody else really cares about the details.",
+          "author": "mikewarot",
+          "id": 50468388
+        },
+        {
+          "text": "It's not an attractive experience. Too much technical mumbu jumbo in the interface and configuration no one understands. Signal is the only way to reach me online and it's been a breeze with a few people for years. But to answer your question, Rocket Chat is the most noob friendly client.",
+          "author": "opengrass",
+          "id": 50412834
+        },
+        {
+          "text": "… why? Are you pushing this on people for their good, or for yours?",
+          "author": "junek",
+          "id": 50406722
+        },
+        {
+          "text": ">Ask HN: How did you convince family and friends to join your XMPP/Matrix server? I didn't, that's not something you ask 'normal' people to do.",
+          "author": "Suppafly",
+          "id": 50410555
+        },
+        {
+          "text": "XMPP is a no go, sorry. There's just no good iOS app (or Android, I think). And you can't come back and say some app you love is feature complete, or whatever. It has to LOOK good. Matrix will work though. Element X is very polished. Same with FluffyChat. However, I still only bother with getting my immediate household to use it. A \"family\" chat is totally fine with me. And that let's me hook bots and agents up to it. For a little plug... it's can very easy, in fact, to get a Matrix server set up these days, including full voice and video chat: https://github.com/pkulak/barnaby-home",
+          "author": "pkulak",
+          "id": 50407527
+        },
+        {
+          "text": "Why are you dead set on self hosting? Signal is probably an easier lift",
+          "author": "DonsDiscountGas",
+          "id": 50406658
+        },
+        {
+          "text": "I said \"you can use this app to talk to me\"",
+          "author": "singpolyma3",
+          "id": 50406665
+        },
+        {
+          "text": "Is Matrix a good solution for internal company communication? Or is it better to go the way of \"industry standard\" like slack?",
+          "author": "griffiths",
+          "id": 50406505
+        },
+        {
+          "text": "I just annoy them, but it backfired with Plex. now they are begging for user accounts for their friends/co-workers and I can't keep up*",
+          "author": "BorisMelnik",
+          "id": 50406172
+        }
+      ]
     },
     {
-      "title": "Ask HN: Do you see a human written book more valuable than an AI written one?",
-      "url": "https://news.ycombinator.com/item?id=50481227",
-      "score": 12
-    },
-    {
-      "title": "Using LLMs outside of reflection is an anti-pattern",
-      "url": "https://news.ycombinator.com/item?id=50489240",
-      "score": 4
-    },
-    {
-      "title": "Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas",
-      "url": "https://news.ycombinator.com/item?id=50472411",
-      "score": 14
+      "id": 50494696,
+      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+      "text": "Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities? What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better. Thank you!",
+      "url": "https://news.ycombinator.com/item?id=50494696",
+      "score": 91,
+      "comment_count": 53,
+      "comments": [
+        {
+          "text": "I think it's not so much about learning AI, it's learning to USE AI to create and run a company. And that you can probabaly do the same way you get to Carnegie Hall: Practice, practice, pracTtice. The thing about AI is AI should know everything so you don't need to learn anything, except how to use AI effectively to accomplish business goals. Imagine the 2000s, should you study internet tech like Cisco's routers? Not a bad idea, but who made money? Cisco? Not so much relatively speaking. It was Google and Amazon who learned how to use the new web-tech to do something people and companies needed.",
+          "author": "galaxyLogic",
+          "id": 50495522
+        },
+        {
+          "text": "Plant a basic vegetable garden to hedge against future disaster. I recommend growing the crop amaranth -- it grows in most climates and is much more nutritious than wheat. If you can get your hand on some chickens that would be ideal as chicken eggs provide almost complete nutrition. Do some basic water redirection to catch rain water from your roof. Tanks to store rain water aren't expensive any more if its only a smaller tank. If you have plenty of rain you also don't need a large tank. Learn how to dig a basic well. Grow tobacco, fruit for alcohol, and other useful crops for trading. These skills will come in handy as AI progresses.",
+          "author": "Uptrenda",
+          "id": 50496361
+        },
+        {
+          "text": "I think the answer to the title is \"psychologically preparing for short timelines\" and that you can get a good explainer from googling that exact phrase, but there's a different answer to the body of the post. To the question in the body of the post, take a look at Jeremy Utley's 11ish minute YouTube video \"How Stanford teaches AI\". It's a couple years old but he figured out the correct attitude and communicated it way before anybody else. Watch it in full without distractions and immediately apply the lesson to the various questions in the OP post.",
+          "author": "OgsyedIE",
+          "id": 50495548
+        },
+        {
+          "text": "Learn communication styles. You could use this model: https://www.leaderfactor.com/learn/four-leadership-styles/ Sometimes you'll be coaching, others delegating, and on the agent's worst days you'll be directing. You can flex between them: for example start in a high trust mode, using an open ended communication style with the agent - thenif the work sucks shift to a more direct / blunt style. Try to avoid asking for exactly what you want, though. Working through curiosity and guiding questions gives the agent its best chance to surprise you - and an open ended conversation could uncover solutions you hadn't thought of.",
+          "author": "cadamsdotcom",
+          "id": 50495809
+        },
+        {
+          "text": "I'd rank them like this - this comes from applying LLM's since GPT-3 autocomplete API, teaching people how to use them, giving talks to developers, answering their questions, training my own models and seeing how people interact with them: 1. Building your own model - this will cost you a bit, but is without a doubt the best way to earn concrete AI skills. From picking the data to training, seeing how it evolves, improves and scales. You will understand the \"hyperplanes\" of a model's inner world better than anything else can teach you. You will learn how to pick data, how it impacts model quality, way of thinking, scores, personality. If training your own is too much, start with a completed pretrain and toy with it. 2. Building a harness around a completion model - I'd put this as second best to understand the inner worlds of LLM's. It helps you build intuition around how prompting really works, how they form the answers, how to build around that. Then you can do an SFT for your own harness. 3. Building a harness and an orchestrator around finished models - this takes the bronze. It teaches you how harnesses, agents and swarms actually work, how they shape the model's thoughts and actions, how models interact with them, how they can be applied and how they can work without humans. .",
+          "author": "hypendev",
+          "id": 50495874
+        },
+        {
+          "text": "Nowadays the arrival of frontier LLMs has opened new scenarios. Agentic AI can be used to get things done, and this is important: we ourselves become architects and build by ourselves the tools we need. But there is a use that few people make: using LLMs as patient teachers that we can ask to explain things that at school, or at work, we never understood. For example I always had problems understanding the Linux graphics stack, yet over time LLMs explained to me well how everything works. I also used agentic AI to develop personal projects, work that in other times would have required the involvement of an entire team of developers. We have in front of us a wonderful scenario, but also a dangerous one: learning and working together with AI systems, or losing control of our lives.",
+          "author": "nicfio",
+          "id": 50496115
+        },
+        {
+          "text": "I personally would say: Learn how to think like an engineer. As in: - Be able to analyze a situation into processes and discrete steps - Be able to describe the actual (!) problem you want to be solved - Be able to describe how to verify that the problem is actually solved - Be able to ask the right questions regarding HOW the problem has been solved in order to gain understanding and to identify the next steps and improvements - Be able to identify when the AI gets stuck or down a rabbit hole and to guide it out of there. - Understand what LLMs are good at and what they are not good at. And there are tons of things they are not good at. Disclaimer: This is absoluty not based on any scientific study or so :-) Just my personal experience! Feel free to disagree. But my experience comes directly from my work: I have a lot of customers on my platform that are not engineers, but make use of AI to solve business problems through automations. Nearly everytime when they are stuck (or burning through a sh*tload of tokens in no time), it is because one of those skills aren't present. So I try to teach them more and more how to \"think like an engineer\". And often when it lands, they become much better at using AI in a very short time. The best learners are often those that already had some kind of engineering background. Now granted, the frontier models can help themselves pretty well and often can produce amazing results with very bad input. But they are also expensive. If you work with less-than-frontier, those skill requirements become very salient again. And thats what we do. We mostly work with models like Deepseek flash or GLM Flash or even local ones like Qwen3.7 .",
+          "author": "lmf4lol",
+          "id": 50495687
+        },
+        {
+          "text": "> What is accessible to learn just from the internet and experimentation, without a degree program Since you do have a moderate technical background you can start studying PhD material right now from your desk which is widely accessible all over the web, however the time you need to spend on it is not very different. I think everyday for ten years is a good time span to invest for any one subject unless you have several fields of interest (you named three) multiply that by a few years of just skimming through the material for each so you have a mediocre understanding to solve \"learn how to x with y\" for x and y. Hope this helps.",
+          "author": "wseqyrku",
+          "id": 50495055
+        },
+        {
+          "text": "Based on job postings I see related to AI: - Agent coding with Claude Code, I rarely see Codex mentioned. Sometimes Cursor is mentioned along with Claude - Prompt engineering and evaluation techniques, few shot, chain of thought, roles, llm as judge, decision models, code based eval, etc - RAG, mostly I see \"familiar\" with it rather than \"built something in production\" - Sometimes I see mention of using an agent SDK or implementing LLMs within a product rather than using LLM for coding. So like, LLM chatbot - Sometimes I see Langchain, n8n, or similar agent orchestration tools",
+          "author": "phone_book",
+          "id": 50495990
+        },
+        {
+          "text": "AI has no barrier to entry if you're computer literate and proficient in English. AI is really good at technical work, even superhuman at some aspect, but still lacks human taste and judgement, another thing it lacks is your own lived experience, so if you bring your own taste and judgement, and have unique, useful information or experience no one else has, you can possibly use AI to create something other people want.",
+          "author": "dumberquestions",
+          "id": 50496869
+        },
+        {
+          "text": "How to use local agents (either TUI or GUI), how to give agents good access to powerful tools such as Odoo, Blender, FreeCAD, KiCAD, the list goes on. Understanding agent-tool friction and having agents write tooling to fill in any gaps. E.g. I had it write tooling to use my 3D printer, and tooling to view PCBs visually in places where existing KiCAD IPC protocol lacks. The more tools and data you give the agent, the more they can do.",
+          "author": "edg5000",
+          "id": 50495742
+        },
+        {
+          "text": "Of all things I would say also learn how the AI works too, you dont have to go too deep but learning how it works actually teaches you its limitation better than most \"prompting guides\". Also teaches its strengths and you kinda automatically know how to utilize them really well, if you hit a wall you would also know why. It helps you understand the reality that AI can't absolutely do anything you throw at it which also might make you want to learn things even better knowing its not gonna take literally everything away at least yet.",
+          "author": "flincode",
+          "id": 50497394
+        },
+        {
+          "text": "bash using linux o.s. so to solve issues by using your own CPU with open source software Imagine you want to extract from your pictures storage all photos shot in Greece: how do you solve it? would you upload all pictures in a web AI? you will spend few tokens in Claude code that will install a very small open source tool in your os, then no more tokens while that tool search for your photos by using your local CPU while you sleep. To handle basic task like this linux is the best o.s. (and btw claude code can nowadays help you managing it) BUT there are some little bash basic commands you need to understand (even cut&paste in multiline is not that intuitive)",
+          "author": "oriettaxx",
+          "id": 50503932
+        },
+        {
+          "text": "Learn a skill. AI is best used to assist with / speed up using an existing skill. If you want something AI specific, learn what the AI is doing when you ask it questions. Learn about programming, databases, networking, security, backups, systems thinking etc.",
+          "author": "imclaren",
+          "id": 50495765
+        },
+        {
+          "text": "The most modern efficient slopftware factories are bottlenecked trying to get things out the door. That's a huge opportunity for you. Learn the many techniques the industry has developed for scaling verification. I don't mean infra; CI is solved. I mean Red-green & test-driven development, the testing pyramid (most unit tests/fewer functional/integration tests/happy-path e2e tests), learn how to get the most out of tools like Playwright and test frameworks like pytest and vitest and go and rust's testing tooling. Learn when to mock and when to include your code's dependencies in a test (test boundaries). Learn patterns like dependency injection so your tests can have no I/O and be FAST. Learn to scale verification, and you'll solve your team's biggest bottleneck.",
+          "author": "cadamsdotcom",
+          "id": 50495864
+        },
+        {
+          "text": "Watch the 3Blue1Brown YouTube series on machine learning. Understand how these things work and that they are not magical all-knowing answer machines or even anything intelligent - they are next-most-likely-word predictors. That's all. Demistify and keep that in mind with everything you do afterwards. I presume you don't want to drop thousands of dollars on video cards so pay Sam/Dario your 20 bucks a month. Ask the LLM to build things you have already done before. You need to know the correct answer so you can evaluate the solution the LLM provides you. Start with single-file scripts you have written, you can do this in just the ChatGPT or Claude web interface. Start with a vague prompt which doesn't specify many constraints or details. See what they get right and wrong. Try being much more specific and detailed. Make it ask you questions about what you want before it starts work. Try the small/old/dumb model with no thinking and try the big/new/smart model with full thinking and notice the difference in capability. Learn to setup an agent software in a sandbox of some kind. I prefer Pi in a Podman container, with only access to the project directory, but there are a million options out there these days. From this agent software, ask for explanations on a codebase you already know. Again the purpose is to know the answer in advance so you can evaluate the response provided. Ask it to just tell you some answers. Ask it to give you a code flow and reference to read more yourself. Build something larger, like a program across multiple files. Again try being vague and being specific, see the difference in what it spits out. Use it to troubleshoot a problem you have solved, like your favourite bug, and also just a boring regular bug. Try different types of issue. Learn to create an AGENTS.md for a project or SKILL.md for reusable instructions anywhere, but don't stuff it full of useless nonsense you think the model needs. Build it from experience of only what the thing gets wrong. Some people say you can ask LLMs to write their own md files, but imo these things generate way too much text. You could ask it to do that as a starting point then trim it down to remove all the extra unnecessary verbose crap. Through all this, try asking it the same thing multiple times in different new sessions. Notice the answers vary. Sometimes it gets it wrong and sometimes right. Same question, same model, same everything, different answer. Notice you need to know the right answer to evaluate the response. In situations where you don't know the answer yourself, hopefully you've seen enough wrong answers now to not trust it. Use these things to guide your own investigation, like the exercise above where you asked for code flow and references to read yourself. I think of this as \"LLM as search engine, not answer engine\". That seems to be 95% of what people use these things for. This set of skills would have been useful for the last 18 months and seems to be the way the industry momentum is moving at the moment.",
+          "author": "suprjami",
+          "id": 50495678
+        },
+        {
+          "text": "The best AI skill to learn is learning people management, actually. To successfully steer AI, you need essentially the same stuff you'd need if you were to steer humans in a management role. Meaning communication, introspection, remote introspection, emotional intelligence and all that kind of stuff. Reading when someone is bullshitting you. Reading when someone is insecure and overcompensates that. Reading the actual problems people struggle with and not the ones they claim they do nor their suggested solutions. Verbalizing what you need someone to do in a way that actually enables them to do it. Knowing what you want to do to a level where that is possible",
+          "author": "hypfer",
+          "id": 50495166
+        },
+        {
+          "text": "I recommend learning how to identify and avoid honey traps.",
+          "author": "bushwart",
+          "id": 50495155
+        },
+        {
+          "text": "anything i cant explain i rewrite by hand once",
+          "author": "heysabique",
+          "id": 50495472
+        }
+      ]
     }
   ]
 }
