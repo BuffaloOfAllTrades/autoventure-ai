@@ -1,46 +1,15 @@
 {
-  "analyzed_at": "2026-11-17T02:26:24.775645+00:00",
-  "total_posts": 21,
+  "analyzed_at": "2026-11-18T02:23:39.695049+00:00",
+  "total_posts": 25,
   "opportunities": [],
   "all_results": [
     {
-      "title": "Ask HN: What do coding interviews look like in the age of AI?",
-      "url": "https://news.ycombinator.com/item?id=50510540",
-      "score": 22,
-      "signals": {
-        "problem": [
-          "tedious"
-        ],
-        "solution_search": [
-          "looking for"
-        ]
-      },
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Anthropic, can you please make up your mind with your models?",
-      "url": "https://news.ycombinator.com/item?id=50504061",
+      "title": "AI is killing cheap VPS servers/manageable pricing",
+      "url": "https://news.ycombinator.com/item?id=50527395",
       "score": 20,
       "signals": {
         "payment": [
-          "subscription"
-        ]
-      },
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
-      "url": "https://news.ycombinator.com/item?id=50405250",
-      "score": 12,
-      "signals": {
-        "problem": [
-          "hard to"
+          "pricing"
         ]
       },
       "context_signals": [],
@@ -63,8 +32,22 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Claude Is Always Right",
-      "url": "https://news.ycombinator.com/item?id=50526330",
+      "title": "Ask HN: Are the more software malfunctions now than before?",
+      "url": "https://news.ycombinator.com/item?id=50526822",
+      "score": 8,
+      "signals": {
+        "repeat": [
+          "every day"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+      "url": "https://news.ycombinator.com/item?id=50520076",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -73,8 +56,38 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: What do you think is going on with that many outages coming in a row?",
-      "url": "https://news.ycombinator.com/item?id=50525469",
+      "title": "Ask HN: UK Equivalent for Power Switch Tail/IoT Power Relay?",
+      "url": "https://news.ycombinator.com/item?id=50538108",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Are We in a Cyberwar?",
+      "url": "https://news.ycombinator.com/item?id=50537206",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Anyone else blurting?",
+      "url": "https://news.ycombinator.com/item?id=50537272",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: What was your weirdest or funniest job rejection?",
+      "url": "https://news.ycombinator.com/item?id=50528707",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -93,8 +106,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: How to bring traffic to new product with out social media presence",
-      "url": "https://news.ycombinator.com/item?id=50520644",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -103,8 +116,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Is the Economy Over-Indexed to Software?",
-      "url": "https://news.ycombinator.com/item?id=50521585",
+      "title": "Ask HN: Syncthing",
+      "url": "https://news.ycombinator.com/item?id=50528871",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -113,8 +126,28 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Most compelling early stage fund pitches?",
-      "url": "https://news.ycombinator.com/item?id=50520408",
+      "title": "AI is shortening the time from PHP flaw disclosure to working exploit, Microsoft",
+      "url": "https://news.ycombinator.com/item?id=50536334",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: What do you think is going on with that many outages coming in a row?",
+      "url": "https://news.ycombinator.com/item?id=50525469",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Where are you on the spectrum of AI/LLM adoption?",
+      "url": "https://news.ycombinator.com/item?id=50527647",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -133,8 +166,28 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407",
+      "title": "Is the Economy Over-Indexed to Software?",
+      "url": "https://news.ycombinator.com/item?id=50521585",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: How realistic is an LLM-powered worm that spreads from PC to PC?",
+      "url": "https://news.ycombinator.com/item?id=50538080",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -173,8 +226,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-      "url": "https://news.ycombinator.com/item?id=50422628",
+      "title": "Ask HN: Most compelling early stage fund pitches?",
+      "url": "https://news.ycombinator.com/item?id=50520408",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -193,8 +246,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Why don't operating systems provide complete SSD write accountability?",
-      "url": "https://news.ycombinator.com/item?id=50510691",
+      "title": "Ask HN: What is a better name for Claude Code?",
+      "url": "https://news.ycombinator.com/item?id=50519116",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -203,32 +256,12 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Tell HN: Cloudflare's abuse report form is a blank page",
-      "url": "https://news.ycombinator.com/item?id=50491285",
+      "title": "Tell HN: Opus 5.5 is no more nerfed",
+      "url": "https://news.ycombinator.com/item?id=50517416",
       "score": 0,
       "signals": {},
       "context_signals": [],
       "excluded": true,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-      "url": "https://news.ycombinator.com/item?id=50520076",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-      "url": "https://news.ycombinator.com/item?id=50494696",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
       "potential_opportunity": false,
       "assessment": "keyword-based lead; not validated demand"
     }
