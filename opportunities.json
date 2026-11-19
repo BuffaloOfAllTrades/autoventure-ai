@@ -1,15 +1,18 @@
 {
-  "analyzed_at": "2026-11-18T02:23:39.695049+00:00",
-  "total_posts": 25,
+  "analyzed_at": "2026-11-19T02:23:23.870089+00:00",
+  "total_posts": 18,
   "opportunities": [],
   "all_results": [
     {
-      "title": "AI is killing cheap VPS servers/manageable pricing",
-      "url": "https://news.ycombinator.com/item?id=50527395",
-      "score": 20,
+      "title": "Claude Gets Hella Paranoid",
+      "url": "https://news.ycombinator.com/item?id=50543947",
+      "score": 18,
       "signals": {
-        "payment": [
-          "pricing"
+        "solution_search": [
+          "looking for"
+        ],
+        "repeat": [
+          "manually"
         ]
       },
       "context_signals": [],
@@ -18,12 +21,12 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Vercel should fork and maintain Deno",
-      "url": "https://news.ycombinator.com/item?id=50497196",
-      "score": 10,
+      "title": "Microsoft disabled API permissions seemingly overnight",
+      "url": "https://news.ycombinator.com/item?id=50541430",
+      "score": 12,
       "signals": {
-        "solution_search": [
-          "looking for"
+        "problem": [
+          "can't"
         ]
       },
       "context_signals": [],
@@ -46,6 +49,66 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
+      "title": "Ask HN: Cheapest CPU Vms",
+      "url": "https://news.ycombinator.com/item?id=50554381",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: When does your app need its own UI vs. using it via MCP?",
+      "url": "https://news.ycombinator.com/item?id=50554686",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "url": "https://news.ycombinator.com/item?id=50555002",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Tell HN: /tmp is hogging your RAM on Ubuntu 26",
+      "url": "https://news.ycombinator.com/item?id=50554756",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": true,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
+      "url": "https://news.ycombinator.com/item?id=50553802",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Developing Browser Extensions",
+      "url": "https://news.ycombinator.com/item?id=50551501",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
       "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
       "url": "https://news.ycombinator.com/item?id=50520076",
       "score": 0,
@@ -56,8 +119,48 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: UK Equivalent for Power Switch Tail/IoT Power Relay?",
-      "url": "https://news.ycombinator.com/item?id=50538108",
+      "title": "Interesting Learnings Working for a Startup",
+      "url": "https://news.ycombinator.com/item?id=50542361",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: How do you reach the flow with vibe coding?",
+      "url": "https://news.ycombinator.com/item?id=50548343",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: How do you use AI to get more relevant content?",
+      "url": "https://news.ycombinator.com/item?id=50548260",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Codeberg seems to have vanished from DNS",
+      "url": "https://news.ycombinator.com/item?id=50542948",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -68,16 +171,6 @@
     {
       "title": "Ask HN: Are We in a Cyberwar?",
       "url": "https://news.ycombinator.com/item?id=50537206",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Anyone else blurting?",
-      "url": "https://news.ycombinator.com/item?id=50537272",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -102,166 +195,6 @@
       "signals": {},
       "context_signals": [],
       "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Syncthing",
-      "url": "https://news.ycombinator.com/item?id=50528871",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "AI is shortening the time from PHP flaw disclosure to working exploit, Microsoft",
-      "url": "https://news.ycombinator.com/item?id=50536334",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What do you think is going on with that many outages coming in a row?",
-      "url": "https://news.ycombinator.com/item?id=50525469",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Where are you on the spectrum of AI/LLM adoption?",
-      "url": "https://news.ycombinator.com/item?id=50527647",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Tell HN: HN is being scraped for emails to scam",
-      "url": "https://news.ycombinator.com/item?id=50513451",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": true,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Is the Economy Over-Indexed to Software?",
-      "url": "https://news.ycombinator.com/item?id=50521585",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: How realistic is an LLM-powered worm that spreads from PC to PC?",
-      "url": "https://news.ycombinator.com/item?id=50538080",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-      "url": "https://news.ycombinator.com/item?id=50422628",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What does building hardware with AI look like?",
-      "url": "https://news.ycombinator.com/item?id=50508089",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Tell HN: Google Search to start locking down search behind a login wall",
-      "url": "https://news.ycombinator.com/item?id=50491617",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": true,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What is the state of self-hosting email in 2026?",
-      "url": "https://news.ycombinator.com/item?id=50488230",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Most compelling early stage fund pitches?",
-      "url": "https://news.ycombinator.com/item?id=50520408",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Do you still enjoy coding in C++?",
-      "url": "https://news.ycombinator.com/item?id=50423371",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What is a better name for Claude Code?",
-      "url": "https://news.ycombinator.com/item?id=50519116",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Tell HN: Opus 5.5 is no more nerfed",
-      "url": "https://news.ycombinator.com/item?id=50517416",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": true,
       "potential_opportunity": false,
       "assessment": "keyword-based lead; not validated demand"
     }

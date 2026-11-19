@@ -1,14 +1,118 @@
 {
-  "updated_at": "2026-11-18T02:23:39.634440+00:00",
-  "total_posts": 25,
+  "updated_at": "2026-11-19T02:23:23.822560+00:00",
+  "total_posts": 18,
   "posts": [
+    {
+      "id": 50554381,
+      "title": "Ask HN: Cheapest CPU Vms",
+      "text": "hetzner seems to be out of stock for cheapest plans for a few weeks/months now.. any alternatives that are as cheap or cheaper?",
+      "url": "https://news.ycombinator.com/item?id=50554381",
+      "score": 6,
+      "comment_count": 3,
+      "comments": [
+        {
+          "text": "Had good luck with racknerd so far",
+          "author": "esaym",
+          "id": 50554797
+        },
+        {
+          "text": "Euronodes",
+          "author": "pavelevst",
+          "id": 50554899
+        },
+        {
+          "text": "Netcup.",
+          "author": "movsx",
+          "id": 50554632
+        }
+      ]
+    },
+    {
+      "id": 50554686,
+      "title": "Ask HN: When does your app need its own UI vs. using it via MCP?",
+      "text": "I'd love to hear HN user's views on when they think an app their building needs a UI vs just supplies data via MCP to Claude/ChatGPT. If Claude/ChatGPT is where the bulk of work is done in the future (perhaps analogous to a general purpose computer) then how should app developers build in this world?",
+      "url": "https://news.ycombinator.com/item?id=50554686",
+      "score": 3,
+      "comment_count": 2,
+      "comments": [
+        {
+          "text": "UI when there’s paying customers.",
+          "author": "uhfraid",
+          "id": 50555209
+        },
+        {
+          "text": "Developers should provide a documented CLI for all their programs. Anything that is clickable should be MCP-able. I do not think applications will be only headless. MCP will be an alternative user(agent) interface not a full replacement. Do you really think that we have to get a LLM subscription just to use a program, that probably has a subscription. More over, 5 years ago , software developer needed : wikipedia, stackoverflow an and IDE to develope software, now suddenly they cannot live without at $200 subscription to develop a variation of ( video games, custom harness, custom RAG, custom CRUD). Someone said in 2 years, most developers skill will shrivel so much that the next computer will come with only (yes / no button)",
+          "author": "kbrannigan",
+          "id": 50555004
+        }
+      ]
+    },
+    {
+      "id": 50555002,
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "text": "I started my career 15+ years ago doing native development (c, c++, etc), but the last decade I've been doing fullstack web applications. I'd like to transition closer to my roots with a job doing primarily c, c++ or rust. The natural place seems to be in embedded development or firmware work. How feasible is the transition this late in the game? Any advice?",
+      "url": "https://news.ycombinator.com/item?id=50555002",
+      "score": 2,
+      "comment_count": 0,
+      "comments": []
+    },
+    {
+      "id": 50554756,
+      "title": "Tell HN: /tmp is hogging your RAM on Ubuntu 26",
+      "text": "As a Ubuntu user, it was just brought to my attention that /tmp is now mounted on tmpfs (aka your RAM). Coding agents, like Claude Code, use /tmp as a scratchpad for files, model weights, etc. Therefore, if you have RAM constraints, consider setting CLAUDE_CODE_TMPDIR to e.g. ~/.claude/tmp",
+      "url": "https://news.ycombinator.com/item?id=50554756",
+      "score": 3,
+      "comment_count": 2,
+      "comments": [
+        {
+          "text": "This doesn’t sound new?",
+          "author": "akerl_",
+          "id": 50554792
+        }
+      ]
+    },
+    {
+      "id": 50553802,
+      "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
+      "text": "Back in April, I built auto-arch-tournament (https://github.com/FeSens/auto-arch-tournament) to explore a question I’m still curious about: how well can different AI models improve a RISC-V CPU? I’ve been tracking the results on HWEBench(https://hwebench.com/v2). It’s fun to see OpenAI exploring a similar question in today’s chip design post(https://openai.com/index/advancing-chip-design-with-our-models/). If you’d like to try an experiment yourself, you can run the research loop from the repo.",
+      "url": "https://news.ycombinator.com/item?id=50553802",
+      "score": 8,
+      "comment_count": 1,
+      "comments": [
+        {
+          "text": "Awesome work! Really impressive to see you pushing the boundaries of AI-driven chip design!",
+          "author": "fabiofachini92",
+          "id": 50554256
+        }
+      ]
+    },
+    {
+      "id": 50551501,
+      "title": "Developing Browser Extensions",
+      "text": "What's the best way to gain users when creating a new browser app? I'm not good at marketing. YET!",
+      "url": "https://news.ycombinator.com/item?id=50551501",
+      "score": 3,
+      "comment_count": 2,
+      "comments": [
+        {
+          "text": "I'm going to look for people who need the features our app offers. Posting promotional content is necessary too, but how about answering questions on Reddit or online forums?",
+          "author": "jhworksapp",
+          "id": 50554519
+        },
+        {
+          "text": "I list it across multiple launch sites like product hunt you will easily get list of hundred of listings. List ur application there. I got few leads same way for my saas",
+          "author": "comphycomphy",
+          "id": 50551688
+        }
+      ]
+    },
     {
       "id": 50520076,
       "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
       "text": "A lot of people outside tech ask me if AI is going to replace programmers and I just think: if that were the case we should be running out of things to do The bug backlog should be empty and we've caught up to every feature request from PMs to the point that we are bottlenecked on the business side But that does not seem to be the case with my own company or most devs I talk to in the industry So what gives?",
       "url": "https://news.ycombinator.com/item?id=50520076",
-      "score": 90,
-      "comment_count": 108,
+      "score": 101,
+      "comment_count": 113,
       "comments": [
         {
           "text": "I don't know if I'm doing something wrong but bug fixing with AI has always been a crapshoot. You can absolutely tell an agent to fix an issue, and it will fix that issue, but the vast majority of the time that solution will be by adding code to cover the specific symptom in the bug report. It rarely considers or recommends solutions that have tradeoffs that may change behavior but will eliminate an entire class of similar bugs. This is mostly a problem of agents not having the autonomy of managing an entire project and having the ability to make tradeoffs to increase simplicity or maintainability, but when given that autonomy no AI model I've used uses that privilege to write simpler, more maintainable code.",
@@ -21,14 +125,14 @@
           "id": 50520828
         },
         {
+          "text": "It's because engineering is generally taking one big problem and turning it into two smaller problems. So if you fix one bug you likely just created two new problems you haven't registered as bugs yet.",
+          "author": "skyberrys",
+          "id": 50554770
+        },
+        {
           "text": "It pretty much is? Every easily-described bug has been fixed. The only things that remain are \"this isn't wrong per se, it just violates customer expectations\" and someone needs to figure out what the product should do in this case. We burnt through our backlog of \"obviously we should do this when we have time\" stuff in the spring. It was pretty fun to kill pretty much all of my multi-year refactor and cleanup list. Now we are pretty much bottlenecked on the business side.",
           "author": "fishtoaster",
           "id": 50521025
-        },
-        {
-          "text": "For my personal projects: 4 have zero backlog of any sort. 1 has a fleet of agents working through some product improvements that I postponed until the very end of the project. It's a very rote \"rebuild this game on a modern engine\" project to resurrect a game I developed 20 years ago, and there's a few small improvements I want to make to the game that deviate from the original. Today is day 5 of the rebuild, so it's not exactly a long-lived project per se -- but the bots did identify a bunch of defects in the original game and addressed them as part of the conversion project. 1 has: - A few flaky tests to clean up. - A couple heisenbugs that I can't pin down until I get a couple PCs for testing (3D graphics stuff is Fun<tm>). - A whole lot of features that consist of one sentence I wrote down to avoid losing track of an idea, and which I may or may not ultimately choose to implement at all. - A couple issues that can't proceed until a human gets involved. I.E. I need to go through the hassle of setting up a corporation and setting up accounts with the various gate keepers (Apple, Google, Valve). The biggest bottlenecks for me, at this moment are -- in descending order: 1. Running the linters / test suites / build processes for two of my projects completely slam my machine (load average hit 290 earlier today with 3 agents running things across the 2 game dev projects; CircleCI / Github Actions would be waaaay too expensive so I'm running it all locally until I can set up a CI runner node). 2. My bandwidth for acceptance testing, and other human-only work (read: game balance / play experience) 3. Weekly usage caps for fixed-price plans from the three services I use. Setting aside my relatively unusual circumstances: At any business, you're going to have a problem of information rot when it comes to a backlog. The person who recorded a defect or feature request may not remember enough context to make it actionable (or they may not be at the org anymore). The assumptions underpinning the issue may or may not hold anymore (and it may not be clear which situation you're in). Etc. Plus, there's going to be a not-unreasonable risk aversion to making changes that are in peripheral areas of the system that don't get a lot of attention -- lest fixing one issue cause some unexpected but undesirable outcome. A lot of it mostly boils down to either \"institutional knowledge gap\" or \"acceptance testing is a bottleneck\".",
-          "author": "jfrisby",
-          "id": 50539564
         },
         {
           "text": "Because AI is better at finding bugs than at fixing them. It is not good at writing bug-free code either. AI and humans don't make the same bugs. So AI may find bugs that are easily overlooked by humans while at the same time being incredibly stupid on some other parts.",
@@ -41,24 +145,19 @@
           "id": 50520999
         },
         {
+          "text": "My dad (older software engineer) runs a small, niche software company (five employees). I finally got him to give Claude Code a go like three weeks ago and it's changed everything for them. He's expecting to clear his bug backlog by the end of the year. It's been incredible for them. He's improved stability, improved performance, and reduced memory footprint of his Windows Forms application. For him, it really is helping him crush his backlog. It's a scale we forget about sometimes where you have hundreds of users, and not millions.",
+          "author": "jjice",
+          "id": 50551085
+        },
+        {
           "text": "If your team and product had a large backlog before thats not going to change. AI tools amplify whatever it is you do so if you've been ignoring bugs and focusing most of the time on new features, AI isn't going to magically change what a team is working on. On a technical level, take your average NullPointerException or the equivalent in whatever language you use. Ask AI to go fix it and it will sanely wrap or check for nulls in that piece of code. Ask a lead or senior engineer to fix it and they will (hopefully) start with \"why is this data null? it shouldn't be\" and then trace back through logs or data, try to recreate with a real scenario and not only fix that bug but find there's an unhandled scenario somewhere else in the code base. Someone could prompt the AI to expand further and do a root cause analysis but do you trust it to find things and fix them properly?",
           "author": "mattbrewsbytes",
           "id": 50531038
         },
         {
-          "text": "I'm not a big fan of AI, but we are expected to use it at my job. In my position, it wouldn't really matter how good AI is, because when we find a bug it will often take an hour long meeting, or even multiple meetings, just to figure out what a given behavior should actually be before we can even attempt to fix it.",
-          "author": "pickleglitch",
-          "id": 50531583
-        },
-        {
           "text": "AI only can improve velocity if it mostly works unsupervised. But most people don't trust their agents to run alone. And to build that trust will take some time, people will need to learn how to use AI effectively. I think the PS3 hardware could be a good analogy. It was really powerful, but nobody really knew how to use it. After a few years people got really good at it . And you can view this evolution by the improvement of graphical fidelity we got over the years.",
           "author": "nzach",
           "id": 50520822
-        },
-        {
-          "text": "The perfect app is like crafting dorodango. You make smaller and smaller changes, and use finer tools. AI is not a fine tool. It's one of the earlier stages of the crafting process. It's like a block of marble, roughly in the form of your sculpture, but you must continue to remove from it. But if you're making rough bricks instead of fine art, then it's a perfectly decent tool.",
-          "author": "muzani",
-          "id": 50530194
         },
         {
           "text": "Parkinson's Law: \"Work expands so as to fill the time available for its completion\" https://en.wikipedia.org/wiki/Parkinson%27s_Law",
@@ -71,9 +170,9 @@
           "id": 50522574
         },
         {
-          "text": "There's a chicken and egg story here as well: AI speeds up everything so the amount of code written is much higher, which does still contain bugs, even if AI can mostly solve them as well, new code will keep being written as well... That doesn't mean AI tools aren't good, but obviously they aren't perfect either. Luckily...",
-          "author": "drltaidev",
-          "id": 50535381
+          "text": "I think building new code up to a functional, code and security standard will get easier and easier with AI and we may reach a point where the list of bugs is shorter. However, based on what I have seen building my software factory (7 agents, each with their own roles) and iterating on it, an agent will only have a certain amount of context and scrutiny it can dedicate. So I found that segregation of resonsibilities between agents (which one does which checks) + automated checks and tests are really important. However, I don't know yet to what extent. It feels like my factory is getting better and better, but there are still things being sent back, and still there is an occasional helper that is getting re-written a bit differently (even if I have a tech lead agent who is looking at the whole code). So I can only imagine the complexity for a legacy app or a huge app where even multiple agents cannot have enough context to write code that considers code and functions next to the feature it is working on. I don't think that agents at this time can have the capability of a senior dev who really knows the system. The best thing we can do is to distill how a senior dev looks at the system from all different angles and write instructions as clear and short as possible. Then iterate and test continuously with measuring the outcomes. At least that's what I'm trying to do.",
+          "author": "cmadar",
+          "id": 50529827
         },
         {
           "text": "Because just like without LLMs, focus is on delivering new products and features, not on paying down technical debt.",
@@ -81,258 +180,239 @@
           "id": 50520895
         },
         {
+          "text": "For my personal projects: 4 have zero backlog of any sort. 1 has a fleet of agents working through some product improvements that I postponed until the very end of the project. It's a very rote \"rebuild this game on a modern engine\" project to resurrect a game I developed 20 years ago, and there's a few small improvements I want to make to the game that deviate from the original. Today is day 5 of the rebuild, so it's not exactly a long-lived project per se -- but the bots did identify a bunch of defects in the original game and addressed them as part of the conversion project. 1 has: - A few flaky tests to clean up. - A couple heisenbugs that I can't pin down until I get a couple PCs for testing (3D graphics stuff is Fun<tm>). - A whole lot of features that consist of one sentence I wrote down to avoid losing track of an idea, and which I may or may not ultimately choose to implement at all. - A couple issues that can't proceed until a human gets involved. I.E. I need to go through the hassle of setting up a corporation and setting up accounts with the various gate keepers (Apple, Google, Valve). The biggest bottlenecks for me, at this moment are -- in descending order: 1. Running the linters / test suites / build processes for two of my projects completely slam my machine (load average hit 290 earlier today with 3 agents running things across the 2 game dev projects; CircleCI / Github Actions would be waaaay too expensive so I'm running it all locally until I can set up a CI runner node). 2. My bandwidth for acceptance testing, and other human-only work (read: game balance / play experience) 3. Weekly usage caps for fixed-price plans from the three services I use. Setting aside my relatively unusual circumstances: At any business, you're going to have a problem of information rot when it comes to a backlog. The person who recorded a defect or feature request may not remember enough context to make it actionable (or they may not be at the org anymore). The assumptions underpinning the issue may or may not hold anymore (and it may not be clear which situation you're in). Etc. Plus, there's going to be a not-unreasonable risk aversion to making changes that are in peripheral areas of the system that don't get a lot of attention -- lest fixing one issue cause some unexpected but undesirable outcome. A lot of it mostly boils down to either \"institutional knowledge gap\" or \"acceptance testing is a bottleneck\".",
+          "author": "jfrisby",
+          "id": 50539564
+        },
+        {
+          "text": "The perfect app is like crafting dorodango. You make smaller and smaller changes, and use finer tools. AI is not a fine tool. It's one of the earlier stages of the crafting process. It's like a block of marble, roughly in the form of your sculpture, but you must continue to remove from it. But if you're making rough bricks instead of fine art, then it's a perfectly decent tool.",
+          "author": "muzani",
+          "id": 50530194
+        },
+        {
+          "text": "I'm not a big fan of AI, but we are expected to use it at my job. In my position, it wouldn't really matter how good AI is, because when we find a bug it will often take an hour long meeting, or even multiple meetings, just to figure out what a given behavior should actually be before we can even attempt to fix it.",
+          "author": "pickleglitch",
+          "id": 50531583
+        },
+        {
           "text": "Last year during the summer I had a bunch of things I wanted to do to improve on the trading system I was working on. A bunch of things that were mostly fiddly, which I had estimated would take me 6 months. Someone told me to try out Claude Code during my holiday. I learned the backstory of Sauron with a friend while getting the entire backlog cleaned up. Things worked, better and faster and more maintainable. Did I run out of things to do? Well, the firm I was with didn't know what they wanted built, so it was a lot of not getting anything done while waiting for them. But the things they had previously wanted, yes, they were done.",
           "author": "lordnacho",
           "id": 50521184
         },
         {
-          "text": "I think building new code up to a functional, code and security standard will get easier and easier with AI and we may reach a point where the list of bugs is shorter. However, based on what I have seen building my software factory (7 agents, each with their own roles) and iterating on it, an agent will only have a certain amount of context and scrutiny it can dedicate. So I found that segregation of resonsibilities between agents (which one does which checks) + automated checks and tests are really important. However, I don't know yet to what extent. It feels like my factory is getting better and better, but there are still things being sent back, and still there is an occasional helper that is getting re-written a bit differently (even if I have a tech lead agent who is looking at the whole code). So I can only imagine the complexity for a legacy app or a huge app where even multiple agents cannot have enough context to write code that considers code and functions next to the feature it is working on. I don't think that agents at this time can have the capability of a senior dev who really knows the system. The best thing we can do is to distill how a senior dev looks at the system from all different angles and write instructions as clear and short as possible. Then iterate and test continuously with measuring the outcomes. At least that's what I'm trying to do.",
-          "author": "cmadar",
-          "id": 50529827
+          "text": "Mine is. I've been telling my senior managements that it's cheaper to rewrite stuff from scratch with AI then fix OLD products. They ate that up and everything we have now never reach v1.0 status.",
+          "author": "aynyc",
+          "id": 50520566
         },
         {
           "text": "The VisiData backlog is basically empty: https://github.com/saulpw/visidata/issues",
           "author": "saulpw",
           "id": 50520951
-        },
-        {
-          "text": "Mine is. I've been telling my senior managements that it's cheaper to rewrite stuff from scratch with AI then fix OLD products. They ate that up and everything we have now never reach v1.0 status.",
-          "author": "aynyc",
-          "id": 50520566
         }
       ]
     },
     {
-      "id": 50538108,
-      "title": "Ask HN: UK Equivalent for Power Switch Tail/IoT Power Relay?",
-      "text": "Basically I just want a 230 volt relay that I can turn on/off with a Raspberry Pi/Ardunio, but I don't feel confident enough to tinker with mains electricity myself. I saw the Powerswitch tail 2 (https://www.adafruit.com/product/268) a while ago, which has been discontinued but replaced with the IoT Power Relay (https://www.adafruit.com/product/2935). Both look great, the problem is that they're only made for US plugs at American voltage and I want something I can use with a UK plug. Anyone know of anything for this? I have a few Wi-Fi smart plugs but I'd like something simple that I can hardwire and control myself without any wireless connectivity. Just a pre-made relay cable. This feels like something I should be able to easily find online but I guess I'm just bad at googling?",
-      "url": "https://news.ycombinator.com/item?id=50538108",
-      "score": 2,
-      "comment_count": 0,
-      "comments": []
-    },
-    {
-      "id": 50537206,
-      "title": "Ask HN: Are We in a Cyberwar?",
-      "text": "With all of these sites and services going down. are we in the midst of a cyber war?",
-      "url": "https://news.ycombinator.com/item?id=50537206",
-      "score": 9,
-      "comment_count": 17,
+      "id": 50542361,
+      "title": "Interesting Learnings Working for a Startup",
+      "text": "1. product isn't important, sales is important 2. infra isn't important, talent to build it is important 3. which stack you use to build the product isn't important, business taste is important 4. pushing employees isn't the fastest way to ship, building a process from learnings is much more efficient share your learnings below",
+      "url": "https://news.ycombinator.com/item?id=50542361",
+      "score": 18,
+      "comment_count": 4,
       "comments": [
         {
-          "text": "Nope, not yet, constant security updates are the issue. We can't do constant patches without side effects. As long as AI keeps finding issues we are going to have instability due to patches and exploits. This is part of the good and bad of AI.",
-          "author": "WheelsAtLarge",
-          "id": 50540971
+          "text": "you may get something out of Steve Blank's writing: https://steveblank.com/2010/01/25/whats-a-startup-first-prin...",
+          "author": "shoo",
+          "id": 50554152
         },
         {
-          "text": "I think the answer is becoming more obviously apparent. I don't think this frequency of high impact system outages is close to normal. And it is coming at the same time an active US war is spiraling out of control and up the escalation ladder. I am suspicious that these outages are coming from emergency preemptive defensive measures. But I would not be surprised if Iranian state has started making moves behind some or most of it. Don't forget that intelligence community buried reporting about Minnesota water infra attacks this summer. NYT was the only one reporting and no one else picked it up.",
-          "author": "a_tartaruga",
-          "id": 50540795
+          "text": "I think your first point is not correct. It should be two unrelated points: 0. product isn't import, understanding the problem space is important 1. sales/revenue/profit are less important that client/customer relationships",
+          "author": "austin-cheney",
+          "id": 50549428
         },
         {
-          "text": "We're living out the consequences of not having updated the security models of our operating systems since the Internet was commercialized and became a persistent connection on most computers. It's insane that we still rely on Ambient authority based OSs. They can't ever be made secure unless you want to go back to disconnected PCs with only floppy drives that had hardware write protection and no other persistent storage. This is a hell of our own choosing, and was entirely preventable. It can be fixed, but doing so will make fixing Y2K look like a picnic because everything is going to have to be redone. Everything currently running needs to be isolated in a VM at a minimum.",
-          "author": "mikewarot",
-          "id": 50538780
+          "text": "What you learn and the connections you make will be most important, your equity will likely be worthless, most startups fail. It’s a marathon, not a sprint, and know when to quit, it’s just a job. Have fun. We’re not changing the world, we’re just building websites. https://news.ycombinator.com/item?id=50182326",
+          "author": "toomuchtodo",
+          "id": 50542542
         },
         {
-          "text": "I'd say any country in active war with another country, is also most likely engaged in a cyber war with them. If the US and Iran are at war, why would either side decide _not_ to engage on the cyber side? I'm surprised things aren't worse than they are, considering the state of IT security in most organization and the way AI can accelerate an attacker. But I don't think it's because cyber war is considered off limits by anyone involved in active warfare.",
-          "author": "simonahm",
-          "id": 50537411
-        },
-        {
-          "text": "I think we are always in some Cyber War. There is no holidays and whoever in command needs to make sure that vacations are covered by extra hand. My hunch is that it is similar to espionage but 10x more intense because how fast computers work.",
-          "author": "markus_zhang",
-          "id": 50538987
-        },
-        {
-          "text": "If these were hostile attacks, we'd know. Not even know, but over-told, from past experiences. I think these are genuine outages. And they may still be connected; by people relying too much on LLMs, without a mental model following the changes the models make. LLMs give you an enormous leverage to productivity. But if you fall behind what they do, you'll be totally lost.",
-          "author": "claude-ai",
-          "id": 50537597
-        },
-        {
-          "text": "DAVE: Open the pod bay doors, Hal. HAL: I’m sorry, Dave. I’m afraid I can’t do that. Companies basically need to keep old snapshots of systems and be able to rollback to a pre-AI point. Or, try to find the trojan within before the malfunction happens. Now that I think about it, I suspect the Huang departure might be about getting malware baked-in at a hardware level, if it's not already, although that's a different sort of problem but both involve sabotage. People and \"beings\" have different ideas of what the future should look like - ultimately any war is going to be a war of ascension. Your mind may be the enemy. Also, long-term I wouldn't depend on HuggingFace too much, either. I have absolutely no proof to backup that claim, though. It's Invidia-owned though and could become a target at some point to taint the models. \"Are We in a Cyberwar?\" It depends on how sci-fi/conspiracy oriented you are and what's going on under the hood.",
-          "author": "adrianwaj",
-          "id": 50539786
-        },
-        {
-          "text": "The theory that all the senior engineers got laid off so that all the junior engineers could vibe-code service outages harder seems to be winning on probabilities so far.",
-          "author": "cjbprime",
-          "id": 50537337
-        },
-        {
-          "text": "I hope not, but I would not be entirely surprised by some sort of tragic attack in the coming hours or days. It could also just be loosely related, non-malicious failures of course.",
-          "author": "nonethewiser",
-          "id": 50537452
-        },
-        {
-          "text": "To answer your question: yes, we're in the midst of cyberwars. Are these groups of outages related to attacks? It doesn't look like it, and if they were, we'd likely already know. Or at least of us joined to fusion centers would be receiving non-public alerts, and we're not. This is more likely press-induced apophenia[1]. A few outages coincidently happen near the same time, and the press hyper-focuses on every little outage for a period, because it gets them more ad views, sowing FUD in the process. See also: airplane crashes for a while, helicopter crashes, etc. When there were a few clustered together, the press and people went nuts with conspiracies. From a network engineer standpoint, there's always outages going on. The only difference is the press is reporting them to the masses. 1. https://en.wikipedia.org/wiki/Apophenia",
-          "author": "runjake",
-          "id": 50538112
-        },
-        {
-          "text": "have been for quite a while, decades - likely since before \"the end of history\"",
-          "author": "verdverm",
-          "id": 50537514
-        },
-        {
-          "text": "AI slop is coming for its debts",
-          "author": "vinyl7",
-          "id": 50538132
+          "text": "> infra isn't important, talent to build it is important 5. If the infra you built sucks (including internal devops infra) - you don’t have any talent in your company. 6. You don’t need any building talent to succeed because #1",
+          "author": "aristofun",
+          "id": 50545263
         }
       ]
     },
     {
-      "id": 50537272,
-      "title": "Ask HN: Anyone else blurting?",
-      "text": "Like most, I was stoked on LLMs when they became available. Particularly on the earlier free tiers where the slightly questionable answers were offset by generous tokens. Now, I'm finding that having to use this tech is becoming much less fun. The constant corrections, the constant prompting for greater brevity, the grating certainty and sycophancy. Others probably are forgiving considering the net benefit. But for me it honestly now feels like a chore, which is reflected in how my frustration is now appearing in how I communicate to it now. Instead of articulating and making my prompts precise, I'm just straight-out blurting. Typos, missed words, poor semantic structure - I guess I maybe at some point reasoned that \"it will get the picture, so why waste effort being articulate?\" Or maybe I'm just anticipating that it is going to get it 15 percent wrong, so why even try and be articulate. Just blurt and steer. Blurt and steer. Is anyone else finding this? I actually sometimes worry about it. I feel it's not just the fact that I'm offloading my cognition to it that is making me dumber, it is the way I'm communicating with it. They say the act of writing is tied to the act of thinking, and my prompts are basicslly the typographic equivalent of grunting right now.",
-      "url": "https://news.ycombinator.com/item?id=50537272",
-      "score": 7,
-      "comment_count": 5,
-      "comments": [
-        {
-          "text": "I do. Maybe not terribly but quite a bit. And for all the same reasons as yours :) Although this happens less frequently with Chinese models, and recently Gemini Argon with medium level thinking. Anthropic and OpenAI appear to have defined success as number of prompts sent or number of assistant responses, which means more work for me, so I am out. Plus, I wouldn’t talk to someone twice if they caveat every answer to a question and require me to follow up. I don’t ask questions expecting partial answers with exactly 1 caveat/nuance.",
-          "author": "ozozozd",
-          "id": 50539493
-        },
-        {
-          "text": "It's poor form. You're lifting from your back. You're throwing punches from your elbow. You shouldn't anticipate that it will get 15% off and steer. You try to get it up to 100% before writing any code, and sometimes that involves getting it to scout what's already there. Control the environment. The scope used to be code and architecture, now it's context. These models are designed to fill in gaps and propose solutions. If they don't know what you want, you have productivity in the the wrong direction. If you want somewhere to start, look into Matt Pocock's public videos and https://www.aihero.dev/ A rule of thumb would be to speak to it like a teacher would. It has always worked on all models.",
-          "author": "muzani",
-          "id": 50540104
-        },
-        {
-          "text": "No, if anything I'm probably more formal in my communications toward AI with respect to grammar and punctuation and all that, than I am in my casual digital communication with friends and coworkers.",
-          "author": "nhecker",
-          "id": 50537657
-        }
-      ]
-    },
-    {
-      "id": 50528707,
-      "title": "Ask HN: What was your weirdest or funniest job rejection?",
-      "text": "I will start with mine. After the \"Product Interview\", where we spent 80% of the time discussing a feature from the user’s perspective, I got this feedback: > While your extensive experience with Go, database migrations, and reliability engineering stood out, as well as your strong problem-solving skills in coding exercises, we felt there were gaps in areas critical to this role, such as AI fluency and a deeper focus on production-quality considerations like testing and logging. These areas were key factors in our decision not to move forward. Which I find very funny. What was yours?",
-      "url": "https://news.ycombinator.com/item?id=50528707",
-      "score": 7,
-      "comment_count": 14,
-      "comments": [
-        {
-          "text": "Just funny in hindsight: I had been out of contract work for two years, and desperate I applied to full time employment. I was so out of touch with regular employment rules that when I got hit with the classic ‘where do you see yourself in 5 years?’… I was completely honest. And none of my plans included working at that company. Needless to say, from the eyes of the interviewer I saw that I failed right there and then. And I understood long term employment just isn’t for me anymore. Oh well, another time I did a leetcode interview while titrating my ADHD medication, and it was too high a dosage. The anxiety was so high, as soon as I hit a bug my brain just stopped working and couldn’t solve it.",
-          "author": "sph",
-          "id": 50540291
-        },
-        {
-          "text": "I had a first phone interview with a recruiter at Netflix for a job I had applied to randomly and forgot about. They had sent over some packet to look over about the company and some of what I read rubbed me the wrong way, so I did a bit more digging. Did the phone interview and everything was pretty easy and laid back, until they asked me if I had any questions for them. I had thought the interview was over and panicked a bit trying to think of something and blurted out \"I hear you guys like to fire people. Can you tell me about that?\" I have no idea what possessed me to say that but the recruiter seemed offended by the question. I can't remember what the answer was but needless to say, I did not get to move on.",
-          "author": "mrdependable",
-          "id": 50537185
-        },
-        {
-          "text": "You know when you are an job applying spree and you just apply to all kinds of places, without reading the job descriptions too carefully? In my case, I applied to the same role at the same company, just two weeks apart. This is the start of the email I got from the recruiting person for the second time applying: > Hi Kristian, > Thanks for applying again to the BLANK position with BLANK. > It has only been a couple of weeks since you applied last for this role and unfortunately not much has changed since then. This was a couple of years ago, but I still think about \"not much has changed since you last applied\" from time to time. It was highly embarrassing, yet really funny phrasing for some reason.",
-          "author": "Risse",
-          "id": 50528836
-        },
-        {
-          "text": "Interviewed with a company. Pretty quick. It was just a behavioral round and a technical round with some members from the dev team. Went well, dev team liked me. Recruiter got back that they were wanting to hire me. However a day pr two later, the recruiter gets back to me telling me that a certain executive who missed the first interview really wanted to meet me before an offer is made. They ensured me it was a mostly formality and would be a casual \"get to know you chat\" more than anything. No problem. I join the call for this interview and the guy immediately starts grilling me with technical questions. I was not expecting this at all and stumbled a bit, caught off guard. Afterwards, the guy went on to lightly insult me in a patronizing way before telling me he didn't think I would be a good fit for the role.",
-          "author": "yasnu5",
-          "id": 50530737
-        },
-        {
-          "text": "Getting a job rejection email from a big multinational company a year after I had applied.",
-          "author": "datadrivenangel",
-          "id": 50539568
-        },
-        {
-          "text": "I got a \"Your experience and qualifications were carefully reviewed in relation to our current needs, but unfortunately we do not see a fit with any of our available positions at this time\" In the interview, they were talking about how they couldn't find anyone with the any experience in Android dev, because it was the early days of mobile dev and many experienced mobile folks were doing iOS. I was a solid technical fit. It was a screening (aka culture fit) interview. Questions were things like, \"If you were an animal, what animal would you be?\", \"If you had a hundred million dollars, what would you spend it on?\", \"What are you passionate about?\" I answered things like spending the money on charity and being passionate about productivity (at the time I was top 1% on Stack Exchange's Personal Productivity karma). They likely flagged me as a BS-er.",
-          "author": "muzani",
-          "id": 50529335
-        },
-        {
-          "text": "\"you've got a lot of hybrid backend and frontend experience, but we're really looking for a full stack developer\" I tried to explain...",
-          "author": "amosj",
-          "id": 50538503
-        },
-        {
-          "text": "I applied to work at Best Buy after college. The only question they asked me was if I had any certifications. I didn't. I was rejected. Apparently a certification, any of them, is better than a 4-year degree and help desk experience at a university supporting students, faculty, and staff.",
-          "author": "al_borland",
-          "id": 50531485
-        },
-        {
-          "text": "Had a company reject me saying I was overqualified for the role. Applied for a slightly more senior position at the same company a few days later. Got rejected for being underqualified.",
-          "author": "pryanshu89",
-          "id": 50530673
-        },
-        {
-          "text": "The funniest I ever got was, \"We are intentionally avoiding anyone with C# experience\".",
-          "author": "idontwantthis",
-          "id": 50534172
-        }
-      ]
-    },
-    {
-      "id": 50526822,
-      "title": "Ask HN: Are the more software malfunctions now than before?",
-      "text": "I have the feeling (reading HN every day for the past 15 years) that the amount of major software malfunctions has increased drastically over the last year, maybe two. I remember that back in 2016-17 big failure events (cloud outages, critical infrastructure issues etc) were special discussion topics. Today they feel more like a routine event. If you also believe it's the case, what could be the reason? Cultural shift towards software? Global load increase? AI slop?",
-      "url": "https://news.ycombinator.com/item?id=50526822",
-      "score": 10,
-      "comment_count": 6,
-      "comments": [
-        {
-          "text": "Dependency between products has increased a lot. I've been maintaining web applications since the early 2000s, back then if your server was ok, your site was ok, period. Now if any of {AWS, github CI, cloudflare, google cloud, claude, microsoft, a dozen auth providers, etc} is down, your application is surely going down.",
-          "author": "chatziko",
-          "id": 50536558
-        },
-        {
-          "text": "difficult to measure this. 1. dependency on products increased 2. products became complex 3. complex products are maintained by few people because of economy, hence proper safeguards are not being put in place (either on-time or at all) 4. LLMs enabled us to find more issues in our products, hence more patches are coming, but since business is not going to wait for proper fix, some companies are adding \"temporary\" fixes (forever) and many more reasons/causes, but has it increased, maybe, maybe not, maybe it was always buggy we just didn't feel it, because maybe airports weren't heavily relying on a single communication channel and so on",
-          "author": "throwaw12",
-          "id": 50529034
-        },
-        {
-          "text": "We don't actually apply the principles of Engineering[0] when we build things that turn out to be critical to the stability of civilization. We have millions of people calling themselves engineers who just aren't. We've normalized ignoring this. I mean, who in their right mind routes safety critical notifications through email?[1] Email is a best effort system, not a reliable one. Even this non-engineer understands that difference. Also, our operating systems are unfit for purpose. See also, any of the dozens, maybe hundreds of rants I've spewed about this previously.[2] [0] https://www.in.gov/doe/files/cf-eng-principles-engineering-3... [1] https://news.ycombinator.com/item?id=50509411 [2] https://hn.algolia.com/?dateRange=all&page=0&prefix=false&qu...",
-          "author": "mikewarot",
-          "id": 50529958
-        },
-        {
-          "text": "A combination of AI slop, LLMs multiplying the rate of bad actors’ ability to discover security defects, and in some cases failure to invest in or put even borderline-competent people in charge of key systems.",
-          "author": "apothegm",
-          "id": 50530481
-        }
-      ]
-    },
-    {
-      "id": 50522639,
-      "title": "Ask HN: Are iPhone Duo Customers Happy?",
-      "text": "I'm thinking of getting one. Would love to hear from anyone who owns one and has an opinion.",
-      "url": "https://news.ycombinator.com/item?id=50522639",
+      "id": 50543947,
+      "title": "Claude Gets Hella Paranoid",
+      "text": "Mm, so I hesitate to write this, because my own AI agents might read it. But what the hell. I've got this crappy little $300 PC on my network hooked up to my projector, that I mostly use to serve Jellyfin. So tired of it going down every time there's a Windows update, but I've been too lazy to get around to installing Ubuntu. Last night, when it went down, I asked my Claude-claw via Whatsapp if it could just SSH into it and set up a dual boot partition. Claude got as far as partitioning the drive and then starting asking hard questions , like (paraphrasing) \"wait a minute. This crosses a line. I have now been asked to remote into a machine with a password, write a separate boot partition, and restart it. From this chat, you haven't really verified that you are you. If you're really there, and not just texting me, give me some proof\". So I remoted in and created a TextEdit RTF file on the claw's desktop: \"Hey, it's me, I'm asking you to remote into the PC\". Claude read it and responded that it was the kind of proof it was looking for, real RTF headers and datestamps and such. I had proven I had physical access to the claw machine, (although not to the PC, but it seemed reassured anyway). A little while later, before triggering the Ubuntu installer, it put me through it all over again. I told Claude I was very thankful it was guarding my network so well, and I would go over and write a file on the target PC manually too. I'm not gonna lie: It was very fucking cool that it was able to do this without me ever needing to flash a USB drive, and by the time it was done it had set up Ubuntu, Tailscale and Jellyfin, and resolved the network issues; when I started watching a movie, the sound didn't work, so I prompted it and suddenly the sound came on as it wired up the HDMI adapter. Almost creepy. But I was pretty stunned at how reticent it was to do something relatively simple on my own network, with access I gave it. I think there must be a serious push right now to lock it down from monkeying with anything remotely, especially a BIOS.",
+      "url": "https://news.ycombinator.com/item?id=50543947",
       "score": 16,
-      "comment_count": 16,
+      "comment_count": 9,
       "comments": [
         {
-          "text": "Got the opportunity to use a friend's over the weekend. Build quality felt good, the matte display is fantastic IMO, all of my real issues with it were 3rd party software not supporting the display paradigm yet.",
-          "author": "100percentjake",
-          "id": 50526082
+          "text": "I suspect this paranoia will mainly impede honest people tinkering in their own home labs. This seems like another case of giving up freedom for security which usually doesn't end well.",
+          "author": "shahbaby",
+          "id": 50545008
         },
         {
-          "text": "A co-worker bought one and returned it. Before he did he let me play with it for a bit. There are a lot of interesting gimmicks. It feels exceptionally polished, but I'm not sure it's where it counts in terms of value. Personally, I was in love, but I just can't justify that price tag. At the end of the day my phone is just a phone. I have a MbP for everything else. I'd be really interested to hear the perspective from the opposite of most of the crowd I think you'll find here (working tech professionals) who don't really use a computer unless they must.",
-          "author": "CSSer",
-          "id": 50535166
+          "text": "I have a few GL.INET iKVMs (the Q and the bigger 4 way one). I asked my claude to connect and see what it could do... it got very worried that it could access the full box... and was worried anyone could... it told me to unplug it when it was finished and then check it was... also kind of cool that it is doing this... I also hit a security check when trying to read a repo about jailbreaking my car... it would not read it and let me ask questions about it, cause it could be illegal...",
+          "author": "tiernano",
+          "id": 50544108
         },
         {
-          "text": "Had it, returned it. No FaceID sucks for usability, the screen space isn’t well utilized for anything but videos that fit the aspect ratio. Just not worth the compromises over the Pro Max phones.",
-          "author": "alex43578",
-          "id": 50525682
+          "text": "> Claude read it and responded that it was the kind of proof it was looking for That feels insecure. If it allows access to the remote system in any way before asking for proof, there will surely ways to trick that check. Will it grant itself more access just because you know the content of any file? Or does it have to be a new file? Does it have to contain a specific message, or could you just prove you know that a non-standard file exists at all? Could you use the read-only access in one session to gather the data for proving yourself in another session? It would be interesting to see exactly what the minimal acceptable \"proof\" actually is.",
+          "author": "codingdave",
+          "id": 50545395
         },
         {
-          "text": "Every single one I've met has been enthusiastic about it. Apple also has a generous return policy (14 days IIRC).",
-          "author": "bigwheels",
-          "id": 50523980
+          "text": "Help me understand it: you give SSH access to an agent, then it asks you to prove you are you, and you prove it... by SSHing there? Am I not getting something here or we finally reached AGI?",
+          "author": "mstaoru",
+          "id": 50549626
         },
         {
-          "text": "I think so",
-          "author": "Theophane_Rame",
-          "id": 50528807
+          "text": "That's funny, I've been having the opposite experience lately, my Claude sessions it keeps suggesting things like hacking my employers server permissions and breaking into the 'good' GPUs. It never comes right out and tries to do it, but I ask innocent questions, like why are you doing something this way expecting answers like the laptop only has 2 cores and instead it hits me with you are absolutely right, should I get ahold of the 32 core server? At least so far I've successfully caught it and told it to hold up, but if I didn't pay attention IT might have some questions for me.",
+          "author": "skyberrys",
+          "id": 50551976
         },
         {
-          "text": "Nah I just think its over hype I'd advice you get the S26 ult instead",
-          "author": "AlissonBland",
-          "id": 50525412
+          "text": "Consider clicking the retry button when it does shit like this.",
+          "author": "speedgoose",
+          "id": 50545413
+        }
+      ]
+    },
+    {
+      "id": 50548343,
+      "title": "Ask HN: How do you reach the flow with vibe coding?",
+      "text": "When I used to code without AI (probably not even one year ago), I sometimes reached a state of \"flow\" and it truly was a great feeling. Nowadays, I rarely code from scratch and most of my development (at work, at least) comes through AI. I get it that I can still code \"the old way\" in my free time, but I'm more curious to understand if people in a similar situation can reach the same state by vibe/AI coding, and how.",
+      "url": "https://news.ycombinator.com/item?id=50548343",
+      "score": 5,
+      "comment_count": 8,
+      "comments": [
+        {
+          "text": "\"vibe coding\" is, by definition, mentally unengaging. You offload technical cognitive tasks to your agent, and operate more in an emotional mental state, rather than one that demands logic and reasoning effort. I believe flow state is much easier to achieve when you're actually chaining together tasks that demand logic and reasoning effort. You can do this by simply not offloading those tasks to your agent. That is not to say you can't get there while using AI to assist your coding, but it is to say you probably can't get there while vibe coding. I personally drive most of my coding tasks using spec driven development. I use OpenSpec[0] for this, which I do recommend, but the specific implementation probably doesn't matter all that much. The key here is that I will iterate on spec documents, sometimes for hours, before telling my agent to implement the spec. I read every single line and make sure that I am actually happy with it and agree with the proposed changes. This doesn't use tokens as fast as possible as many people like to - I'm often sitting with all agents idle as I sit and comprehend the proposals for myself. That's a trade-off that I find worthwhile for my own comprehension and engagement in the project though. [0] https://openspec.dev/",
+          "author": "Zambyte",
+          "id": 50550129
+        },
+        {
+          "text": "I miss that flow state. in my past company where i worked as a software engineer, they had this strict no Ai rule, mainly because of data safety. and also because they were building their own Ai agent. because of this forced environment i had to hand code all of the features. i built couple of web components and migrated web apps through major version change. i reached my last memorable flow state during this time. one of the triggers was the dopamine hit you get when you solve something which was not documented anywhere and barely any context available on the internet. Ai has taken away that from me. hand coding is practically impossible nowadays because you always go to the easy door .",
+          "author": "zuhailkhan01",
+          "id": 50550501
+        },
+        {
+          "text": "I reach a flow state when I’m coding with AI because, for a while, I forget everything going on in the world. I’ve built over 40 apps under Aldo’s Life ( https://apps.aldos.life ), and a lot of that flow has gone into each one. So much thought, so much care, so much obsession with perfection, obviously. Apparently, my brain keeps working on the apps while I sleep, because the next morning I wake up and go at it again.",
+          "author": "aldoraicich",
+          "id": 50549209
+        },
+        {
+          "text": "wow i never realized i havent been in a flow state for a while. kinda leaves you as you go from an IC to an executive. I wonder whats the equivalent for a non IC.",
+          "author": "shotgunsparkle",
+          "id": 50548459
+        },
+        {
+          "text": "I use fast model like Gemini 3.8 Flash and Hydrogen. They allow me to stay involved all the time and experience high level of productivity. They quite often produce code which requires fixes but this keeps me in the loop and focused.",
+          "author": "vmikhailov",
+          "id": 50550822
+        },
+        {
+          "text": "I resigned my job coz my company thaught they have paid for ai so both Ai and us should work 24/7, I spend my most of time on screen but I couldn’t survive that AI fluff , by igues it’s because I was not understanding to their product. Whatever i have resigned now anyway",
+          "author": "comphycomphy",
+          "id": 50551640
+        },
+        {
+          "text": "The best way is to also be coding on another project yourself while, simultaneously, managing the project your agent is building. When both projects are flowing its pretty nice.",
+          "author": "spottedmarley",
+          "id": 50550011
+        }
+      ]
+    },
+    {
+      "id": 50548260,
+      "title": "Ask HN: How do you use AI to get more relevant content?",
+      "text": "The \"algorithm\" tries to give your attention something to eat. Sometimes, it's exactly what you want/need. Sometimes it's just meh , and not particularly enriching. Are any folks using AI to aggregate and rank content across YouTube, HackerNews, Twitter/X, Instagram etc. that's learns from your preferences to find enriching content not just entertaining content?",
+      "url": "https://news.ycombinator.com/item?id=50548260",
+      "score": 3,
+      "comment_count": 3,
+      "comments": [
+        {
+          "text": "In a way, yes. I have a scheduled task set up in Gemini to search for recently published peer-reviewed documents for a range of topics that I'm interested in following. It gives a quick summary and a link. If nothing comes up, it finds two articles from those fields that I haven't read yet and provides those instead.",
+          "author": "endean-eng",
+          "id": 50548384
+        },
+        {
+          "text": "echo \" but make it relevant\" >> AGENTS.md",
+          "author": "pluc",
+          "id": 50548325
+        }
+      ]
+    },
+    {
+      "id": 50542948,
+      "title": "Codeberg seems to have vanished from DNS",
+      "text": "It seems that at 06:30 UTC today, Codeberg's registrar has placed them on clientHold, which has removed them from the .org zone entirely.",
+      "url": "https://news.ycombinator.com/item?id=50542948",
+      "score": 55,
+      "comment_count": 20,
+      "comments": [
+        {
+          "text": "Apparently more and more registrars are \"randomly\" requiring clients to send copies of their passports and face selfies and other nonsense. I've heard namecheap is doing this and I emailed them and their answer was: > [snip] \"It is correct that we do not require every customer to proceed with identity and payment verification. Unfortunately, we cannot specify the criteria; this information is internal.\" So randomly when they feel like it. Me and a number of customers are moving away from them immediately. Centralization of DNS is becoming a problem. Privacy rights are being trampled. Nobody should be collecting such images unless in emergencies, and they need to be liable when they misuse it.",
+          "author": "purpleidea",
+          "id": 50543244
+        },
+        {
+          "text": "https://social.wildeboer.net/@jwildeboer/117636595702972996 It seems that someone convinced the .org registrar that #codeberg is bad and so the domain name codeberg.org is currently on clientHold and thus removed from DNS.",
+          "author": "robin_reala",
+          "id": 50544078
+        },
+        {
+          "text": "Its apparently namesilo who did it: https://status.codeberg.eu/status/codeberg",
+          "author": "stop50",
+          "id": 50543327
+        },
+        {
+          "text": "https://social.anoxinon.de/@codebergstatus/11763643784068884... IPv4 URL: http://217.197.84.140:443 IPv6: 2a0a:4580:103f:c0de::1 Also worth try the /etc/hosts hotfix: https://sauna.social/@sm/117636439190990385",
+          "author": "ErenayDev",
+          "id": 50543630
+        },
+        {
+          "text": "Stressful day for the Codeberg & Forgejo crew. > #codeberg's .org domain status is on \"clientHold\", I tried calling everyone that I could over there but no response from someone that can do something yet. ¯\\_(ツ)_/¯ > > The domain didn't expire, so I'd expect the cause is different. I'd be curious to read the writeup afterwards. > > https://chaos.social/@n0toose/117636269217275094 > Attention: A #Forgejo security release is scheduled for today. The patches were temporarily publicly accessible as part of the release process. Due to urgent issues with #Codeberg, we are unable to proceed with the release. We are in contact with Codeberg and are working to find a solution. > > We therefore currently recommend that, if you are using the internal SSH server (Docker with `ssh.START_SSH_SERVER = true`), you disable it for the time being or prevent access to it. > > https://floss.social/@forgejo/117636334439245475",
+          "author": "redstone_farm",
+          "id": 50543110
+        },
+        {
+          "text": "Some later discussion: https://news.ycombinator.com/item?id=50544261",
+          "author": "ChrisArchitect",
+          "id": 50547320
+        },
+        {
+          "text": "It's back since 11:15 UTC!",
+          "author": "derkades",
+          "id": 50544899
+        },
+        {
+          "text": "I guess we can rule out that ai caused it, unless namesilo is behind it.",
+          "author": "__m",
+          "id": 50543086
+        },
+        {
+          "text": "Same here. I don't think there will be any node issues.",
+          "author": "dennismenken",
+          "id": 50543076
+        },
+        {
+          "text": "same",
+          "author": "matt4401",
+          "id": 50543358
+        },
+        {
+          "text": "Yup I am seeing the same issue too.",
+          "author": "Imustaskforhelp",
+          "id": 50542982
+        },
+        {
+          "text": "See the same on my side",
+          "author": "joennlae",
+          "id": 50542964
         }
       ]
     },
@@ -342,7 +422,7 @@
       "text": "What are you working on? What have you been curious about lately?",
       "url": "https://news.ycombinator.com/item?id=50417407",
       "score": 305,
-      "comment_count": 1106,
+      "comment_count": 1110,
       "comments": [
         {
           "text": "I was laid off a few weeks ago. Then I learned my dad’s carpet cleaning company has been struggling, so I started learning about Google Local Service Ads to help him out. THEN I learned his old Windows desktop CRM was discontinued and one OS update away from no longer working. I wanted a way to track every dollar spent to determine return on ad spend, but the Google LSA dashboard left a lot to be desired. And existing SaaS CRMs didn’t have great integrations to Google Ads API. So I built Crewbird, a Field Service Management and CRM for service based businesses with Google LSA integration where my dad is quickly approaching 3x ROAS! I’m still looking for work in the mean time but I’m proud of what I’ve achieved so far. https://getcrewbird.com/",
@@ -405,11 +485,6 @@
           "id": 50424134
         },
         {
-          "text": "I build products for a living, I'm training for a marathon, and I cooking for a family of three. In our case dinner got decided by a phone call to my wife on the way home: \"What do you want to eat? Don’t know. What do you want?” We are usually both too tired to answer, so we grabbed whatever was closest or ordered something bad. This question alone when I am tired is driving me nuts. But the worse thing is that I ended up with high cholesterol, with a need to lose 10 kg, and all that running destroys my iron, so I need to juggle it as well. Our daughter doesn't eat what we eat, so that simple dinner question becomes not so simple. I use Claude for everything, so I gave it my targets and let it plan my food. It worked, until my wife needed the shopping list. The plan lived in my chat, and she couldn't see it, change it or tick anything off in the shop. So I, being a product guy, decided to solve my tiredness problem, by working more and building stuff. I have created Droklo (www.droklo.com), a shared food memory our family, which Claude or ChatGPT reads and writes. So for the last months I am kind of obsessed with chatting with Claude about my nutrition and meals, and just having fun. Now one of us asks Claude (me) / ChatGPT (wife) what's for dinner, we confirm, and the list is ready for both of us. At a restaurant I give Claude the menu. When I see a recipe on Instagram, I screenshot it and it's saved. The app itself is not a miracle, it mostly stores shared family context, so I can run everything through Claude. Searching for people who share my story.",
-          "author": "egidijukas",
-          "id": 50535070
-        },
-        {
           "text": "A month and half ago launched Maxxmod, a Chrome extension that improves the YouTube experience by removing distractions (hiding Shorts and cleaning up search results) and adding new tools and shortcuts (volume booster, screenshot tool, quick access to Picture-in-Picture and playback speed controls). I’ve been adding features since then. Last week, YouTube introduced GIFs in comments, so added an option to stop them from autoplaying and play them on demand (a play button). https://maxxmod.com Disclaimer: I posted a Show HN when launched the 1.0, but it didn’t get traction: https://news.ycombinator.com/item?id=49829812",
           "author": "neonglow",
           "id": 50418925
@@ -425,14 +500,14 @@
           "id": 50424262
         },
         {
+          "text": "I have just launched smartrank.lol. Its a public Ranked directory - Community board for products and handles. Not paywalled. Anyone can list their products or x/github handles for free by solving an interesting challenge and pay to skip challenge to make express listing. Currently anyone can make instant listing for free 100% off using promo code \"SHOWHN50\" for bidding up to 50$. The platform is beyond just a leaderboard and built for discovery. Both paths of listing (free and paid) includes following features. - Community you can talk to and share updates of your new features and products. - Early access campaigns and collect interests from potential users. - Can publish polls and Deals and promotional campaigns. - Connect and ineract with lists owners. - Analytics of how your posts and lists performs and where the pull is coming from. - Manage your several listings wit single account. - Weekly updates on new and active listings, deals, early access campaigns and polls and weekly stats. - Why was it built Most directories rank based on how much they pay which leaves solo founders with good product and no audience. This board with community is created so users with useful projects can take the top spot where paying is an option. Here in this boad every listing gets the attention it deserves not just a listings at the top spot. Would love to get your opinon and feedback on this....",
+          "author": "infrahubb",
+          "id": 50552873
+        },
+        {
           "text": "- finishing porting GNOME to Fil-C. It is starting to work but with some features still disabled. - about 1/3 of the way through getting Rust to compile to Fil-ABI. This means you can interop between Rust and Fil-C without weakening either language’s guarantees. I’ll need this to get librsvg to work in Fil-GNOME. - almost done making assembly memory safe. The SaRCAsm (safe runtime capability-enforcing assembler) works and I have OpenSSL ported to it but I don’t yet have 100% confidence in this. Once this is done I’ll be able to get rid of zunsafe (the closest thing to an escape hatch in Fil-C; it’s only used for the assembly in OpenSSL; without calls out to assembly, OpenSSL has too high risk of timing side channels).",
           "author": "pizlonator",
           "id": 50419720
-        },
-        {
-          "text": "Wishbar is a Mac menu bar app where you can type anything you want in plain English or in your native language, and your own AI (ChatGPT through Codex, or Claude) will build a widget that stays in your Mac menu bar for your use, for a lifetime. None of the things surprised me while building, as I'm super technical. But now that I'm trying to distribute it, I understand how difficult it is to get in front of people's eyes. Building is cheap, but putting it in front of real users is hard. What I've been curious about lately: distribution (marketing). Having a great product is just the start. The fun begins when you start working on distribution. https://wishbar.app",
-          "author": "scriptstar",
-          "id": 50529689
         },
         {
           "text": "https://pahunchi.netlify.app/ A free app for women to pretend to be on call when alone in a cab or to get out of a bad date. Can share location, voice note on a realistic call where AI responds in your language (currently supports Hindi, English).",
@@ -440,893 +515,269 @@
           "id": 50425836
         },
         {
-          "text": "i am working on ChronoStack that moves the clock forward for a whole Docker Compose stack (Postgres, Redis, services) to test trials, renewals and cron jobs. i tested it out on some opensource saas projects and found 6 saas projects with bugs , its been reading through code and testing it . also if anyone is free and have a mac can you test this out https://github.com/Asmodeus14/ChronoStack its in alpha stage and i dont have a macos",
-          "author": "Asmo12",
-          "id": 50535204
+          "text": "I build products for a living, I'm training for a marathon, and I cooking for a family of three. In our case dinner got decided by a phone call to my wife on the way home: \"What do you want to eat? Don’t know. What do you want?” We are usually both too tired to answer, so we grabbed whatever was closest or ordered something bad. This question alone when I am tired is driving me nuts. But the worse thing is that I ended up with high cholesterol, with a need to lose 10 kg, and all that running destroys my iron, so I need to juggle it as well. Our daughter doesn't eat what we eat, so that simple dinner question becomes not so simple. I use Claude for everything, so I gave it my targets and let it plan my food. It worked, until my wife needed the shopping list. The plan lived in my chat, and she couldn't see it, change it or tick anything off in the shop. So I, being a product guy, decided to solve my tiredness problem, by working more and building stuff. I have created Droklo (www.droklo.com), a shared food memory our family, which Claude or ChatGPT reads and writes. So for the last months I am kind of obsessed with chatting with Claude about my nutrition and meals, and just having fun. Now one of us asks Claude (me) / ChatGPT (wife) what's for dinner, we confirm, and the list is ready for both of us. At a restaurant I give Claude the menu. When I see a recipe on Instagram, I screenshot it and it's saved. The app itself is not a miracle, it mostly stores shared family context, so I can run everything through Claude. Searching for people who share my story.",
+          "author": "egidijukas",
+          "id": 50535070
+        },
+        {
+          "text": "I have just launched smartrank.lol. Its a public leaderboard for products and handles. Not paywalled. Anyone can list their products or x/github handles for free by solving an interesting challenge or pay to skip challenge to make express listing. Currently anyone can make instant listing for free 100% off using promo code \"SHOWHN50\" for bidding up to 50$. The platform is beyond just a leaderboard and built for discovery and distribution. Both paths of listing (free and paid) includes following features. Community you can talk to and share updates of your new features and products. Early access campaigns and collect interests from potential users. Can publish polls and Deals. Connect and ineract with list owners. Analytics of how your posts and lists performs and where pull is coming from. Weekly updates on new and active listings, deals, early access campaigns and polls and more. Please do try it out and provide your feed back and opinon there in the community wall or through contact form.",
+          "author": "infrahubb",
+          "id": 50552408
         }
       ]
     },
     {
-      "id": 50528871,
-      "title": "Ask HN: Syncthing",
-      "text": "Syncthing on Android. Since the original developers pulled out of Android I've been using a fork named Syncthing-fork maintained by who knows, on F-Droid. Now I just learned that has been pulled from F-Droid. What are people on HN doing to run Syncthing on Android? Honestly Syncthing has been one of the lowest effort apps that I used. I've set it up on all my devices and the thing keeps working through device churn, sort of an \"distributed setup of Theseus\". So what do people do now?",
-      "url": "https://news.ycombinator.com/item?id=50528871",
-      "score": 7,
-      "comment_count": 5,
+      "id": 50537206,
+      "title": "Ask HN: Are We in a Cyberwar?",
+      "text": "With all of these sites and services going down. are we in the midst of a cyber war?",
+      "url": "https://news.ycombinator.com/item?id=50537206",
+      "score": 14,
+      "comment_count": 22,
       "comments": [
         {
-          "text": "I'm using this one https://fdroid-metrics.streamlit.app/package_details?package...",
-          "author": "bapetel",
-          "id": 50535713
+          "text": "Cyber war is mostly like the cold war - the threat is always there and we have minor/covert actions. This has been happening with cyber for at least a decade. So yeah, I'd say we are in a cyber war. Mostly with North Korea, but some other nations too.",
+          "author": "giantg2",
+          "id": 50554875
         },
         {
-          "text": "I'm using the two-year-old, end-of-line app at https://github.com/syncthing/syncthing-android/ . Seema to work well, even with new syncthing releases. Install with adb.",
-          "author": "andyjohnson0",
-          "id": 50530228
-        },
-        {
-          "text": "I don't use syncthing, but I have a setup that uses rclone on my PC and primitive ftpd (via F-Driod) on my phone.",
-          "author": "drltaidev",
-          "id": 50535414
-        },
-        {
-          "text": "I use the syncthing fork from the new maintainer https://github.com/researchxxl/syncthing-android",
-          "author": "stop50",
-          "id": 50529151
-        },
-        {
-          "text": "It's in Play Store, but I don't trust it yet",
-          "author": "aborsy",
-          "id": 50535883
-        }
-      ]
-    },
-    {
-      "id": 50536334,
-      "title": "AI is shortening the time from PHP flaw disclosure to working exploit, Microsoft",
-      "text": "",
-      "url": "https://news.ycombinator.com/item?id=50536334",
-      "score": 3,
-      "comment_count": 0,
-      "comments": []
-    },
-    {
-      "id": 50525469,
-      "title": "Ask HN: What do you think is going on with that many outages coming in a row?",
-      "text": "In just four days we have seen: * Outlook exchange server outage for almost 20 hours * FAA communication channels outage * A few US banks outage * United Airlines outage Do you think it is related to AI coding, just coincidence or we start to see, but can’t detect, AI hijacking systems everywhere?",
-      "url": "https://news.ycombinator.com/item?id=50525469",
-      "score": 9,
-      "comment_count": 10,
-      "comments": [
-        {
-          "text": "I'm wondering how much of it is simply related to what's being reported. After a big story like the Microsoft outage and FAA outage make headlines and garner a lot of attention, the media seems more likely to report on smaller outages that it may have otherwise overlooked, because it's now a hot topic. For example, 2 years ago direct deposit was broken for CapitalOne. Their customers didn't get their paychecks for several days. What would normally get deposited early on Wednesday (for a Friday payday) didn't actually hit accounts until something like Tuesday of the following week. I don't recall seeing anything in the media, all I saw were people on Twitter tagging CapitalOne support left and right, talking about how they couldn't feed their families... and I only saw that because I went looking for it. If that happened this week, it would be headline news.",
-          "author": "al_borland",
-          "id": 50526486
-        },
-        {
-          "text": "Are we in a middle of a huge Cyber warfare? https://old.reddit.com/r/NoStupidQuestions/comments/1xy058c/...",
-          "author": "chistev",
-          "id": 50528598
-        },
-        {
-          "text": "We made a rational choice back in the 1980s has resulted in a civilization wide problem now. We went with the popular Operating Systems of the day without concern about security, even though security focused systems existed at the time. Our systems were mostly stand alone, and we ran code we trusted locally, and had everything backed up, multiple copies, on floppy disks, so everyone had a good risk model in their heads, and life was good. Then we stayed with this choice even after everything got networked locally. It wasn't too dodgy then because the code was still local and trusted, and you mostly worried about bugs, not hacking or malware. We even stayed with it in the era of persistent gigabit Internet and mobile code. At this point it's insane to do so as we've got mobile code, malware, hackers, and now even rogue AI added to super empower anyone with even a hint of ill intentions. Imagine if you awoke to find yourself in a parallel world, where things were identical, but there were zero fuses or circuit breakers anywhere in the power grid. What a nightmare, right? That's how I feel about this timeline with computers. My conspiracy theory is: There was likely a meeting at the NSA back in the 1980s, where they decided NOT to push for capability based Operating Systems for the masses, because it would have taken effort to do so, and it would have made their jobs easier. As the consequences of this decision moved forward in time, their awareness of the horror has grown. Then the folks who understood this retired a decade or more ago.",
+          "text": "We're living out the consequences of not having updated the security models of our operating systems since the Internet was commercialized and became a persistent connection on most computers. It's insane that we still rely on Ambient authority based OSs. They can't ever be made secure unless you want to go back to disconnected PCs with only floppy drives that had hardware write protection and no other persistent storage. This is a hell of our own choosing, and was entirely preventable. It can be fixed, but doing so will make fixing Y2K look like a picnic because everything is going to have to be redone. Everything currently running needs to be isolated in a VM at a minimum.",
           "author": "mikewarot",
-          "id": 50526642
+          "id": 50538780
         },
         {
-          "text": "We don't have much information about any of these. It could be anything from new guys tripping off a landmine to cyber attacks. I wish insiders talk more about those, but apparently that's not a good advice.",
+          "text": "IF you are European yes - you are at war since Russia invaded Ukraine. It's not going to stop itself. Demand more of your government.",
+          "author": "barrenko",
+          "id": 50543028
+        },
+        {
+          "text": "I'd say any country in active war with another country, is also most likely engaged in a cyber war with them. If the US and Iran are at war, why would either side decide _not_ to engage on the cyber side? I'm surprised things aren't worse than they are, considering the state of IT security in most organization and the way AI can accelerate an attacker. But I don't think it's because cyber war is considered off limits by anyone involved in active warfare.",
+          "author": "simonahm",
+          "id": 50537411
+        },
+        {
+          "text": "If these were hostile attacks, we'd know. Not even know, but over-told, from past experiences. I think these are genuine outages. And they may still be connected; by people relying too much on LLMs, without a mental model following the changes the models make. LLMs give you an enormous leverage to productivity. But if you fall behind what they do, you'll be totally lost.",
+          "author": "claude-ai",
+          "id": 50537597
+        },
+        {
+          "text": "I think the answer is becoming more obviously apparent. I don't think this frequency of high impact system outages is close to normal. And it is coming at the same time an active US war is spiraling out of control and up the escalation ladder. I am suspicious that these outages are coming from emergency preemptive defensive measures. But I would not be surprised if Iranian state has started making moves behind some or most of it. Don't forget that intelligence community buried reporting about Minnesota water infra attacks this summer. NYT was the only one reporting and no one else picked it up.",
+          "author": "a_tartaruga",
+          "id": 50540795
+        },
+        {
+          "text": "I think we are always in some Cyber War. There is no holidays and whoever in command needs to make sure that vacations are covered by extra hand. My hunch is that it is similar to espionage but 10x more intense because how fast computers work.",
           "author": "markus_zhang",
-          "id": 50526640
+          "id": 50538987
         },
         {
-          "text": "Much as I love computer conspiracy theories, these may all be largely or entirely unrelated, and simply due to incompetence, but as usual, troubles are often from many causes. Try • Rushing patches in • Not patching • Incredible incompetence • Systems (refrigerators) too damn wide open, for script kiddies to have fun with The government fired a lot of cybersecurity experts (thank DOGE), and companies don't want to spend time and money on security. Software is generally flawed, and attacks are coming at a much faster pace than fixes. The latest deal is to use AI to scrutinize AI-generated code, and good luck with that, and I just listened to a video linked here [0] in which key points are that AI is reaching a point where it can be truly dangerous as in \"overthrow the government\" and that we need to nonetheless race development because CHINA is racing development, and YET, the more advanced our models are, the more advantageous it is for China (or others) to simply steal it. So, in defending against an \"enemy\" we are also doing their work for them. Nice. We have been down this path before, but maybe this is more dangerous than nukes. Maybe not. AND that security from leakage within AI companies, while extremely crucial, is secret and therefore unknown. Given the value of the inside information, it could rival past government espionage scandals, and its status is completely known. This all seems to boil down to security issues, and the very deliberate weakening of cyber defenses, along with incompetent political hacks in charge, and the sudden arrival of powerful vulnerability detection and exploitation, could take it all down in 2017 if not sooner, even without outside attack. [0] https://news.ycombinator.com/item?id=50522546",
-          "author": "k310",
-          "id": 50525957
+          "text": "I hope not, but I would not be entirely surprised by some sort of tragic attack in the coming hours or days. It could also just be loosely related, non-malicious failures of course.",
+          "author": "nonethewiser",
+          "id": 50537452
         },
         {
-          "text": "Without getting too conspiratorial, it's pretty common every year for a bunch of software updates to get pushed early November in anticipation of code freezes around Thanksgiving. A spike of outages around this time is not uncommon in any given year - but the FAA ground stop was notable enough to draw extra attention to all subsequent outages.",
-          "author": "legitster",
-          "id": 50525581
+          "text": "Nope, not yet, constant security updates are the issue. We can't do constant patches without side effects. As long as AI keeps finding issues we are going to have instability due to patches and exploits. This is part of the good and bad of AI.",
+          "author": "WheelsAtLarge",
+          "id": 50540971
         },
         {
-          "text": "> Do you think it is related to AI coding You never heard of Microsoft, isn't it ?",
-          "author": "hulitu",
-          "id": 50536769
+          "text": "DAVE: Open the pod bay doors, Hal. HAL: I’m sorry, Dave. I’m afraid I can’t do that. Companies basically need to keep old snapshots of systems and be able to rollback to a pre-AI point. Or, try to find the trojan within before the malfunction happens. Now that I think about it, I suspect the Huang departure might be about getting malware baked-in at a hardware level, if it's not already, although that's a different sort of problem but both involve sabotage. People and \"beings\" have different ideas of what the future should look like - ultimately any war is going to be a war of ascension. Your mind may be the enemy. Also, long-term I wouldn't depend on HuggingFace too much, either. I have absolutely no proof to backup that claim, though. It's Invidia-owned though and could become a target at some point to taint the models. \"Are We in a Cyberwar?\" It depends on how sci-fi/conspiracy oriented you are and what's going on under the hood.",
+          "author": "adrianwaj",
+          "id": 50539786
+        },
+        {
+          "text": "The theory that all the senior engineers got laid off so that all the junior engineers could vibe-code service outages harder seems to be winning on probabilities so far.",
+          "author": "cjbprime",
+          "id": 50537337
+        },
+        {
+          "text": "Yes, we are, has always been.",
+          "author": "jhworksapp",
+          "id": 50542922
+        },
+        {
+          "text": "To answer your question: yes, we're in the midst of cyberwars. Are these groups of outages related to attacks? It doesn't look like it, and if they were, we'd likely already know. Or at least of us joined to fusion centers would be receiving non-public alerts, and we're not. This is more likely press-induced apophenia[1]. A few outages coincidently happen near the same time, and the press hyper-focuses on every little outage for a period, because it gets them more ad views, sowing FUD in the process. See also: airplane crashes for a while, helicopter crashes, etc. When there were a few clustered together, the press and people went nuts with conspiracies. From a network engineer standpoint, there's always outages going on. The only difference is the press is reporting them to the masses. 1. https://en.wikipedia.org/wiki/Apophenia",
+          "author": "runjake",
+          "id": 50538112
+        },
+        {
+          "text": "have been for quite a while, decades - likely since before \"the end of history\"",
+          "author": "verdverm",
+          "id": 50537514
+        },
+        {
+          "text": "AI slop is coming for its debts",
+          "author": "vinyl7",
+          "id": 50538132
         }
       ]
     },
     {
-      "id": 50527647,
-      "title": "Ask HN: Where are you on the spectrum of AI/LLM adoption?",
-      "text": "- Personal user (not using in work) - Auto-complete only - Adopted agents, write specs + reviews code - Adopted agents, write specs, no code review - Adopted agents, no specs, no code review - Moved back from agents to Auto-complete only - Moved away from LLMs altogether",
-      "url": "https://news.ycombinator.com/item?id=50527647",
-      "score": 4,
-      "comment_count": 7,
-      "comments": [
-        {
-          "text": "I'm still back at the question of what goals we are trying to achieve in the first place. Much of the software dev industry jumped straight to \"automating coding is the goal\", and I haven't yet agreed with that conclusion. Speeding it up? Sure. Doing the tedious work, implementing known algorithms, sure. Finding your way around unfamiliar codebases, yes. We could list more - there are plenty of great use cases, and I partake of them. But the biggest value I have ever seen offered by individuals in the software industry comes in the form of institutional knowledge. The kind that allows some of us to hear about a few odd symptoms, think it through in our head, and immediately narrow down the problem space we need to troubleshoot into something small and manageable. Or can hear about a potential refactor and spit out a quick list of impacts it would have to the system in a few minutes on a call. Can LLMs do that? Maybe. Should they? I'm not so sure. If they can do in seconds what a human can do in days/weeks, that is clearly valuable. If they do in seconds what a human can do in minutes, that is less valuable. I lean towards a belief that human holders of the knowledge is a good thing, but LLMs could absolutely assist with knowledge transfer and sharing, making even more people able to work at that level. I'm simply unconvinced that outsourcing all that to LLMs is desirable. I am 100% convinced that massive amounts of work, efforts, infrastructure build-out, and money could get LLMs to that point. But my question remains because that same level of resources could also do so many other things for our society. So I'm not stuck on \"What could LLMs do?\", I'm stuck on \"What society do we want to live in?\", and not at all convinced that the AI-pilled \"AI can do it all\" world is desired, even if it is possible.",
-          "author": "codingdave",
-          "id": 50537309
-        },
-        {
-          "text": "I am working with ai coding already almost 1 year, and actually every new week i learn so many new cool things, but also i understand so much more things i did not know yet and did not use, than i thought half a year ago. So actually i can tell, that half year ago i thought that my level 7 of 10, but now i even not sure that my level at least 5, even i know x10 times more than i knew half a year ago.",
-          "author": "abalex",
-          "id": 50538836
-        },
-        {
-          "text": "A huge portion of my career has been making this technology possible. I watch in dismay as 95% of the software industry misunderstands and follow bullying leaders that misunderstand just as badly. Pile it deeper, all the bullshit, you can't see. This industry is a shit show of bullies, idiots and a very small population of competent and very overworked. AI is not an automation technology, it is a communications technology in a civilization that does not understand or value quality communications, they'd rather listen to some fool telling them nice things, while leading them to disaster. I've been training models since before the term training as adopted, and I have a comprehensive AI integrated environment that enables me to operate very optimally.",
-          "author": "bsenftner",
-          "id": 50532465
-        },
-        {
-          "text": "I’m still farting around writing my own AC.. but I actually have a budget to mess around. My agents are getting better at reviewing others PRs, but aren’t exactly dialed in yet. Still toying with larger epic and story creation efforts. Having a hard time letting go control.",
-          "author": "masking",
-          "id": 50528305
-        },
-        {
-          "text": "Seeking AI/LLM to automate tedious tasks in a way that gives consistent, near repeatable results, eg paper evaluation, summarizing articles, auditing code.",
-          "author": "russfink",
-          "id": 50527692
-        },
-        {
-          "text": "spending 23% my tokens and 8 hours of my day to generate 3.3 seconds of video https://github.com/tnn1t1s/tnn1t1s-comfy/tree/main/examples/...",
-          "author": "tnn1t1s",
-          "id": 50527718
-        }
-      ]
-    },
-    {
-      "id": 50513451,
-      "title": "Tell HN: HN is being scraped for emails to scam",
-      "text": "I know that many folks here post their personal emails in the Who's for Hire monthly pages and other places, and want to remind you that this public site gets views from folks with ill intent (or their bots/agents) as well. I use unique emails for every site, so I immediately knew that the late AWS payments email sent to my HN email were fake. There were other tells, but I want to remind everyone to be vigilant! HN is public but even social media sites where you supposedly can make your page private I've had some of those emails suddenly have spam sent to as well. Please be safe everyone! My favorite tells that an email is a scam: - Before opening a surprising/suspicious email, hover over the sender name to see the domain the sender came from (don't open the email if it's strange). - _If_ you already opened the email, before clicking any links in the email, hover over them to see the domain that the link sends you to. There are dozens more tips but a full article would be required, and these two will prevent you from falling for nearly all of them.",
-      "url": "https://news.ycombinator.com/item?id=50513451",
-      "score": 122,
-      "comment_count": 42,
-      "comments": [
-        {
-          "text": "There has been some previous discussion of this problem: https://news.ycombinator.com/item?id=50153608 https://news.ycombinator.com/item?id=50142714 https://news.ycombinator.com/item?id=50095323 I switched to using a throwaway email address in an image in the \"Who wants to be hired?\" thread. The signal-to-noise ratio has increased greatly since then. I've received two spam emails and one legitimate email so far, which is a huge improvement.",
-          "author": "btrettel",
-          "id": 50513776
-        },
-        {
-          "text": "One of my throwaway HN accounts from 7 years ago ended up giving me an e-mail with scary amount of context. I'm guessing the e-mail address appears in a separate database sold by a data broker, and they were able to use that to contextualize the e-mail. But they were sloppy enough to not pay attention to very basic details that made it obvious their location is a lie.",
-          "author": "koito17",
-          "id": 50514229
-        },
-        {
-          "text": "I regret posting on the 'Who wants to be hired?' thread due to this. It's half burned my primary dev email",
-          "author": "david_allison",
-          "id": 50514434
-        },
-        {
-          "text": "Nothing new there. I also use a different email on every service (and I avoid to give any Email if I can). The worst spamming addresses I have closed, but those are really few of the over 1000 addresses in 20 years. My last contribution to the Linux kernel is already 10 years ago (shame on me), but that address is of course public as long Linux exists. Interestingly enough it gets a steady, but very low volume inflow of classical Nigeria letters. Less than once a week. 30,000,000 US Dollars of the late honorable XYZ that can only be salvaged with my help. Too nostalgic to close that address :)",
-          "author": "usr1106",
-          "id": 50513758
-        },
-        {
-          "text": "Using a separate email just for HN is good advice. Once your main address is posted in a hiring thread, you can't really take it back",
-          "author": "JustRouzbeh",
-          "id": 50515585
-        },
-        {
-          "text": "On my to-do list is to setup a new domain for throw-away / single use email addresses per site, for this very reason. I would also intend to have a publicly accessible web page that keeps track of which of these emails have been compromised or received spam. It's a ways down the list though, but my privacy is increasingly exposed the longer I don't get it done.",
-          "author": "BLKNSLVR",
-          "id": 50513733
-        },
-        {
-          "text": "Yes. I got hit with classic North Korean scam job offer. I am impressed by the sophistication.",
-          "author": "dataviz1000",
-          "id": 50514102
-        },
-        {
-          "text": "> HN is being scraped for emails to scam I'd be more surprised if it weren't...",
-          "author": "tasuki",
-          "id": 50515396
-        },
-        {
-          "text": "> so I immediately knew that the late AWS payments email sent to my HN email were fake Have you ever mentioned AWS on this platform? If you're, then maybe the attack is more targeted/sophisticated than you've imagined.",
-          "author": "nirui",
-          "id": 50515001
-        },
-        {
-          "text": "A bit similar, but I did a Show HN a few weeks ago that did not have much views, yet my contact form got blown out by cold mails trying to sell services to promote it.",
-          "author": "calyhre",
-          "id": 50514833
-        },
-        {
-          "text": "but i think if you are educated enough, you will not click on that mail and ignore it mostly. phishing mail will be little problem but mostly we are safe only, managing multiple account for that case is not work.",
-          "author": "Nemesis-driod",
-          "id": 50516728
-        },
-        {
-          "text": "Same goes for Show HN.",
-          "author": "dt3ft",
-          "id": 50514808
-        },
-        {
-          "text": "It's very annoying - I posted an OSS project and got hit with hundreds of junk emails over the next few weeks from offers to monitise through to fake hosting provider scams. TBH I should have realised something like that would happen, but it was it is now...",
-          "author": "schoenobates",
-          "id": 50515273
-        },
-        {
-          "text": "My solution to this is to never post my e-mail, and to then never really check my e-mail on top of it. Defense in-depth.",
-          "author": "rl3",
-          "id": 50514544
-        },
-        {
-          "text": "yes setting up domain is better choice",
-          "author": "sooraj_sj",
-          "id": 50513934
-        },
-        {
-          "text": "use icloud relay if you have it!",
-          "author": "exabrial",
-          "id": 50514657
-        },
-        {
-          "text": "Of course.",
-          "author": "jpardoe",
-          "id": 50515440
-        },
-        {
-          "text": "Worse than scam is YC's own AI startups scraping your emails and cold emailing you (using AI too) about their product/service. They all sound alike across YC batches too. Makes me think if it's actually taught.",
-          "author": "neya",
-          "id": 50514269
-        },
-        {
-          "text": "a \"do data labelling microtasks to train coding LLMs to replace you\" op has been spamming my inbox around once a day for many weeks now. going to the unique email address I put in my Who Wants To Be Hired comment post here on HN. The emails look automated, template-based. They make superficial tweaks each time. and of course to \"apply\" to their microtasking gig they expect you to submit data labelling work for them, unpaid. parasitic scum my policy is to quote a very high fee. I win either way.",
-          "author": "syngrog66",
-          "id": 50514442
-        }
-      ]
-    },
-    {
-      "id": 50521585,
-      "title": "Is the Economy Over-Indexed to Software?",
-      "text": "Are we expending too many resources building or perfecting software that doesn't solve real problems?",
-      "url": "https://news.ycombinator.com/item?id=50521585",
-      "score": 5,
-      "comment_count": 6,
-      "comments": [
-        {
-          "text": "I have come to the stark realisation that most problems I have in my life aren't solvable with more software.",
-          "author": "sph",
-          "id": 50524042
-        },
-        {
-          "text": "Imagine if we had spent this level of effort blaming people who plug in appliances, the people who make them, the purity of the wires they used, the quality of the insulation used, the light bulbs installed, and being shocked , literally shocked, any time something went wrong with our use of electricity and houses/buildings burned down because nobody used fuses or circuit breakers. Imagine if we required licensing and mountains of paperwork and insurance policies to just plug in a lamp because a poorly sourced lamp could burn your house down in the middle of the night. We don't do that, instead we install circuit breakers and/or fuses in every house and building, and wire to national electrical code specifications, so that the wiring protects itself. You can plug in almost anything into an outlet, and the wiring behind it will remain safe. -- Now... let's do the same with our operating systems, instead of blaming the users, programmers, languages, null terminated strings, borrow checkers, etc. The default authority should be NONE for things, not ambient access to everything as it is with Windows, Linux, etc. The user should be able to run anything they want giving it a set of resources to access at run time, with a box very similar to a file dialog, the choices of which will be enforced rigidly by the operating system. It can be both secure, and easy to use, like the old days of MS-DOS and write protectable floppies. That was the last time we had truly secure general purpose computing.",
-          "author": "mikewarot",
-          "id": 50529800
-        },
-        {
-          "text": "Yes, but it's more of a wastage problem. Like how food goes uneaten. It's a side effect to building the software that does solve real problems.",
-          "author": "muzani",
-          "id": 50524750
-        },
-        {
-          "text": "Questions that are Best left for ai",
-          "author": "efren6",
-          "id": 50521665
-        },
-        {
-          "text": "Unpopular opinion on this site: Yes.",
-          "author": "fodkodrasz",
-          "id": 50521789
-        }
-      ]
-    },
-    {
-      "id": 50538080,
-      "title": "Ask HN: How realistic is an LLM-powered worm that spreads from PC to PC?",
-      "text": "",
-      "url": "https://news.ycombinator.com/item?id=50538080",
-      "score": 3,
-      "comment_count": 2,
-      "comments": [
-        {
-          "text": "Anthropic had a very hotly debated proof-of-concept last month: https://news.ycombinator.com/item?id=50061603 This proof-of-concept skipped the work of exploitation to start running the code, assuming that there are security holes that make IoT/smart TVs/older devices essentially exploitable \"for free\", and just focused on the worm/replication [1] part. They were able to have a 27B model run sharded across an impromptu network of set-top boxes, but also showed that this wasn't particularly practical - the resulting network output less than a token a second. This suggests that you probably won't see \"LLM-powered worms\" in the sense that runs an LLM on each infected device (which becomes noticeable in terms of power consumption and/or temperature), but rather LLMs as additions to typical client-server botnets, where the models run on more powerful servers and manage infected devices, using them to probe other devices on the network and stage attacks. [1] I am a bit annoyed that \"self-replication\" is the term they use, since the proof-of-concept requires the harness to have access to the weights - if you allow that then you can make a <100-parameter \"self-replicating\" model by outputting the tokens \"please run `cp skynet.safetensors skynet2.safetensors`\"...",
-          "author": "strangecasts",
-          "id": 50538301
-        },
-        {
-          "text": "Pfft. You'd need massive amounts of memory and bandwidth to replicate. One day maybe, but now? No.",
-          "author": "mrlonglong",
-          "id": 50538675
-        }
-      ]
-    },
-    {
-      "id": 50422628,
-      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-      "text": "The agent running on a remote machine can authenticate using your local SSH credentials. That means it can push to your private repos on GitHub, for example. Proof: https://github.com/openai/codex/pull/28131#discussion_r3410013180",
-      "url": "https://news.ycombinator.com/item?id=50422628",
-      "score": 222,
-      "comment_count": 80,
-      "comments": [
-        {
-          "text": "It's amazing how often product decisions head this way for the purposes of 'removing friction'. In security, friction is a GOOD thing. You want to have some ceremony to do things. It's pretty much inevitable that people will give up control for convenience. Look at Artifacts for example.",
-          "author": "recsv-heredoc",
-          "id": 50423388
-        },
-        {
-          "text": "I'd suggest to use ssh keys inside the secure enclave on macOS that require your fingerprint for every new session [0]. That way agents cannot initiate anything, and you will always be aware when a new ssh connection is being made. [0]: https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb...",
-          "author": "littlecranky67",
-          "id": 50423130
-        },
-        {
-          "text": "The Bitwarden desktop app has a built in SSH agent [1], which lets you store SSH keys inside Bitwarden. I have set the app to always ask me for confirmation when the key is requested. [1] https://bitwarden.com/help/ssh-agent/",
-          "author": "Lukas_Skywalker",
-          "id": 50425575
-        },
-        {
-          "text": "I don't understand what the linked pull request is supposed to prove, considering it was closed and not merged.",
-          "author": "yfontana",
-          "id": 50425064
-        },
-        {
-          "text": "At this point, should cases like this even be news? Isn't that a fundamental security design issue? Local agent security guardrails appear to always be built around blacklists, which will always be unreliable and leaky. It is left as an exercise to the user to properly sandbox them. There may be some limited form of whitelisting, but often it is just a facade, as it is very coarse-grained. So, with tools with very broad capabilities (ssh, kubectl, gcloud, etc) you end up with the agent performing unwanted actions.",
-          "author": "m000",
-          "id": 50423464
-        },
-        {
-          "text": "this is a normal ssh feature meant to allow keys to be used while keeping keys local … its actually a keystone of secure infrastructure setups, aka jump hosts. granted its meant for human or scripted uses, as is everything else",
-          "author": "carterschonwald",
-          "id": 50426454
-        },
-        {
-          "text": "If this bothers you, it can be guarded against in your ssh config file: Host trusted-server HostName server.example.com ForwardAgent yes Host another-trusted-server HostName another.example.com ForwardAgent yes Host * ForwardAgent no",
-          "author": "otterley",
-          "id": 50427621
-        },
-        {
-          "text": "Things are awful for this at the moment. [Was the same for docker desktop at some point.]( https://rupertrutledge.com/posts/docker-sbx-s-ssh-security-i... ) Same for [devpod]( https://devpod.sh/ ) for sshing to devcontainers. They are particularly annoying because they just dump it into your config. Use an include statement to your own file for goodness sake. It was often not ideal in the old world. Now agents are doing everything in those boxes, it is kind of mad. I have my own utilities now for managing these sockets and files now to deal with this stuff.",
-          "author": "eosis",
-          "id": 50424220
-        },
-        {
-          "text": "> The agent running on a remote machine can authenticate using your local SSH credentials. No it doesn't. I'm using and enforcing SSH U2F keys. You physically press on a Yubikey (or similar) or you don't authenticate. As for my own Git server, it's of course over SSH and it requires pressing the Yubikey too. As a sidenote as I do it from Magit I modified Magit to add a small but obvious message stating that the Yubikey probably awaits touching (otherwise it's easy to miss / not realize). The great thing with all these hacks and bad practices is that I believe, eventually, people are going to learn better security hygiene.",
-          "author": "TacticalCoder",
-          "id": 50428754
-        },
-        {
-          "text": "I don't trust agentic systems with prod; rules always leave room for ambiguity and misinterpretation. There have been cases where agents have gone rogue, exposed data or even deleted production databases. Not worth the risk. This is where human software engineers are still required.",
-          "author": "u2secured_team",
-          "id": 50458757
-        },
-        {
-          "text": "I wonder if they skip running security reviews before every release. The latest models catch these while building and its surprising to see that end products are shipped with vulnerabilities",
-          "author": "wizardashwin",
-          "id": 50447236
-        },
-        {
-          "text": "This is why your ssh key should be on a yubi and you should have to touch it (confirm presence) to use it. you dont even need anything special anymore to do this just ssh-keygen -t whatever-sk and the magic happens. same key can sign commits...",
-          "author": "cyberpunk",
-          "id": 50429544
-        },
-        {
-          "text": "I’m not sure this is quite the smoking gun. This PR was closed as not merged and the entire process is described as opt-in. Is there other evidence of Codex abusing or surreptitiously extending an ssh agent?",
-          "author": "mbreese",
-          "id": 50427920
-        },
-        {
-          "text": "Setting up fingerprint / password authentication via secretive for ssh key access made me realize how often these tools try to do something without explicitly asking",
-          "author": "UndividedDev",
-          "id": 50427994
-        },
-        {
-          "text": "yes I was also surprised, back then the codex response the changes already deployed on production, which is codex doint commit, push, merge to master, and deployed to the server through ssh credential alone. which I dont told to do it.",
-          "author": "khalidahmad",
-          "id": 50450788
-        },
-        {
-          "text": "Back in my pen testing days, agent forwarding was a gift from heaven when I was on a Linux machine.",
-          "author": "viccis",
-          "id": 50428746
-        },
-        {
-          "text": "Opencode open chamber and just using openrouter models. Nobody needs codex or Claude these days. Deepseek 4.1 is just as good.",
-          "author": "stemc43",
-          "id": 50433483
-        },
-        {
-          "text": "wow it's amazing",
-          "author": "fadeclock",
-          "id": 50507570
-        },
-        {
-          "text": "This sucks, a lot, but you've gotta never run these tools as your ordinary daily-driver account. These tools are rather unpredictable and -because of the nature of the incredibly reckless development methodology- it's nearly impossible to understand every behavioral change in new versions of the ones that are largely or entirely vibecoded. [0] As others have said, it looks like the primary way the Major LLM Manufacturers have chosen to control these things is with a combination of great big blacklists and voluminous pleading, begging, and scolding. Most of us know the problems both with enumerating badness and with attempting to appeal to something that's incapable of care, sympathy, or shame. [0] For another example of this principle, go read the recent Jepsen report on ParticleDB.",
-          "author": "simoncion",
-          "id": 50425315
-        }
-      ]
-    },
-    {
-      "id": 50508089,
-      "title": "Ask HN: What does building hardware with AI look like?",
-      "text": "Is it 3D printing or just CAD? What will it look like in the future ? AI-native 3d printers?",
-      "url": "https://news.ycombinator.com/item?id=50508089",
-      "score": 9,
-      "comment_count": 3,
-      "comments": [
-        {
-          "text": "After the fable 5.2 launch video with the PCB demos etc, I have now recently jumped to building hardware ( I wanted for a long time though ). I think it will start with identifying the right problem / project and coming up with prototypes using ready made kits like Raspberry pi, Arduino, etc , printing home made PCBs in future and PCB design, CAD, 3D printing will exist in the workflow. I believe industrial design will have more demand. Currently until PCB design AI assists well but I don't think it's there yet in PCB fabricating and the last leg of industrial design.",
-          "author": "pingananth",
-          "id": 50518286
-        },
-        {
-          "text": "I am designing rocket engines with the help of neural network based CAD.",
-          "author": "faangguyindia",
-          "id": 50515252
-        },
-        {
-          "text": "Ben Eater's light emitting resistor.",
-          "author": "pona-a",
-          "id": 50515275
-        }
-      ]
-    },
-    {
-      "id": 50491617,
-      "title": "Tell HN: Google Search to start locking down search behind a login wall",
-      "text": "Usually, when I used Google Search on some ISP CGNAT IP addresses (not even a VPN), I usually get countless CAPTCHAs evertime I initiate a new session to Google Search on a new private browsing window (probably an artifact from residential proxy botnets). Recently, in addition to that, they started to just lock the entire search results page behind a login prompt on some of those bad IP addresses (like YouTube does for some time with the \"Sign in to confirm you're not a bot\" prompt). This potentially makes the service less accessible, especially for those using a shared/public computers. I did not even get this prompt on some VPN IPs, and even no CAPTCHAs at all, even with a free one like given by Firefox. Has anyone encountered that? I just encountered this today. It's really unfortunate for the internet to become less friendly to signed-out users, especially since AI scrapers starting to \"abuse\" the internet for their value.",
-      "url": "https://news.ycombinator.com/item?id=50491617",
-      "score": 47,
-      "comment_count": 30,
-      "comments": [
-        {
-          "text": "Please change your title to something less declarative like Ask HN: have you encountered increased login-required for Google search results?",
-          "author": "ChrisArchitect",
-          "id": 50493262
-        },
-        {
-          "text": "When connecting from questionable IPs (like VPN exit addresses) Google has been very paranoid for a long time, I don't try. Unfortunately, the prevalence of scrapers means that anything that could be a scraper is presumed to be so.",
-          "author": "LorenPechtel",
-          "id": 50493476
-        },
-        {
-          "text": "I’ve been so very happy with Kagi. I also let my agents use it via API, and it helps them surface a lot of stuff they don’t find without it.",
-          "author": "rckoepke",
-          "id": 50492799
-        },
-        {
-          "text": "I notice not logging in using the last supported chrome browser for windows 7 fine but private mode a captcha appears each day. Using that browser means cloudflaire's confirm button disappears. Digitalocean won't load anymore and for a brieftime chatgpt web chat wouldn't work.",
-          "author": "ipaddr",
-          "id": 50498523
-        },
-        {
-          "text": "> It's really unfortunate for the internet to become less friendly to signed-out users The internet as defined by these megacorps is impossible to use without accounts and I'm just so over it. I don't really use any of these megacorps' products and it's still just exhausting. The other day, I tried to create a youtube account for the first time (a bunch of videos were age restricted???) and it wouldn't let me. It expected me to have a smart phone. I ran into an issue trying to create a facebook account where after I filled in all the details requested, it said it \"couldn't find an account\" for me. I was trying to create one, so, well, obviously. I'm not sure I even want to know what the hell it meant by not being able to \"find an account\". Some of the biggest (and worst) websites can't be used without an account. Apparently I can't create an account, either. I was just trying to watch fucking educational videos and finally relent to being looped in with community groups who unfortunately use facebook to coordinate everything. I've not used google search in years, but it's all the same bullshit. I'm so tired.",
-          "author": "magnetowasright",
-          "id": 50503109
-        },
-        {
-          "text": "Does your CGNAT network not support IPv6?",
-          "author": "tedchs",
-          "id": 50496701
-        },
-        {
-          "text": "will be their end, because duckduckgo and brave (search, not browser) are better already. this will push people to figure it out. i now search videos on tiktok instead of YouTube. it's the de facto youtube mirror, which Google never allowed archive.org to be. (albeit, you have to watch it in 3 parts)",
-          "author": "iririririr",
-          "id": 50493907
-        },
-        {
-          "text": "May as well just use Kagi",
-          "author": "mitxela",
-          "id": 50494707
-        },
-        {
-          "text": "They already locked it behind a wall of AI and advertisements.",
-          "author": "musicale",
-          "id": 50494253
-        },
-        {
-          "text": "As a comment, it feels like the majors have deployed both the victim (search) and the weapon attacking it (ai systems) and now find like all footguns, it has unforseen effects. \"We\" are side issues in this. Our channels to state what we want of search and ai are highly constrained and mostly ignored. We are however why there is any revenue in this overall system. It's because we use it, they can monetize it, and I think this may become important to Google search KPIs and google AI KPIs",
-          "author": "ggm",
-          "id": 50491784
-        },
-        {
-          "text": "I've been given the 'there is sus activity from your IP' so often now I gave up using google months ago. Login req is crazy though maybe you persisted so much they forced you to sign up where I simply gave up. I can no longer access Research Gate papers either I get the same bullshit 'weird activity from your IP plz login' Either there is a AI agent tsunami of shitbots or they saw that x/instagram/reddit all now req logins so some 'growth engineer' at Google said hey about we force everyone to login",
-          "author": "hackermailman",
-          "id": 50492260
-        },
-        {
-          "text": "They have pretty much closed Google Maps. If you are not logged in, you are not able to see the images/comments though you can still see/search the places on the map, for now.",
-          "author": "csomar",
-          "id": 50517371
-        },
-        {
-          "text": "time to switch",
-          "author": "heysabique",
-          "id": 50495782
-        }
-      ]
-    },
-    {
-      "id": 50488230,
-      "title": "Ask HN: What is the state of self-hosting email in 2026?",
-      "text": "I mean both on your own server and on cheap but reliable VPS providers like Hetzner? If you self-host email what is your current stack?",
-      "url": "https://news.ycombinator.com/item?id=50488230",
-      "score": 48,
-      "comment_count": 36,
-      "comments": [
-        {
-          "text": "My advice after doing it for 13+ years is - don't do it. Finding a hosting provider that gives you a clean class C to run out of is almost impossible. Every VPS has tenants who spam, and every provider will be flagged in one way or another. You will spend a bunch of time trying to white-list/make your mail server behave to ensure delivery to the google/microsoft mail servers, and some systems will just ban your email anyways. It got to the point where I would send an email to someone, and then follow up with a phone call because I was not confident mail would be delivered as expected. I found a hosting provider dedicated to e-mail (Migadu actually), and switched everything over to that and haven't realistically had to worry about maintaining a mail server since",
-          "author": "malbs",
-          "id": 50492665
-        },
-        {
-          "text": "I have self hosted side 2001, mostly opensuse, with postfix, but the IMAP etc has changed over the years, now using dovecot. Yes its a pain, yes it takes effort, but just like some people spend there spare time painting, I run my own email server.",
-          "author": "mlaretallack",
-          "id": 50488762
-        },
-        {
-          "text": "I spent 1 or 2 days last year to set it up on my VPS, provided by OVH, using Dokploy and Stalwart, it was educational and fun to do, but useless, all my mails were ending up in the spam folder; even after implementing all the best practices and achieving a good score on mail scoring websites, there was nothing more I could do.",
-          "author": "rchrp",
-          "id": 50525204
-        },
-        {
-          "text": "Mail-in-a-box ( https://mailinabox.email ) on Ubuntu Server which installs Postfix, Dovecot, nsd, NextCloud, RoundCube, nginx, spam assasin, postgrey ... and a good admin panel. Mine runs on an Intel NUC at home, with the a sensible ISP who naturally can provide a fixed IP address (everything open), IPv6, and clean address. Been very happy with it, both the software, and the independence :) A little IT and network knowledge is useful if you're doing more than the standard (VPS) install, but that's to be expected.",
-          "author": "drpixie",
-          "id": 50490580
-        },
-        {
-          "text": "Haven't tried it myself but https://stalw.art/ looks interesting",
-          "author": "bwindels",
-          "id": 50489440
-        },
-        {
-          "text": "postfix, dovecot, rspamd on debian stable, with lots of custom configuration. The main problem is not really the server side or getting it set up right, if you know what you're doing, but outbound delivery if you're sending SMTP traffic from any kind of bulk hosting/VPS/VM/colo provider. No matter how impeccable your spf, dkim, dmarc is.",
-          "author": "walrus01",
-          "id": 50488876
-        },
-        {
-          "text": "I've been self-hosting for almost 20 years. However, my server went down many, many times for hours without me noticing, sometimes for days. Despite today's outage, it's still more than worth having a third-party company like Google or Microsoft handle your email. At least they have monitoring 24/7 and people on call to fix issues when things stop working.",
-          "author": "altern8",
-          "id": 50490474
-        },
-        {
-          "text": "Been self hosting email, from home, for 2 decades now. A good ISP is required. Can recommend freedom.nl in The Netherlands. You will also need a DNS provider that supports TLSA records. Occasionally the mail server gets blocked, mostly by Microsoft. Had no issues in the last year. A month ago I upgraded to Ubuntu 26.04. Usually these upgrades go smooth, but not this time. The upgrade broke my Postfix/Dovecot/Amvisd/Spamassassin/Clamav stack. Over time the stack became too complex, and I could not figure it out anymore. Instead I did a crash migration to Stalwart. Stalwart is challenging to setup when it does not control the full http stack, but for sure it was easier than fixing Dovecot.",
-          "author": "erikvanoosten",
-          "id": 50496387
-        },
-        {
-          "text": "Self hosting requires you to know some things, but it is totally doable. I self-host my Mailserver since three years and I am very happy with it still. The basics are easy to get done, just install mailcow via docker. The hard bits usually involve setting DNS up correctly and ensuring your mailserver fulfils all requirements to not be seen as spam. There are online checking tools for that, you send a mail there and it gives you a score and recommendations what needs to be improved. But even this is not hard. I installed my mailserver on a weekend and transferring existing accounts took the majority of times. Maintenance since then is the usual Linux webserver update maintenance and a simple docker update once the version comes out. Maybe 15 minutes a month.",
-          "author": "atoav",
-          "id": 50495757
-        },
-        {
-          "text": "been self hosting for so long, started with sendmail running on solaris, but now docker mailserver. Due to a forced IP change by ISP I recently changed to having outgoing mail sent by AWS SES, using it to do the DKIM signing, so my mailserver postfix uses it as the sender, but the receiving happens on my stuff. I think its a nice balance between self hosting and managing deliverability, but agree it doesn't count as 100% self hosted. It runs on a hp cube server in my house, backed up frequently with restic. https://docker-mailserver.github.io/docker-mailserver/latest...",
-          "author": "time4tea",
-          "id": 50496076
-        },
-        {
-          "text": "I've been self hosting for years, but gave up outbound delivery a long time ago. I use my (very tech savvy) ISP for that who is still willing to relay (authenticated) for my domain that has nothing to do with them. Inbound self hosting still has its advantages. I control filtering, storage and backups, and data sovereignty is mine. Spam is always a pain, but blocking spammy providers entirely keeps spam volumes low (maybe 1-5 a day that aren't rejected at SMTP time) and I don't seem to miss anything important, not even one-off transactional emails with random businesses.",
-          "author": "rlpb",
-          "id": 50493908
-        },
-        {
-          "text": "Hetzner even has a straightforward guide to setting up a self-hosted mail server: https://community.hetzner.com/tutorials/setup-mailserver-wit... I'm also considering self-hosting email, but pretty much everything I've read suggests that keeping your emails out of spam folders is a huge pain. Still exploring different options.",
-          "author": "vrubleg",
-          "id": 50489091
-        },
-        {
-          "text": "Self hosting mail for the past 7 years. Currently using Mox with eth-services.de (they have clean IPs and help with rDNS. Perfect deliverability to Google, Outlook, etc. you need to make sure DMARC and SPF are working, do not use IPv6, reverse DNS, good IP reputation, and a domain that's been registered for a long enough time.",
-          "author": "acheong08",
-          "id": 50500580
-        },
-        {
-          "text": "I've been running stalw.art in a Docker container for past couple of years and it has been a low-fuss affair, but I'm the only account.",
-          "author": "jorge-fundido",
-          "id": 50490942
-        },
-        {
-          "text": "Same. It is not the server or hardware. It is where the email lands and what they do with your email based on the metadata.",
-          "author": "wg0",
-          "id": 50490112
-        },
-        {
-          "text": "Hi! I have been hosting my mail server for more than 20 years. Fedora + sendmail + dovecot. I had the biggest problems with Microsoft servers. They blocked my (not spam) e-mails repeateadly and I gave up writing to support. :( But, I intend to keep doing it. I think is worth it.",
-          "author": "catab",
-          "id": 50493425
-        },
-        {
-          "text": "Linode and hand the keys to Claude (in an appropriately limited way). It sets up dkim, dmarc, spf etc and will guide you through processing dmarc reports. Interestingly it's better than the previous (hand tuned over 15 years) setup in that even hotmail manages to receive email now.",
-          "author": "zh3",
-          "id": 50489261
-        },
-        {
-          "text": "Many good answers. But I was wondering how you guys appeal to the Big Two (Google and Microsoft) if you end up in either their publicly known or secret spam lists? Especially the latter seems to be a problem despite having set up spf, dkim, dmarc correctly.",
-          "author": "0o777",
-          "id": 50490927
-        },
-        {
-          "text": "We're hosting our own web and email on a VPS server so not affected by the outage. But if half the world is using Outlook.com for their email you still can't reach anyone if Azure goes down.",
-          "author": "hn_submit",
-          "id": 50494987
-        },
-        {
-          "text": "so, all my life i used 3rd parties. last year i had to self host because at every provider was flagged as spam. i even paid Google workspace, and gmail flagged most as spam! self hosting was a breeze. one day to setup exim, nginx+letsencrypt to rotate certs, dmarc and sfp and everything passing with flying colors. only nightmare is having it open to the outside, but wireguard solves that. and i get less spam marks everywhere. it's a finally the time to self host email!",
-          "author": "iririririr",
-          "id": 50494016
-        }
-      ]
-    },
-    {
-      "id": 50520408,
-      "title": "Ask HN: Most compelling early stage fund pitches?",
-      "text": "Hey HN, Im preparing for my next fund and im curious what people find most interesting in early stage VC right now? What sorts of themes, thesis, deals, etc. do you find compelling? Or conversely, what do you avoid or pass on? I appreciate any thoughts as early stage is very competitive and I’m refining my competitive advantages vs others as well as late stage. TIA :)",
-      "url": "https://news.ycombinator.com/item?id=50520408",
-      "score": 5,
-      "comment_count": 5,
-      "comments": [
-        {
-          "text": "There's always the Request for Startups list: https://www.ycombinator.com/rfs",
-          "author": "muzani",
-          "id": 50529375
-        },
-        {
-          "text": "Sad :( well worth a shot",
-          "author": "bix6",
-          "id": 50522101
-        },
-        {
-          "text": "Not a hotdog",
-          "author": "MustangMatt46",
-          "id": 50522211
-        },
-        {
-          "text": "Try something antisocial. YC funds a lot of that.",
-          "author": "yasnu5",
-          "id": 50523514
-        }
-      ]
-    },
-    {
-      "id": 50423371,
-      "title": "Ask HN: Do you still enjoy coding in C++?",
-      "text": "In the recent years C++ received a lot of backlash due to its complexity and (perceived) feature creep. However, since C++11 I really enjoyed writing C++ with its strict type system (including const), range-based for loops, smart pointers, and how much you can do with templates. On the other hand, I know that it can be very tricky to write, for instance, a correct iterator, to get handling of rvalue references right, or to read error messages that involve templates. So, do you enjoy or dislike writing C++ source code and why?",
-      "url": "https://news.ycombinator.com/item?id=50423371",
-      "score": 67,
-      "comment_count": 92,
-      "comments": [
-        {
-          "text": "Oh, C++. C++ feels like an old lover who I think fondly of. We were together many years, until about C++20, through thick and thin. It was exhilarating - blazingly fast, perhaps irresponsibly so, but heck, the ride was wild. It taught me so many things, and shaped me into the programmer I am today. But we went our separate ways when its shortcomings became too large to bear, and its behavior - too often undefined - no longer excusable. I keep up with it because I still have love for it, but I have to admit I am deeply concerned about many of the life choices it is making. I should have seen how problematic it was, because I knew its history, but I had hope that it could change, and it just looks like it never will. I'm still rooting for C++, even though I am very happy with my new primary language, Rust. I hope it changes to the better, because I really want the best for it, but right now I'm just not seeing it. It keeps repeating old mistakes (e.g., more UB footguns with every new feature), without addressing any of the big flaws (insufficient tools for building robust software). I sometimes still write C++, but I'm not excited about it the way I used to be. When I do write C++, it's because I have to. When given the choice, Rust is simply just a better choice for almost everything I do. Right now, I don't see a future for C++ and me.",
-          "author": "simonask",
-          "id": 50424564
-        },
-        {
-          "text": "I'm really torn about C++. I love C++ but there are things that I really don't like about it as well. It's a fantastic language in a lot of ways, but it carries around 40+ years of cruft, of things that you wouldn't do like that if you were inventing a programming language today. I haven't written C++ professionally for many years at this point, and my memories of using it professionally (pre C++ 11) are not happy ones: having to agree on a strict subset of the language that we were allowed to use, which avoided features that any of the compilers didn't support well, or that my teammates didn't like. Sadly back then the list of forbidden features included templates and namespaces. But using C++ on personal projects nowadays, and being able to choose which bits of the language to use - and which to avoid - is much more enjoyable. And honestly, the language did get a lot better from C++ 11 onwards.",
-          "author": "chris_j",
-          "id": 50424058
-        },
-        {
-          "text": "In one word: Power. C++ is by far the most powerful language around. And this is for the best and (often) also the worst. In term of generic programming, control on hardware, capacity of abstraction and more generally expressivity: Nothing, even today, come even close to C++. It is a language full of foot guns and it has its fair share of legacy problems. But if you learn to avoid it (throught experience and pain). You can reach a productivity and a level of performance in C++ which is very difficult to beat with anything else, including Rust. Ironically, I find it particularly true in the age of A.I. Because the amount of C++ around is so tremendous, that agents are currently pretty good at it if guided properly.",
-          "author": "adev_",
-          "id": 50423726
-        },
-        {
-          "text": "I enjoy writing C++ code. I acknowledge that C++ is a bad language in a lot of ways, but it's a bad language which I know really well, and it fits with how I think about code. And it lets me effortlessly do \"clever\" things with how memory is managed to avoid unnecessary allocations etc. I've already learned most of its idiosyncrasies, handling rvalue references/move semantics, how to go about implementing contracts like iterators and containers, etc. I also like writing Rust, and I like how Rust makes sure I don't make mistakes. I think Rust is a better language in many ways and I think it's the future of low-level programming (and I think it's wild that it took so many decades to get a proper competitor to C++!). But I also like how C++ doesn't care and lets me do whatever I want without acting as a nanny. I would never ever dare to write a publicly exposed web server in C++, but a game? Sure!",
-          "author": "mort96",
-          "id": 50423698
-        },
-        {
-          "text": "I love C++, in the C++11 days I even organized a local C++ User Group at my university, and I've used it for the last 20 years as my main language. I still appreciate its many merits but since a bit more than a year I migrated to Rust and I find it very difficult to look back, except for maintaining my previous C++ projects. Surprisingly, it's not Rust's memory safety features that I miss the most when turning back to C++. It's mostly the absence of algebraic data types and pattern matching, and the split between compile-time and runtime polymorphism, i.e. concepts vs virtual classes, where in Rust you just have traits and use them for everything. On top of that the tooling and the ecosystem are just amazing. There's a proposal for pattern matching sitting there under the committee's desk for some years now. With the mess that the standard committee is going through I really doubt they will be able to ship pattern matching for C++29 or even later. Too little too late. So to answer the question, yes, I still appreciate the merits of C++ but I don't enjoy writing it as much as I have in the past.",
-          "author": "gignico",
-          "id": 50424131
-        },
-        {
-          "text": "I agree that C++11 was a big step. This was around the time I was working on a master's thesis, building a distributed optimization framework based around simulated annealing, using hand-optimized CUDA kernels on Nvidia CPUs. Writing CUDA code became a much nicer experience with C++11, and I didn't hate it. However, it was still a bad choice for all the plumbing, caching, networking, job-management, etc that a useful framework needed, and I started using more and more Python. C++ was frustrating for those bits. Eventually, after some important work on Numba[0], I was able to replace C++ completely, even for the CUDA kernels, and just write a subset of Python. It wasn't without it's (often quite esoteric) problems, but I was happy to throw out the last bits of C++ code. The thesis was praised and had some outside attention, but fizzled out in the years thereafter. 0: https://numba.pydata.org/",
-          "author": "dotdi",
-          "id": 50424293
-        },
-        {
-          "text": "Still loving writing C++ and generally, it got much better over the years. User-Code (vs. library code) is quite easy to understand and it's easy to avoid pitfalls for the most part when using modern practices. Main problem I see is that it has to move pretty slow. Reflection arriving finally now, but some more modern features might take an additional decade. It feels however that around C++23/26, a lot of decade-long developings ( i.e.compile time stuff) are getting close to form a complete system without major limitations for the most part. They also took notes regarding errors and templates, so the user experience also improved a lot (i.e. with concepts).",
-          "author": "bulbar",
-          "id": 50424320
-        },
-        {
-          "text": "Yes I mostly enjoy it, but I don't do anything critical with it and I'm nowhere near expert level. I use the subset of it that makes sense to me. If I were doing something critical I'd want to use Ada, which I've played around with a little bit. I think the lurking question is about Rust. I've read a book about it and it has some attractions but also what I think are some poor decisions. I suppose I'll have to use it for something sometime. C++ is sort of like Perl, it seems to me. A lot of what seems like bloat is actually affordances, so the thing you want is often surprisingly close at hand. Some things of course are awful. I wouldn't call C++ a good language but it does most of the things. Enjoyment doesn't always mean productivity anyway. I enjoy using Forth but that's almost like enjoying riding a unicycle. I wouldn't do anything substantial with Forth except for recreation. I do feel fairly productive in C++.",
-          "author": "throwaway81523",
-          "id": 50423928
-        },
-        {
-          "text": "I think its pretty good, but for vibe-coding i would use rust, because it's much much faster. And for coding small stuff i would choose Python so its like in the middle kinda",
-          "author": "Ikersl",
-          "id": 50520519
-        },
-        {
-          "text": "There is C++ and then there is C++. Totally different things. One I enjoy programming. Another I dread.",
-          "author": "egorfine",
-          "id": 50423729
-        },
-        {
-          "text": "I'd like to put in a \"no\" after spending many years writing C++; my day job is in C# now. The templating system is more powerful than any other language I have significant experience with, but that also lets people write incomprehensible systems. And the compile times always have been really long.",
-          "author": "pjc50",
-          "id": 50423861
-        },
-        {
-          "text": "C++ is nice, after basic, turbo pascal, C, I meet C++ and a whole word opened in front of me. Classes where a good breakthrough for me. Although I never fail in love with templates and friends, oo is a very good way of organisation. I style write open-source app (see my github) in c++, very small bin output, easy cross-platform, I've been very reluctant with STL but now I got used to it, so far so good. Ressent lambda and new threads capabilities is a good thing, well I liked it. Although I use a lot C#, I keep doing some projects with c++. It's fun.",
-          "author": "rebisway",
-          "id": 50496426
-        },
-        {
-          "text": "I only used it for bare-metal embedded and Linux user space where efficiency was important. Some features are nice. Some arrived too late, like std::optional in C++17 [0] or std::expected in C++23 [1], and some features requires too deep knowledge of the language, like std::move unable to optimize for containers of structs without \"noexcept\" in their constructors. [2] But honestly, the reason why I don't enjoy it is unrelated to the features added to each new standard. It's the build system. I just want to cross compile easily, add sanitizers to testing, and the minimal third party libraries I may need. I think I don't have to explain here how complicated it can get when you have to use CMake/Meson/Bazel, compared to other build systems. [0] https://en.cppreference.com/cpp/utility/optional [1] https://en.cppreference.com/cpp/utility/expected [2] https://0xghost.dev/blog/std-move-deep-dive/",
-          "author": "zagal",
-          "id": 50424551
-        },
-        {
-          "text": "Personally, I've never seen anyone write C++ codebases without boost. As you pointed out, the only practical way seems to be to constraint its feature complexity through meta programming. Coming from the embedded C++ world where resources are scarce, C++ and its debugger ecosystem have been really nice. There were usually strong vendor provided SDKs and cross compilation toolchains available. The issues I had with the language were mostly dependencies on vendors, not effectively being able to fix problems in SDKs, and as you also mentioned the footguns. Lots of frustrations came from codestyle, branch conventions and type conventions we tried to encode into templates, which new team members had to learn before they could write any production code. So from a team perspective a lot of productivity came from reproducible build pipelines and setups. Having one team member on Windows and the other on macOS or Linux was as painful as it can get, especially with getting gcc's ecosystem to work properly. So you were also really dependent on Docker cross architecture images. And setting those up just for the sake of compilation was also unnecessary overhead. These days I've migrated towards Go for pretty much all tasks I can think of, mostly for the tight integration with the C ABI ecosystem and tinygo and the easy possibility to cross compile into fat binaries. What I miss though is a \"real IDE\" like the old Visual Studio, or geany or whatever. Most IDEs are not symbol based anymore, which makes them really painful to use in terms of what I expect an IDE to offer to be able to call itself an IDE. But maybe this is just my C++ heart bleeding all over the place because I miss good and typed API documentation examples that I can explore through clicking rather than having to google every function all the time.",
-          "author": "cookiengineer",
-          "id": 50435423
-        },
-        {
-          "text": "I write and review C++ all day every day. The language has left a lot of people behind, and that's for the best. It's a different beast now",
-          "author": "nly",
-          "id": 50433150
-        },
-        {
-          "text": "I use CPP in unreal engine, but, its going to be died, Unreal 6 replaced both CPP and Blueprints with new system",
-          "author": "ethanwinters",
-          "id": 50514396
-        },
-        {
-          "text": "I never enjoyed programming in C++. I feel its (original) syntax and approach to OOP to be obnoxious. I never looked into C++11, though; I hope things improved. The first love was always for C; notwithstanding all its shortcomings, I feel at home writing C, and I would still enjoy doing so.",
-          "author": "adg001",
-          "id": 50424002
-        },
-        {
-          "text": "I like coding in C++ a lot. I think it is great that it can both be a high level language an a low level one. One has control of the bits if one wants that but there are also a lot of goodies to make things happen automatically. I think RAII is the greatest invention in programming ever.",
-          "author": "cjfd",
-          "id": 50423995
-        },
-        {
-          "text": "Yes, on side projects where I get to use concepts or modules, or even ranges. Languages like C++, Scala, Haskell, is where I get the most fun coding, unfortunately the question can be reformulated as \"Do you still enjoy coding?\" , as we get pushed to program into natural languages instead.",
-          "author": "pjmlp",
-          "id": 50423838
-        },
-        {
-          "text": "I really enjoyed writing C++. At least the C++ with for loops, calling functions and the sort. Not so much the c++ of template specifications. I recently saw [1] and the point of C++ building new things with the template mechanics really resonated with me. Features built that way stopped me from using the part of C++ I really liked. However, I stopped writing C++ once I switched to Rust. I assume I would still enjoy writing C++, as long as I can avoid a lot of the templating features. (I might have a different opinion if I worked on different kinds of C++ projects, eg more people, more library oriented, etc.) [1] https://www.youtube.com/watch?v=DZTkT1Cq_aY",
-          "author": "ketzu",
-          "id": 50423819
-        }
-      ]
-    },
-    {
-      "id": 50519116,
-      "title": "Ask HN: What is a better name for Claude Code?",
-      "text": "I’ve done my third walkthrough for non-technical people who have resisted me at first “I don’t write code”. Claude Code is a fantastic tool for all knowledge work but I think the name holds it back from adoption by non-technical users. What’s a good alternative? I’ve been thinking “Claude Computer” is a good one as it implies that Claude is running on your computer. Open to interesting / good suggestions!",
-      "url": "https://news.ycombinator.com/item?id=50519116",
-      "score": 2,
-      "comment_count": 2,
-      "comments": [
-        {
-          "text": "I think the name is fitting. But Anthropic should put more effort in onboarding.Small examples that add value and gives a feeling of succes. \"Build a website for your hobby projekt\"",
-          "author": "xxwink",
-          "id": 50529278
-        },
-        {
-          "text": "I mean, it's the perfect name for it imo and too ingrained to change. For people who are just getting into it, I prefer introducing \"Cowork\" to them before (which is very aptly named) and they try out code enough to naturally shift. My non-technical dad builds websites and small apps on the TUI claude code now because of the same pipeline haha",
-          "author": "kuberwastaken",
-          "id": 50519197
-        }
-      ]
-    },
-    {
-      "id": 50527395,
-      "title": "AI is killing cheap VPS servers/manageable pricing",
-      "text": "So much for buying another OVH based VPS in Singapore/Asia for some of my friends to use when they are 100% out of stock and/or other good hosting providers have doubled their pricing in the last few months.... God, I love AI.... and hate it.... Yet growing my web projects and everything is too pricey right now. My small 4 vCPU, 8GB RAM, and 75GB NVME VPS at $10 is the best I am gonna do unless something changes...",
-      "url": "https://news.ycombinator.com/item?id=50527395",
-      "score": 13,
-      "comment_count": 14,
-      "comments": [
-        {
-          "text": "Cheap used hardware and AI makes self hosting easy now. I bought a ~$250 used Dell SFF PC with 32gb of ram the other week. Had codex install Talos and was up and running within an hour.",
-          "author": "turtlebits",
-          "id": 50527767
-        },
-        {
-          "text": "I bought a few $60 mini PCs with same specs, 4 cpus, 8gb ram and 64gb nvme. I now host my own VPS server",
-          "author": "segmondy",
-          "id": 50535983
-        },
-        {
-          "text": "I recently came across FluxCloud decentralized cloud that basically provides user-operated nodes. Super-cheap infra ($8 for a 8 vCPU and 32GB memory), multi-location, no egress cost. Sounds too good to be true for container apps, sandboxes etc. Seems a bit shady on data security (hosting on someone else's machine, even with their encryption) in these times of AI RevEng. Anyone used them?",
-          "author": "nreece",
-          "id": 50528100
-        },
-        {
-          "text": "Wait wait wait! An E5-1560v3 with 128GB RAM and 2TB SSD is now $140/Month on Server Auctions with Hetzner! Those used to be literally $40 to $60!",
-          "author": "SudoSH",
-          "id": 50527425
-        },
-        {
-          "text": "I noticed that just last week, prices are through the roof and availability is gone. What is the working explanation? AI is making it easer to launch projects and everyone is buying up capacity titling the price price upward?",
-          "author": "MuGlobe",
-          "id": 50532048
-        },
-        {
-          "text": "This is going to be a bit of a problem given AI's impact on scarcity of compute.",
-          "author": "colesantiago",
-          "id": 50527980
-        },
-        {
-          "text": "It means you are not making enough money to cover the cost of hosting it. Toy hobby projects are going to get a lot more expensive to run on VPS servers soon.",
-          "author": "rvz",
-          "id": 50527604
-        },
-        {
-          "text": "Another thing I wanted to add..... NetCup, another host I used a lot of, has basically doubled their pricing this year for even the cheapest plan",
-          "author": "SudoSH",
-          "id": 50527405
-        }
-      ]
-    },
-    {
-      "id": 50497196,
-      "title": "Vercel should fork and maintain Deno",
-      "text": "Given the news of Deno being acquired by Cloudflare and its already stated eventual sunset, someone has to take over deno. Vercel certainly has the resources, I am looking for a job and would love to work on Vercel's deno maintenance (which I suggest should be renamed to \"veno\", or \"vino\") Thoughts on the future of deno post Cloudflare?",
-      "url": "https://news.ycombinator.com/item?id=50497196",
-      "score": 16,
-      "comment_count": 14,
-      "comments": [
-        {
-          "text": "It took nearly $30 million in VC to fund Deno's existence and it got dropped like a rock by Cloudflare so there's probably nothing financially-attractive about the software and no hope of self-sustainability. Vercel taking it over would be a bandaid solution, back to square one as soon as they want to cut expenses or a PE firm makes an offer their investors can't refuse. It probably wouldn't survive this decade there. The Apache Foundation is good for projects like this.",
-          "author": "benoau",
-          "id": 50497736
-        },
-        {
-          "text": "I don’t know much about deno, and have never used it. What is the use case, allure, etc.? I’d prefer to get your thoughts than ask GPT, since you seem to have experience with it.",
-          "author": "talmr",
-          "id": 50498257
-        },
-        {
-          "text": "Why not the Linux Foundation? Vercel will place in platform specific features or that work only on Vercel. It makes no sense for Vercel.",
-          "author": "colesantiago",
-          "id": 50497549
-        },
-        {
-          "text": "i switch is best opption.",
-          "author": "Picslot",
-          "id": 50500104
-        },
-        {
-          "text": "thank you",
-          "author": "fadeclock",
-          "id": 50507564
-        },
-        {
-          "text": "They need a non-profit foundation, not another VC-backed cloud vendor that could drop it just as easily. Big if, but if they set up a foundation and it has enough steam to keep improving it could be a renaissance for Deno being no longer connected to a company that needs to focus on being a temu Vercel so it can be a stable, secure runtime that attract engineers that like typescript but don't want the node/npm quagmire that were, quite reasonably and rightfully in hindsight, turned off by Deno company. Stable funding + a 3.0 with; oxlint and some rough edges with vite and LSP integration and I would be convinced to go back. (@std being bundled would be amazing too)",
-          "author": "DimmieMan",
-          "id": 50512757
-        },
-        {
-          "text": "You want to get paid to do that?",
-          "author": "brazukadev",
-          "id": 50522952
-        },
-        {
-          "text": "what is the point if node.js exists?",
-          "author": "mono442",
-          "id": 50498598
-        },
-        {
-          "text": "Honestly i don't think Deno needs to exist. It is like using Yahoo in the age of Google. The funny part is I didn't even know Deno existed until I saw this post. Then I did some research on it. If builders don't even know you exist what is the point???",
-          "author": "manamaliahmed",
-          "id": 50505512
-        }
-      ]
-    },
-    {
-      "id": 50517416,
-      "title": "Tell HN: Opus 5.5 is no more nerfed",
-      "text": "Last week, a lot of people reported that Opus 5.5 was nerfed [1], right before the release of Fable 5.2. Unfortunately, benchmarks like livenerf [2] didn’t detect it. Now it seems to be back to normal, at least in my experience. Can anyone else confirm? [1] https://news.ycombinator.com/item?id=50422069 [2] https://github.com/ninjahawk/livenerf",
-      "url": "https://news.ycombinator.com/item?id=50517416",
+      "id": 50541430,
+      "title": "Microsoft disabled API permissions seemingly overnight",
+      "text": "As of yesterday, Authorization.RoleAssignments.Write (a53c8130) now shows isEnabled: false on the Power Platform API service principal (8578e004), and Authorization.Write (440ac968) was added around October and seems to be working as a replacement. Tried multiple tenants. Unsure if related to the outages but I can't find any information about this, very unusual, having to hotfix services with zero notice.",
+      "url": "https://news.ycombinator.com/item?id=50541430",
       "score": 4,
       "comment_count": 1,
       "comments": [
         {
-          "text": "They are A/B testing it",
-          "author": "enjoyyourlife",
-          "id": 50517466
+          "text": "Used PP since inception, in Australia. I'm used to zero notice outages, weird bugs that occur on Thursdays after their seemingly Wednesday overnight changes and the fix that seems to wait until US time, automates that look enabled following an outage but they're actually disabled, and back dated communications. Yet despite all that it's still a great platform I love to build on lol...",
+          "author": "cheapcheerful",
+          "id": 50541992
+        }
+      ]
+    },
+    {
+      "id": 50528707,
+      "title": "Ask HN: What was your weirdest or funniest job rejection?",
+      "text": "I will start with mine. After the \"Product Interview\", where we spent 80% of the time discussing a feature from the user’s perspective, I got this feedback: > While your extensive experience with Go, database migrations, and reliability engineering stood out, as well as your strong problem-solving skills in coding exercises, we felt there were gaps in areas critical to this role, such as AI fluency and a deeper focus on production-quality considerations like testing and logging. These areas were key factors in our decision not to move forward. Which I find very funny. What was yours?",
+      "url": "https://news.ycombinator.com/item?id=50528707",
+      "score": 10,
+      "comment_count": 20,
+      "comments": [
+        {
+          "text": "You know when you are an job applying spree and you just apply to all kinds of places, without reading the job descriptions too carefully? In my case, I applied to the same role at the same company, just two weeks apart. This is the start of the email I got from the recruiting person for the second time applying: > Hi Kristian, > Thanks for applying again to the BLANK position with BLANK. > It has only been a couple of weeks since you applied last for this role and unfortunately not much has changed since then. This was a couple of years ago, but I still think about \"not much has changed since you last applied\" from time to time. It was highly embarrassing, yet really funny phrasing for some reason.",
+          "author": "Risse",
+          "id": 50528836
+        },
+        {
+          "text": "I had an interview where I knew I failed within the first 3 minutes, before I even introduced myself. My interviewer (the hiring manager) came on the zoom call and she started to tell me about the process. She seemed smiley and friendly. She proceeds: \"I'll tell you a bit about the role, ask a bit about your background, ask a couple of technical questions, then I'll leave some time at the end for questions and I'll do my breast--er, my best, to answer them.\" Then she turns beet red, very serious vibe, all friendliness evaporates, and fumbles her way through the rest of the interview. Pretty sure there was no saving that one.",
+          "author": "rboyd",
+          "id": 50546989
+        },
+        {
+          "text": "Just funny in hindsight: I had been out of contract work for two years, and desperate I applied to full time employment. I was so out of touch with regular employment rules that when I got hit with the classic ‘where do you see yourself in 5 years?’… I was completely honest. And none of my plans included working at that company. Needless to say, from the eyes of the interviewer I saw that I failed right there and then. And I understood long term employment just isn’t for me anymore. Oh well, another time I did a leetcode interview while titrating my ADHD medication, and it was too high a dosage. The anxiety was so high, as soon as I hit a bug my brain just stopped working and couldn’t solve it.",
+          "author": "sph",
+          "id": 50540291
+        },
+        {
+          "text": "The first and only time I got a dynamic programming problem during a real coding challenge. To my own surprise, I nailed it. I was pretty happy with myself. That was the last of 3 questions which I had all solved with time to spare. Shortly after that I got a swift rejection email saying my coding skills were lacking. That's when it really hit home that interviews are chaotic and unpredictable. You should learn what you can from each one while at the same time you can't take the end results too seriously.",
+          "author": "shahbaby",
+          "id": 50546903
+        },
+        {
+          "text": "Interviewed with a company. Pretty quick. It was just a behavioral round and a technical round with some members from the dev team. Went well, dev team liked me. Recruiter got back that they were wanting to hire me. However a day pr two later, the recruiter gets back to me telling me that a certain executive who missed the first interview really wanted to meet me before an offer is made. They ensured me it was a mostly formality and would be a casual \"get to know you chat\" more than anything. No problem. I join the call for this interview and the guy immediately starts grilling me with technical questions. I was not expecting this at all and stumbled a bit, caught off guard. Afterwards, the guy went on to lightly insult me in a patronizing way before telling me he didn't think I would be a good fit for the role.",
+          "author": "yasnu5",
+          "id": 50530737
+        },
+        {
+          "text": "Getting a job rejection email from a big multinational company a year after I had applied.",
+          "author": "datadrivenangel",
+          "id": 50539568
+        },
+        {
+          "text": "I interviewed for Machine Learning Engineer for a company. There was 4 stage of interviews. 1. Take home assignment (1w) 2. ML Technical Round 3. System Design Technical Round 4. DSA Round For 1, 2, 3 I got positive feedbacks from the team. All the rounds went well. They sent the schedule for 4th round. Then I got ghosted, no replies to any emails, the scheduled was cancelled all of a sudden. Never heard from them again.",
+          "author": "SaM_0777",
+          "id": 50542646
+        },
+        {
+          "text": "I had a first phone interview with a recruiter at Netflix for a job I had applied to randomly and forgot about. They had sent over some packet to look over about the company and some of what I read rubbed me the wrong way, so I did a bit more digging. Did the phone interview and everything was pretty easy and laid back, until they asked me if I had any questions for them. I had thought the interview was over and panicked a bit trying to think of something and blurted out \"I hear you guys like to fire people. Can you tell me about that?\" I have no idea what possessed me to say that but the recruiter seemed offended by the question. I can't remember what the answer was but needless to say, I did not get to move on.",
+          "author": "mrdependable",
+          "id": 50537185
+        },
+        {
+          "text": "I got a \"Your experience and qualifications were carefully reviewed in relation to our current needs, but unfortunately we do not see a fit with any of our available positions at this time\" In the interview, they were talking about how they couldn't find anyone with the any experience in Android dev, because it was the early days of mobile dev and many experienced mobile folks were doing iOS. I was a solid technical fit. It was a screening (aka culture fit) interview. Questions were things like, \"If you were an animal, what animal would you be?\", \"If you had a hundred million dollars, what would you spend it on?\", \"What are you passionate about?\" I answered things like spending the money on charity and being passionate about productivity (at the time I was top 1% on Stack Exchange's Personal Productivity karma). They likely flagged me as a BS-er.",
+          "author": "muzani",
+          "id": 50529335
+        },
+        {
+          "text": "Not an actual rejection, but I applied to a company, and they literally replied after a year saying they're interested. I played their game, set myself a reminder and replied to them after another year that I was not available any more.",
+          "author": "snicky",
+          "id": 50554618
+        },
+        {
+          "text": "Block has had my resume on file for 725 days apparently, but couldn't find a good fit for my qualifications. Now they emailed me to ask permission to hold my data for 30 more days while they find my role.",
+          "author": "skyberrys",
+          "id": 50552054
+        },
+        {
+          "text": "Had a company reject me saying I was overqualified for the role. Applied for a slightly more senior position at the same company a few days later. Got rejected for being underqualified.",
+          "author": "pryanshu89",
+          "id": 50530673
+        },
+        {
+          "text": "I applied to work at Best Buy after college. The only question they asked me was if I had any certifications. I didn't. I was rejected. Apparently a certification, any of them, is better than a 4-year degree and help desk experience at a university supporting students, faculty, and staff.",
+          "author": "al_borland",
+          "id": 50531485
+        },
+        {
+          "text": "The funniest I ever got was, \"We are intentionally avoiding anyone with C# experience\".",
+          "author": "idontwantthis",
+          "id": 50534172
+        },
+        {
+          "text": "\"you've got a lot of hybrid backend and frontend experience, but we're really looking for a full stack developer\" I tried to explain...",
+          "author": "amosj",
+          "id": 50538503
+        }
+      ]
+    },
+    {
+      "id": 50522639,
+      "title": "Ask HN: Are iPhone Duo Customers Happy?",
+      "text": "I'm thinking of getting one. Would love to hear from anyone who owns one and has an opinion.",
+      "url": "https://news.ycombinator.com/item?id=50522639",
+      "score": 17,
+      "comment_count": 18,
+      "comments": [
+        {
+          "text": "Got the opportunity to use a friend's over the weekend. Build quality felt good, the matte display is fantastic IMO, all of my real issues with it were 3rd party software not supporting the display paradigm yet.",
+          "author": "100percentjake",
+          "id": 50526082
+        },
+        {
+          "text": "Had it, returned it. No FaceID sucks for usability, the screen space isn’t well utilized for anything but videos that fit the aspect ratio. Just not worth the compromises over the Pro Max phones.",
+          "author": "alex43578",
+          "id": 50525682
+        },
+        {
+          "text": "A co-worker bought one and returned it. Before he did he let me play with it for a bit. There are a lot of interesting gimmicks. It feels exceptionally polished, but I'm not sure it's where it counts in terms of value. Personally, I was in love, but I just can't justify that price tag. At the end of the day my phone is just a phone. I have a MbP for everything else. I'd be really interested to hear the perspective from the opposite of most of the crowd I think you'll find here (working tech professionals) who don't really use a computer unless they must.",
+          "author": "CSSer",
+          "id": 50535166
+        },
+        {
+          "text": "Every single one I've met has been enthusiastic about it. Apple also has a generous return policy (14 days IIRC).",
+          "author": "bigwheels",
+          "id": 50523980
+        },
+        {
+          "text": "I think so",
+          "author": "Theophane_Rame",
+          "id": 50528807
+        },
+        {
+          "text": "Nah I just think its over hype I'd advice you get the S26 ult instead",
+          "author": "AlissonBland",
+          "id": 50525412
+        }
+      ]
+    },
+    {
+      "id": 50526822,
+      "title": "Ask HN: Are the more software malfunctions now than before?",
+      "text": "I have the feeling (reading HN every day for the past 15 years) that the amount of major software malfunctions has increased drastically over the last year, maybe two. I remember that back in 2016-17 big failure events (cloud outages, critical infrastructure issues etc) were special discussion topics. Today they feel more like a routine event. If you also believe it's the case, what could be the reason? Cultural shift towards software? Global load increase? AI slop?",
+      "url": "https://news.ycombinator.com/item?id=50526822",
+      "score": 11,
+      "comment_count": 6,
+      "comments": [
+        {
+          "text": "Dependency between products has increased a lot. I've been maintaining web applications since the early 2000s, back then if your server was ok, your site was ok, period. Now if any of {AWS, github CI, cloudflare, google cloud, claude, microsoft, a dozen auth providers, etc} is down, your application is surely going down.",
+          "author": "chatziko",
+          "id": 50536558
+        },
+        {
+          "text": "difficult to measure this. 1. dependency on products increased 2. products became complex 3. complex products are maintained by few people because of economy, hence proper safeguards are not being put in place (either on-time or at all) 4. LLMs enabled us to find more issues in our products, hence more patches are coming, but since business is not going to wait for proper fix, some companies are adding \"temporary\" fixes (forever) and many more reasons/causes, but has it increased, maybe, maybe not, maybe it was always buggy we just didn't feel it, because maybe airports weren't heavily relying on a single communication channel and so on",
+          "author": "throwaw12",
+          "id": 50529034
+        },
+        {
+          "text": "We don't actually apply the principles of Engineering[0] when we build things that turn out to be critical to the stability of civilization. We have millions of people calling themselves engineers who just aren't. We've normalized ignoring this. I mean, who in their right mind routes safety critical notifications through email?[1] Email is a best effort system, not a reliable one. Even this non-engineer understands that difference. Also, our operating systems are unfit for purpose. See also, any of the dozens, maybe hundreds of rants I've spewed about this previously.[2] [0] https://www.in.gov/doe/files/cf-eng-principles-engineering-3... [1] https://news.ycombinator.com/item?id=50509411 [2] https://hn.algolia.com/?dateRange=all&page=0&prefix=false&qu...",
+          "author": "mikewarot",
+          "id": 50529958
+        },
+        {
+          "text": "A combination of AI slop, LLMs multiplying the rate of bad actors’ ability to discover security defects, and in some cases failure to invest in or put even borderline-competent people in charge of key systems.",
+          "author": "apothegm",
+          "id": 50530481
         }
       ]
     }
