@@ -1,6 +1,6 @@
 {
-  "analyzed_at": "2026-11-19T02:23:23.870089+00:00",
-  "total_posts": 18,
+  "analyzed_at": "2026-11-20T02:24:54.078294+00:00",
+  "total_posts": 20,
   "opportunities": [],
   "all_results": [
     {
@@ -21,8 +21,22 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Microsoft disabled API permissions seemingly overnight",
-      "url": "https://news.ycombinator.com/item?id=50541430",
+      "title": "Ask HN: How do you manage the curse of rabbit hole?",
+      "url": "https://news.ycombinator.com/item?id=50558285",
+      "score": 12,
+      "signals": {
+        "problem": [
+          "struggle"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: When was the last time you thought \"that's bad API design\"?",
+      "url": "https://news.ycombinator.com/item?id=50560915",
       "score": 12,
       "signals": {
         "problem": [
@@ -35,14 +49,88 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Are the more software malfunctions now than before?",
-      "url": "https://news.ycombinator.com/item?id=50526822",
+      "title": "Rant: Gemini 4 does not make any sense",
+      "url": "https://news.ycombinator.com/item?id=50560575",
+      "score": 12,
+      "signals": {
+        "problem": [
+          "can't"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Where do you see Software in 5 years?",
+      "url": "https://news.ycombinator.com/item?id=50565484",
       "score": 8,
       "signals": {
         "repeat": [
-          "every day"
+          "constantly"
         ]
       },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root",
+      "url": "https://news.ycombinator.com/item?id=50561571",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Anthropic should give stock to Stack Overflow (and OpenAI too)",
+      "url": "https://news.ycombinator.com/item?id=50566487",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "The End of Continuous Rework",
+      "url": "https://news.ycombinator.com/item?id=50564890",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+      "url": "https://news.ycombinator.com/item?id=50520076",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
+      "url": "https://news.ycombinator.com/item?id=50562528",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: When does your app need its own UI vs. using it via MCP?",
+      "url": "https://news.ycombinator.com/item?id=50554686",
+      "score": 0,
+      "signals": {},
       "context_signals": [],
       "excluded": false,
       "potential_opportunity": false,
@@ -59,8 +147,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: When does your app need its own UI vs. using it via MCP?",
-      "url": "https://news.ycombinator.com/item?id=50554686",
+      "title": "Interesting Learnings Working for a Startup",
+      "url": "https://news.ycombinator.com/item?id=50542361",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -89,8 +177,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
-      "url": "https://news.ycombinator.com/item?id=50553802",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -109,8 +197,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-      "url": "https://news.ycombinator.com/item?id=50520076",
+      "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
+      "url": "https://news.ycombinator.com/item?id=50553802",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -119,28 +207,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Interesting Learnings Working for a Startup",
-      "url": "https://news.ycombinator.com/item?id=50542361",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: How do you reach the flow with vibe coding?",
-      "url": "https://news.ycombinator.com/item?id=50548343",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: How do you use AI to get more relevant content?",
-      "url": "https://news.ycombinator.com/item?id=50548260",
+      "title": "Why is China treated as threat-actor but not India?",
+      "url": "https://news.ycombinator.com/item?id=50560324",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -151,46 +219,6 @@
     {
       "title": "Codeberg seems to have vanished from DNS",
       "url": "https://news.ycombinator.com/item?id=50542948",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Are We in a Cyberwar?",
-      "url": "https://news.ycombinator.com/item?id=50537206",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What was your weirdest or funniest job rejection?",
-      "url": "https://news.ycombinator.com/item?id=50528707",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Are iPhone Duo Customers Happy?",
-      "url": "https://news.ycombinator.com/item?id=50522639",
       "score": 0,
       "signals": {},
       "context_signals": [],
