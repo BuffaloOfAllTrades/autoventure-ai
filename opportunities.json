@@ -1,18 +1,77 @@
 {
-  "analyzed_at": "2026-11-20T02:24:54.078294+00:00",
-  "total_posts": 20,
+  "analyzed_at": "2026-11-21T02:20:22.500937+00:00",
+  "total_posts": 21,
   "opportunities": [],
   "all_results": [
     {
-      "title": "Claude Gets Hella Paranoid",
-      "url": "https://news.ycombinator.com/item?id=50543947",
-      "score": 18,
+      "title": "This Industrial Revolution Belongs to the Builders",
+      "url": "https://news.ycombinator.com/item?id=50583252",
+      "score": 32,
       "signals": {
-        "solution_search": [
-          "looking for"
+        "problem": [
+          "struggle"
+        ],
+        "payment": [
+          "pay for"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Second Brain and Agent Maintenance Thoughts on AI Usage?",
+      "url": "https://news.ycombinator.com/item?id=50581873",
+      "score": 20,
+      "signals": {
+        "problem": [
+          "struggle"
         ],
         "repeat": [
-          "manually"
+          "constantly"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=50577613",
+      "score": 12,
+      "signals": {
+        "problem": [
+          "can't"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "I have been unemployed for 2y.15YOE,US.What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "score": 12,
+      "signals": {
+        "problem": [
+          "can't"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: What's stopping us from putting agents in general purpose robots?",
+      "url": "https://news.ycombinator.com/item?id=50582662",
+      "score": 12,
+      "signals": {
+        "problem": [
+          "can't"
         ]
       },
       "context_signals": [],
@@ -35,34 +94,6 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: When was the last time you thought \"that's bad API design\"?",
-      "url": "https://news.ycombinator.com/item?id=50560915",
-      "score": 12,
-      "signals": {
-        "problem": [
-          "can't"
-        ]
-      },
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Rant: Gemini 4 does not make any sense",
-      "url": "https://news.ycombinator.com/item?id=50560575",
-      "score": 12,
-      "signals": {
-        "problem": [
-          "can't"
-        ]
-      },
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
       "title": "Ask HN: Where do you see Software in 5 years?",
       "url": "https://news.ycombinator.com/item?id=50565484",
       "score": 8,
@@ -77,8 +108,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root",
-      "url": "https://news.ycombinator.com/item?id=50561571",
+      "title": "Ask HN: Should Uber Ratings Decay over Time?",
+      "url": "https://news.ycombinator.com/item?id=50583294",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -87,18 +118,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Anthropic should give stock to Stack Overflow (and OpenAI too)",
-      "url": "https://news.ycombinator.com/item?id=50566487",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "The End of Continuous Rework",
-      "url": "https://news.ycombinator.com/item?id=50564890",
+      "title": "Ask HN: Any actual balanced reviews of GTA 6?",
+      "url": "https://news.ycombinator.com/item?id=50573839",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -117,8 +138,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
-      "url": "https://news.ycombinator.com/item?id=50562528",
+      "title": "GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root",
+      "url": "https://news.ycombinator.com/item?id=50561571",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -127,28 +148,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: When does your app need its own UI vs. using it via MCP?",
-      "url": "https://news.ycombinator.com/item?id=50554686",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Cheapest CPU Vms",
-      "url": "https://news.ycombinator.com/item?id=50554381",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Interesting Learnings Working for a Startup",
-      "url": "https://news.ycombinator.com/item?id=50542361",
+      "title": "Ask HN: Did books that went viral on HN publish their manuscript?",
+      "url": "https://news.ycombinator.com/item?id=50572342",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -167,12 +168,32 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Tell HN: /tmp is hogging your RAM on Ubuntu 26",
-      "url": "https://news.ycombinator.com/item?id=50554756",
+      "title": "Anthropic should give stock to Stack Overflow (and OpenAI too)",
+      "url": "https://news.ycombinator.com/item?id=50566487",
       "score": 0,
       "signals": {},
       "context_signals": [],
-      "excluded": true,
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Why no AI-led memory vulns in Python?",
+      "url": "https://news.ycombinator.com/item?id=50565386",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "The End of Continuous Rework",
+      "url": "https://news.ycombinator.com/item?id=50564890",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
       "potential_opportunity": false,
       "assessment": "keyword-based lead; not validated demand"
     },
@@ -187,8 +208,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Developing Browser Extensions",
-      "url": "https://news.ycombinator.com/item?id=50551501",
+      "title": "Ask HN: What still makes you proud?",
+      "url": "https://news.ycombinator.com/item?id=50569229",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -197,8 +218,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "I open-sourced an AI loop for RISC-V CPU design months prior to OpenAI",
-      "url": "https://news.ycombinator.com/item?id=50553802",
+      "title": "Ask HN: When does your app need its own UI vs. using it via MCP?",
+      "url": "https://news.ycombinator.com/item?id=50554686",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -207,8 +228,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Why is China treated as threat-actor but not India?",
-      "url": "https://news.ycombinator.com/item?id=50560324",
+      "title": "Interesting Learnings Working for a Startup",
+      "url": "https://news.ycombinator.com/item?id=50542361",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -217,8 +238,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Codeberg seems to have vanished from DNS",
-      "url": "https://news.ycombinator.com/item?id=50542948",
+      "title": "Ask HN: Cheapest CPU Vms",
+      "url": "https://news.ycombinator.com/item?id=50554381",
       "score": 0,
       "signals": {},
       "context_signals": [],
