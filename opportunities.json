@@ -1,25 +1,8 @@
 {
-  "analyzed_at": "2026-11-21T02:20:22.500937+00:00",
+  "analyzed_at": "2026-11-22T02:21:51.844727+00:00",
   "total_posts": 21,
   "opportunities": [],
   "all_results": [
-    {
-      "title": "This Industrial Revolution Belongs to the Builders",
-      "url": "https://news.ycombinator.com/item?id=50583252",
-      "score": 32,
-      "signals": {
-        "problem": [
-          "struggle"
-        ],
-        "payment": [
-          "pay for"
-        ]
-      },
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
     {
       "title": "Second Brain and Agent Maintenance Thoughts on AI Usage?",
       "url": "https://news.ycombinator.com/item?id=50581873",
@@ -38,8 +21,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "url": "https://news.ycombinator.com/item?id=50577613",
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
       "score": 12,
       "signals": {
         "problem": [
@@ -52,8 +35,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "I have been unemployed for 2y.15YOE,US.What to do?",
-      "url": "https://news.ycombinator.com/item?id=50583761",
+      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=50577613",
       "score": 12,
       "signals": {
         "problem": [
@@ -80,20 +63,6 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: How do you manage the curse of rabbit hole?",
-      "url": "https://news.ycombinator.com/item?id=50558285",
-      "score": 12,
-      "signals": {
-        "problem": [
-          "struggle"
-        ]
-      },
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
       "title": "Ask HN: Where do you see Software in 5 years?",
       "url": "https://news.ycombinator.com/item?id=50565484",
       "score": 8,
@@ -108,8 +77,28 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Should Uber Ratings Decay over Time?",
-      "url": "https://news.ycombinator.com/item?id=50583294",
+      "title": "Does anybody read their emails anymore?",
+      "url": "https://news.ycombinator.com/item?id=50591050",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Tell HN: OpenRouter prompts to Minimax may have been read",
+      "url": "https://news.ycombinator.com/item?id=50585962",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": true,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+      "url": "https://news.ycombinator.com/item?id=50520076",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -128,8 +117,18 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-      "url": "https://news.ycombinator.com/item?id=50520076",
+      "title": "Ask HN: Rust, Zig, or C?",
+      "url": "https://news.ycombinator.com/item?id=50586653",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Should Uber Ratings Decay over Time?",
+      "url": "https://news.ycombinator.com/item?id=50583294",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -148,8 +147,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Did books that went viral on HN publish their manuscript?",
-      "url": "https://news.ycombinator.com/item?id=50572342",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -158,8 +157,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-      "url": "https://news.ycombinator.com/item?id=50555002",
+      "title": "Ask HN: What is your current hardware set up?",
+      "url": "https://news.ycombinator.com/item?id=50587796",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -168,8 +167,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Anthropic should give stock to Stack Overflow (and OpenAI too)",
-      "url": "https://news.ycombinator.com/item?id=50566487",
+      "title": "Ask HN: Do you feel developers are more \"grumpy\" these days?",
+      "url": "https://news.ycombinator.com/item?id=50582890",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -188,28 +187,18 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "url": "https://news.ycombinator.com/item?id=50555002",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
       "title": "The End of Continuous Rework",
       "url": "https://news.ycombinator.com/item?id=50564890",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What still makes you proud?",
-      "url": "https://news.ycombinator.com/item?id=50569229",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -238,8 +227,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Cheapest CPU Vms",
-      "url": "https://news.ycombinator.com/item?id=50554381",
+      "title": "Anthropic should give stock to Stack Overflow (and OpenAI too)",
+      "url": "https://news.ycombinator.com/item?id=50566487",
       "score": 0,
       "signals": {},
       "context_signals": [],
