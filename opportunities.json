@@ -1,6 +1,6 @@
 {
-  "analyzed_at": "2026-11-22T02:21:51.844727+00:00",
-  "total_posts": 21,
+  "analyzed_at": "2026-11-23T02:27:06.614809+00:00",
+  "total_posts": 28,
   "opportunities": [],
   "all_results": [
     {
@@ -13,6 +13,37 @@
         ],
         "repeat": [
           "constantly"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Open-Source FPGA The \"startup idea\" to \"go big fast\"",
+      "url": "https://news.ycombinator.com/item?id=50595097",
+      "score": 20,
+      "signals": {
+        "payment": [
+          "bought"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Claude Gets Hella Paranoid",
+      "url": "https://news.ycombinator.com/item?id=50543947",
+      "score": 18,
+      "signals": {
+        "solution_search": [
+          "looking for"
+        ],
+        "repeat": [
+          "manually"
         ]
       },
       "context_signals": [],
@@ -49,6 +80,20 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
+      "title": "Will Solving a legendary math problem with AI be a candidate for a Fields Medal?",
+      "url": "https://news.ycombinator.com/item?id=50602128",
+      "score": 12,
+      "signals": {
+        "problem": [
+          "problem with"
+        ]
+      },
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
       "title": "Ask HN: What's stopping us from putting agents in general purpose robots?",
       "url": "https://news.ycombinator.com/item?id=50582662",
       "score": 12,
@@ -77,8 +122,58 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Does anybody read their emails anymore?",
-      "url": "https://news.ycombinator.com/item?id=50591050",
+      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
+      "url": "https://news.ycombinator.com/item?id=50555002",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Are startups today worth it even in a best case scenario?",
+      "url": "https://news.ycombinator.com/item?id=50602740",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: If you played GTA6 what did you like and didn't like about it?",
+      "url": "https://news.ycombinator.com/item?id=50605262",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Are you clinging to the TUI to feel like a developer?",
+      "url": "https://news.ycombinator.com/item?id=50601706",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Is Anthropic being public better or worse for your org?",
+      "url": "https://news.ycombinator.com/item?id=50597005",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Where the company's employees launch the tools that Claude created",
+      "url": "https://news.ycombinator.com/item?id=50598355",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -97,8 +192,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
-      "url": "https://news.ycombinator.com/item?id=50520076",
+      "title": "Does anybody read their emails anymore?",
+      "url": "https://news.ycombinator.com/item?id=50591050",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -117,8 +212,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Rust, Zig, or C?",
-      "url": "https://news.ycombinator.com/item?id=50586653",
+      "title": "GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root",
+      "url": "https://news.ycombinator.com/item?id=50561571",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -137,46 +232,6 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root",
-      "url": "https://news.ycombinator.com/item?id=50561571",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: What is your current hardware set up?",
-      "url": "https://news.ycombinator.com/item?id=50587796",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Do you feel developers are more \"grumpy\" these days?",
-      "url": "https://news.ycombinator.com/item?id=50582890",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
       "title": "Ask HN: Why no AI-led memory vulns in Python?",
       "url": "https://news.ycombinator.com/item?id=50565386",
       "score": 0,
@@ -187,8 +242,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-      "url": "https://news.ycombinator.com/item?id=50555002",
+      "title": "Ask HN: Are the trades a safe career transition?",
+      "url": "https://news.ycombinator.com/item?id=50600771",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -197,8 +252,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "The End of Continuous Rework",
-      "url": "https://news.ycombinator.com/item?id=50564890",
+      "title": "Ask HN: Rust, Zig, or C?",
+      "url": "https://news.ycombinator.com/item?id=50586653",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -217,8 +272,38 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
+      "title": "The End of Continuous Rework",
+      "url": "https://news.ycombinator.com/item?id=50564890",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
       "title": "Interesting Learnings Working for a Startup",
       "url": "https://news.ycombinator.com/item?id=50542361",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Cheapest CPU Vms",
+      "url": "https://news.ycombinator.com/item?id=50554381",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Do you feel developers are more \"grumpy\" these days?",
+      "url": "https://news.ycombinator.com/item?id=50582890",
       "score": 0,
       "signals": {},
       "context_signals": [],
