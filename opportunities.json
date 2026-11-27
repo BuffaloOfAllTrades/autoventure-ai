@@ -1,36 +1,8 @@
 {
-  "analyzed_at": "2026-11-26T02:27:55.167406+00:00",
+  "analyzed_at": "2026-11-27T02:29:12.088426+00:00",
   "total_posts": 30,
   "opportunities": [],
   "all_results": [
-    {
-      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-      "url": "https://news.ycombinator.com/item?id=50583761",
-      "score": 12,
-      "signals": {
-        "problem": [
-          "can't"
-        ]
-      },
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
-      "url": "https://news.ycombinator.com/item?id=50633601",
-      "score": 12,
-      "signals": {
-        "problem": [
-          "problem with"
-        ]
-      },
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
     {
       "title": "Ask HN: Coworker rejects PR (a month in) because it does not meet his standards",
       "url": "https://news.ycombinator.com/item?id=50622809",
@@ -46,12 +18,12 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
-      "url": "https://news.ycombinator.com/item?id=50577613",
+      "title": "Ask HN: Am I the only one whose AI hype is cooling down a lot?",
+      "url": "https://news.ycombinator.com/item?id=50633601",
       "score": 12,
       "signals": {
         "problem": [
-          "can't"
+          "problem with"
         ]
       },
       "context_signals": [],
@@ -102,6 +74,36 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
+      "title": "Tell HN: Happy Thanksgiving",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": true,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "DietPi released a new version v10.9",
+      "url": "https://news.ycombinator.com/item?id=50658963",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+      "url": "https://news.ycombinator.com/item?id=50656763",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
       "title": "Tell HN: Lots of Ask HNs again",
       "url": "https://news.ycombinator.com/item?id=50649864",
       "score": 0,
@@ -112,8 +114,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Nobel Prizes for OpenAI and Anthropic: When?",
-      "url": "https://news.ycombinator.com/item?id=50647893",
+      "title": "Ask HN: What's Going on with the Minecraft Rust Rewrite? (Horizon)",
+      "url": "https://news.ycombinator.com/item?id=50660522",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -122,8 +124,18 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Shirudo doesn't work, this does",
-      "url": "https://news.ycombinator.com/item?id=50650310",
+      "title": "Ask HN: How do you find meaning of life at 41?",
+      "url": "https://news.ycombinator.com/item?id=50657957",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Where is all the amazing AI-generated software?",
+      "url": "https://news.ycombinator.com/item?id=50643767",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -142,36 +154,6 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Queue Theory: a software engineering tutorial",
-      "url": "https://news.ycombinator.com/item?id=50647851",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: For professional Mathematicians –- about your career in the future",
-      "url": "https://news.ycombinator.com/item?id=50647440",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Where are all the amazing AI-generated software?",
-      "url": "https://news.ycombinator.com/item?id=50643767",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
       "title": "Ask HN: Are the trades a safe career transition?",
       "url": "https://news.ycombinator.com/item?id=50600771",
       "score": 0,
@@ -182,8 +164,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: How to manage \"crown jewel\" files?",
-      "url": "https://news.ycombinator.com/item?id=50646423",
+      "title": "Ask HN: How do you handle corporate life?",
+      "url": "https://news.ycombinator.com/item?id=50653499",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -192,8 +174,28 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Did Aaron Swartz make modern AI possible?",
-      "url": "https://news.ycombinator.com/item?id=50649707",
+      "title": "Ask HN: Security for the Small Developer",
+      "url": "https://news.ycombinator.com/item?id=50650947",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: If I broke prime factorization, who should I tell?",
+      "url": "https://news.ycombinator.com/item?id=50653391",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Shirudo doesn't work, this does",
+      "url": "https://news.ycombinator.com/item?id=50650310",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -212,8 +214,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "The CIA is the latest federal agency hit by a cyber breach",
-      "url": "https://news.ycombinator.com/item?id=50639746",
+      "title": "Ask HN: For professional Mathematicians –- about your career in the future",
+      "url": "https://news.ycombinator.com/item?id=50647440",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -224,6 +226,26 @@
     {
       "title": "Ask HN: Its 2026 and there is still not good Email client for macOS. Why?",
       "url": "https://news.ycombinator.com/item?id=50630985",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: How to manage \"crown jewel\" files?",
+      "url": "https://news.ycombinator.com/item?id=50646423",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Everything will get breached. How do you limit the blast radius?",
+      "url": "https://news.ycombinator.com/item?id=50626772",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -262,12 +284,12 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Everything will get breached. How do you limit the blast radius?",
-      "url": "https://news.ycombinator.com/item?id=50626772",
+      "title": "Tell HN: Claude Opus 4.5 turns one year old today",
+      "url": "https://news.ycombinator.com/item?id=50621878",
       "score": 0,
       "signals": {},
       "context_signals": [],
-      "excluded": false,
+      "excluded": true,
       "potential_opportunity": false,
       "assessment": "keyword-based lead; not validated demand"
     },
@@ -282,18 +304,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Tell HN: Claude Opus 4.5 turns one year old today",
-      "url": "https://news.ycombinator.com/item?id=50621878",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": true,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "What is the likelihood LLMs exploited the learn software to verify their Riemann",
-      "url": "https://news.ycombinator.com/item?id=50617796",
+      "title": "Ask HN: How are tech recruiters assessed on their recruiting skills?",
+      "url": "https://news.ycombinator.com/item?id=50609394",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -304,26 +316,6 @@
     {
       "title": "Are you clinging to the TUI to feel like a developer?",
       "url": "https://news.ycombinator.com/item?id=50601706",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Tell HN: OpenRouter prompts to Minimax may have been read",
-      "url": "https://news.ycombinator.com/item?id=50585962",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": true,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: How are tech recruiters assessed on their recruiting skills?",
-      "url": "https://news.ycombinator.com/item?id=50609394",
       "score": 0,
       "signals": {},
       "context_signals": [],
