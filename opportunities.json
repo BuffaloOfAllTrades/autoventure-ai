@@ -1,5 +1,5 @@
 {
-  "analyzed_at": "2026-11-27T02:29:12.088426+00:00",
+  "analyzed_at": "2026-11-28T02:25:48.365461+00:00",
   "total_posts": 30,
   "opportunities": [],
   "all_results": [
@@ -84,18 +84,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "DietPi released a new version v10.9",
-      "url": "https://news.ycombinator.com/item?id=50658963",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Any courses/products by indie makers worth getting today?",
-      "url": "https://news.ycombinator.com/item?id=50656763",
+      "title": "I was hired by an AI agent",
+      "url": "https://news.ycombinator.com/item?id=50672702",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -114,8 +104,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: What's Going on with the Minecraft Rust Rewrite? (Horizon)",
-      "url": "https://news.ycombinator.com/item?id=50660522",
+      "title": "Ask HN: Users asking to remove their commits under GDPR",
+      "url": "https://news.ycombinator.com/item?id=50672053",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -124,8 +114,18 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: How do you find meaning of life at 41?",
-      "url": "https://news.ycombinator.com/item?id=50657957",
+      "title": "Ask HN: Any courses/products by indie makers worth getting today?",
+      "url": "https://news.ycombinator.com/item?id=50656763",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "DietPi released a new version v10.9",
+      "url": "https://news.ycombinator.com/item?id=50658963",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -154,8 +154,38 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: Are the trades a safe career transition?",
-      "url": "https://news.ycombinator.com/item?id=50600771",
+      "title": "Ask HN: How do you find meaning of life at 41?",
+      "url": "https://news.ycombinator.com/item?id=50657957",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: Would you care for more than 2FA for any of your accounts?",
+      "url": "https://news.ycombinator.com/item?id=50663566",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: What's Going on with the Minecraft Rust Rewrite? (Horizon)",
+      "url": "https://news.ycombinator.com/item?id=50660522",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: How well do you understand what's going on inside RL?",
+      "url": "https://news.ycombinator.com/item?id=50663306",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -174,28 +204,18 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
+      "title": "Ask HN: Why can AI prove Riemann but not solve cust svc problems?",
+      "url": "https://news.ycombinator.com/item?id=50662399",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
       "title": "Ask HN: Security for the Small Developer",
       "url": "https://news.ycombinator.com/item?id=50650947",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: If I broke prime factorization, who should I tell?",
-      "url": "https://news.ycombinator.com/item?id=50653391",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Shirudo doesn't work, this does",
-      "url": "https://news.ycombinator.com/item?id=50650310",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -214,28 +234,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: For professional Mathematicians –- about your career in the future",
-      "url": "https://news.ycombinator.com/item?id=50647440",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
       "title": "Ask HN: Its 2026 and there is still not good Email client for macOS. Why?",
       "url": "https://news.ycombinator.com/item?id=50630985",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": false,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: How to manage \"crown jewel\" files?",
-      "url": "https://news.ycombinator.com/item?id=50646423",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -264,8 +264,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: What Happened to Midjourney?",
-      "url": "https://news.ycombinator.com/item?id=50633280",
+      "title": "Shirudo doesn't work, this does",
+      "url": "https://news.ycombinator.com/item?id=50650310",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -284,18 +284,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Tell HN: Claude Opus 4.5 turns one year old today",
-      "url": "https://news.ycombinator.com/item?id=50621878",
-      "score": 0,
-      "signals": {},
-      "context_signals": [],
-      "excluded": true,
-      "potential_opportunity": false,
-      "assessment": "keyword-based lead; not validated demand"
-    },
-    {
-      "title": "Ask HN: Will Claude be able to solve future maths problems?",
-      "url": "https://news.ycombinator.com/item?id=50635183",
+      "title": "Ask HN: For professional Mathematicians –- about your career in the future",
+      "url": "https://news.ycombinator.com/item?id=50647440",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -304,8 +294,8 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Ask HN: How are tech recruiters assessed on their recruiting skills?",
-      "url": "https://news.ycombinator.com/item?id=50609394",
+      "title": "Ask HN: How to manage \"crown jewel\" files?",
+      "url": "https://news.ycombinator.com/item?id=50646423",
       "score": 0,
       "signals": {},
       "context_signals": [],
@@ -314,8 +304,18 @@
       "assessment": "keyword-based lead; not validated demand"
     },
     {
-      "title": "Are you clinging to the TUI to feel like a developer?",
-      "url": "https://news.ycombinator.com/item?id=50601706",
+      "title": "Ask HN: If I broke prime factorization, who should I tell?",
+      "url": "https://news.ycombinator.com/item?id=50653391",
+      "score": 0,
+      "signals": {},
+      "context_signals": [],
+      "excluded": false,
+      "potential_opportunity": false,
+      "assessment": "keyword-based lead; not validated demand"
+    },
+    {
+      "title": "Ask HN: What Happened to Midjourney?",
+      "url": "https://news.ycombinator.com/item?id=50633280",
       "score": 0,
       "signals": {},
       "context_signals": [],
